@@ -1,0 +1,191 @@
+
+
+
+
+　　　
+中国教育电视台&nbsp;　　　　　　搜狐教育频道　
+
+
+
+
+ 
+　　据中国互联网络信息中心（CNNIC）日前透露，到2005年4月底我国上网用户已经突破1亿，达到1.002亿人。目前，中国网民数仅次于美国居世界第二位。时至今日，互联网已经如此广泛地影响着中国人的生活：今天，每13个中国人就有一个与它亲密接触，网络不再仅仅是一种工具，它正在成为影响我们的生活中的重要砝码，影响着我们的生活、事业、爱情的各个方面。那么网络到底正在如何改变了我们的生活呢？中国教育电视台新闻中心《国视资讯》栏目7月4日起，将隆重推出六期头条调查的系列节目：网络改变生活。我们的调查将与《国视资讯》栏目联动，收看并上网填写调查表，也许您的意见和建议将出现在节目中。
+　　网络给我以自由
+　　主题一：网络改变人们的生活态度：当网络普及以前，成为一个自由职业者似乎是距离遥远的事情，但随着网络成为一种普及的工具，在家工作，为自己工作的soho生活状态就成为很年轻人的选择。无眉这个id在网络上颇有名气，现实中的她选择了soho这种生活方式，她是如何soho着生活的？
+
+
+
+
+
+
+小调查－如何看待网络？
+
+1、网络对你的生活有影响么？
+
+有
+
+没有
+
+无所谓  
+
+2、如果现在忽然没有了网络，你的生活将会有什么改变？
+
+没改变
+
+影响很大  
+
+      
+
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }
+
+　　主题二：网络改变人们的就业方式：开个网店做老板。淘宝、阿里巴巴等网站的商业模式的成熟发展，使得网上店铺的开设成为一件简单容易的事情。开一家网店成为很多人实现自己的商业理想第一步。银子记就是这样一家网上小店，她的主人李颖是一个非常喜欢银饰的北京女孩儿。在她最初建立自己的网店的时候是抱着好玩的态度，而在她的网店开设了不到一年以后，现在她已经准备辞掉工作，专心经营，把自己的这家小店开成实体店，实现自己的商业理想。　
+
+
+
+
+
+小调查－开个网店做老板
+
+1、你有过网络购物经验吗？
+
+知道
+
+不知道  
+
+2、你有过经营网络商店的想法吗？
+
+曾经想过
+
+没这方面打算  
+
+      
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }
+
+
+
+
+　　主题三：网络游戏塑造了中国游戏产业界的面貌，也改变着许多热爱网络游戏的人的命运。刘晋生曾经是一个非常热爱打游戏的少年，但是现在他却是北京一家游戏网络公司的媒体专员，而这家公司生产的游戏就曾经是他的最爱。他是如何从一个游戏玩家成为游戏产业的从业者呢？　
+
+
+
+
+
+小调查－从一个游戏玩家成为游戏产业的从业者
+
+1、你对 “网络游戏”的感情如何？
+
+是的，经常玩
+
+偶尔玩玩
+
+从不玩  
+
+2、如果给你一个机会，你是否会把对网络游戏的热爱，转会为自己的事业？
+
+一定会
+
+不会
+
+或许会吧  
+
+      
+
+
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }
+
+　　主题四：网络爱情改变人们的婚恋观。网络，可以让两个生活中原本毫无交集的人成为朋友，甚至走向婚姻的殿堂。一对在网上结识的恋人，和现实生活中的恋人有什么不同么？他们的恋爱能得到家人的支持么？
+
+
+
+
+
+
+小调查－网恋现象
+
+1、对于来自网络的爱情你能够接受吗？
+
+可以
+
+不可以
+
+看情况而定  
+
+2、你有过网恋经历么？
+
+有
+
+没有  
+
+      
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }
+
+
+
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }
+
+　　主题五：网络资源的自由支配和网络图书馆的应用，给予诸多科研人员、高校学生非常多的便利。网络图书馆越来越成为他们进行研究无法或缺的工具。网络图书的发展也在其中扮演着日益重要的角色。来自北京大学的杜世强，讲述网络在他的工作学习中不可或缺的感受！　
+
+
+
+
+
+小调查－网络学习感受
+
+1、你知道什么是网络图书馆？
+
+知道
+
+不知道  
+
+2、你是否利用网络来搜集资料，为你的工作服务？
+
+经常用
+
+没用过
+
+偶尔  
+
+      
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }
+
+　
+
+
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }
+
+　　主题六：声音收集。来自各方面的声音，网络改变了你的生活吗？你如何看待网络生活？也许网络给你造成了伤害？ 也许网络给你带了方便？看看人们是怎么看待网络的？　　
+
+
+
+
+
+小调查－如何看待网络？
+
+1、网络对你的生活有影响么？
+
+有
+
+没有
+
+无所谓  
+
+2、如果现在忽然没有了网络，你的生活将会有什么改变？
+
+没改变
+
+影响很大  
+
+      
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }
+
+
+
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }
+
+　　本次调查活动，由中国教育电视台网站发起，联合搜狐教育、tom新闻中心、网易教育、腾讯教育、中华网、新浪教育以及天涯论坛共同完成。在此感谢广大网友的配合，并请关注我们在中国教育电视台一套每晚9点的《国视资讯》之头条调查的连续报道。　　
+搜狗(www.sogou.com)搜索:“生活方式”,共找到
+
+25,721,466
+
+
+个相关网页.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

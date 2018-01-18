@@ -1,0 +1,95 @@
+  
+
+  
+
+      
+        
+          
+            
+            
+            
+            
+            
+              
+              
+                
+                  
+                  
+                    function processForm(form){var xf=0;if (form.c1[1].checked==1) xf+=1;if (form.c1[2].checked==1) xf+=2;if (form.c2[1].checked==1) xf+=1;if (form.c2[2].checked==1) xf+=2;if (form.c3[1].checked==1) xf+=1;if (form.c3[2].checked==1) xf+=2;if (form.c4[1].checked==1) xf+=1;if (form.c4[2].checked==1) xf+=2;if (form.c5[1].checked==1) xf+=1;if (form.c5[2].checked==1) xf+=2;if (form.c6[1].checked==1) xf+=1;if (form.c6[2].checked==1) xf+=2;if (form.c7[1].checked==1) xf+=1;if (form.c7[2].checked==1) xf+=2;if (form.c8[1].checked==1) xf+=1;if (form.c8[2].checked==1) xf+=2;if (form.c9[1].checked==1) xf+=1;if (form.c9[2].checked==1) xf+=2;if (form.c10[1].checked==1) xf+=1;if (form.c10[2].checked==1) xf+=2;if (form.c11[1].checked==1) xf+=1;if (form.c11[2].checked==1) xf+=2;if (form.c12[1].checked==1) xf+=1;if (form.c12[2].checked==1) xf+=2;if (form.c13[1].checked==1) xf+=1;if (form.c13[2].checked==1) xf+=2;if (form.c14[1].checked==1) xf+=1;if (form.c14[2].checked==1) xf+=2;if (form.c15[1].checked==1) xf+=1;if (form.c15[2].checked==1) xf+=2;if (form.c16[1].checked==1) xf+=1;if (form.c16[2].checked==1) xf+=2;if (form.c17[1].checked==1) xf+=1;if (form.c17[2].checked==1) xf+=2;if (form.c18[1].checked==1) xf+=1;if (form.c18[2].checked==1) xf+=2;if (form.c19[1].checked==1) xf+=1;if (form.c19[2].checked==1) xf+=2;if (form.c20[1].checked==1) xf+=1;if (form.c20[2].checked==1) xf+=2;if (xf>21) form.answer.value="你的EQ能力较差，情绪起伏常在你左右，应当注意时刻培养这方面的能力。";if (xf>7 && xf0 && xf
+                  
+                  
+              
+                
+                  
+                  自评EQ 
+                  EQ高的人，在自信心、人际关系、工作表现、婚姻生活上，都有比较令人满意的成就，请自评EQ的能力！
+                  
+                  
+                  1、表情不开朗，很少展现笑容？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  2、不了解自己在生气、高兴、伤心、或是忌妒什么？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  3、说不出自己生气、高兴、伤心、或忌妒的话或事？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  4、表达情绪的方式通常是骂人，忍耐或委曲？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  5、情绪起伏很大，不易了解？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  6、在意别人对自己的看法，生活较紧张，无法轻松自在？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  7、一次想作很多事，因此显得不专心？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  8、做事的态度脱拉，慢吞吞及被动？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  9、对于自己的事，不能主动及负责任地完成？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  10、被问及问题时常会用不知道、随便、不说话或是顾左右而言他？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  11、对学校及家庭既定的规则不遵守？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  12、对于已约好的事，无法守信用的完成，或会草率完成？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  13、对自己要求很高，达不到标准时会哭、闹、生气？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  14、对自己期待低，觉得反正自己作不到就干脆放弃？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  15、担心自己的意见不好而附和同伴的意见？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  16、等待一下的能力很低（即是作什么事都很急，耐不住性子）？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  17、与人合作时，如果别人不同意己见就要骂人，或者是逃避？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  18、担心犯错，而不敢担任新的职务？&nbsp; 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  19、与同伴意见不同时，采取退让，委曲，对别人生气等方式来解决？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  20、担心自己不会就放弃参加，或说活动无聊、低级、不愿尝试新事物或经验？ 从不。　　  偶尔。　　  
+                  经常。
+                  
+                  
+                    
+                   
+                  　　  
+                   
+                  
+              
+    

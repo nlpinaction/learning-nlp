@@ -1,0 +1,27 @@
+
+&nbsp;
+　　table tennis 乒乓球
+　　serve 发球
+　　return 回球
+　　umpire 裁判
+　　net 球网
+　　net ball 落网球
+　　let ball 擦网球
+　　fault 失误
+　　deuce 平分
+　　advantage 优势分
+　　forehand 正手
+　　backhand 反手
+　　rally 连续对打
+　　singles 单打
+　　doubles 双打
+　　mixed doubles 混双
+　　english 旋球
+　　pen-hold grip 直拍握法
+　　hand-and-shake grip 横拍握法
+　　paddle 球拍
+　　chop 削球
+　　push 推球
+　　drive 抽杀
+　　smash 扣球
+　　

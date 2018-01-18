@@ -1,0 +1,42 @@
+　　在北京、上海、广州等大城市生活着这样一群年轻人，他们来自中、小城镇，却没有所在地户口，一般受过高中（中专、职业高中）以上教育，大部分有专科以上学历，收入不高，却依然坚守在大城市。他们被称为“普通城市流动知青”。
+
+
+
+
+你怎么看待“普通城市流动知青”？
+
+1、你认为流动知青群体产生的最重要原因是：
+
+社会流动加剧
+
+大学生分配制度取消及大学扩招
+
+个人自由选择空间增大
+
+国人思想观念的开放  
+
+2、你认为流动知青的社会地位如何？
+
+现在不高，但肯定会越来越好
+
+这个群体很难成为社会主流
+
+比上不足，比下有余
+
+无法作整体估计，每个人的未来不一样  
+
+3、你是否愿意为改变自己的生活状况而成为流动知青？
+
+很羡慕，有机会愿意尝试
+
+佩服他们的拼搏精神，但不会加入
+
+不值得，不如在家过安稳的生活
+
+不愿意，但别无选择  
+
+     
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }
+
+&nbsp;&nbsp; 本次调查由中国青年报委托搜狐文化频道进行，调查结果将登载在4月6日的中国青年报上。
+多谢各位网友的投票！

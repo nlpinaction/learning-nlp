@@ -1,0 +1,120 @@
+
+
+
+
+染、烫发小调查
+
+1、您的年龄
+
+20—30　　 30—40　　 40—50　　 
+50以上
+
+&nbsp;  
+
+2、您的性别
+
+ 女　　  男
+
+&nbsp;  
+
+3、您一年中会染几次发
+
+1次　　 2次　　 3次　　 4次
+
+5次　　 6次　　 7次以上
+
+&nbsp;  
+
+4、您一般选择去美发店染发还是去商场购买染发产品亲自打理
+
+去美发店　　 自己动手
+
+&nbsp;  
+
+5、自己动手染发，你可以做到以下哪点（可多选）
+
+上色均匀　　 不沾到头皮　　 不沾到面部
+
+上色后不易褪色　　
+
+&nbsp;  
+
+6、您选择染发产品时，比较看中产品的（可多选）
+
+品牌　　 颜色　　 护发指数
+
+健康指数
+
+&nbsp;  
+
+7、对于染发会致癌的说法您怎么看
+
+很重视　　 无所谓　　 知道，但是该染还染
+
+&nbsp;  
+
+8、染发产品在头发上的滞留时间您一般选择
+
+ 5分钟　　 10分钟
+
+15分钟　　 20分钟以上
+
+&nbsp;  
+
+9、去美发店染发时你会要求索看染发剂的合格证明吗？
+
+会要求看　　 不看
+
+不知道这个证明
+
+&nbsp;  
+
+
+10、染发一段时间后，发根部滋长出的新发你如何打理？
+
+再次染发　　 顺其自然
+
+&nbsp;  
+
+11、你知道染发剂中何种成分让头发变颜色吗？
+
+知道　　 不知道
+
+&nbsp;  
+
+12、你知道染发剂中让头发变颜色的成分对人体健康的影响是什么吗？
+
+知道　　 不知道
+
+&nbsp;  
+
+13、您染发的动机是什么？（可多选）
+
+为了漂亮，提升人际印象分
+
+想让生活做一些新的改变
+
+从众，大家都在染发
+
+发质不好，染了有遮盖效果
+
+染发几乎是一种自动化的需要，不染会觉得别扭
+
+终于有一件事情可以自己来决定和控制了
+
+&nbsp;  
+
+14、如果让您以后停止染发，您会怎样？
+
+感觉焦虑，老不染发，发色会不均匀，影响美观
+
+感觉难受，让我戒掉染发的瘾，太难了
+
+无所谓，那就让头发慢慢变黑吧
+
+感觉有点遗憾，黑发总会显得单调啊
+
+相当接受，头发终于可以回复自然和营养了  
+
+     
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }

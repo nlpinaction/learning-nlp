@@ -1,0 +1,170 @@
+function processForm(form){var xf=0;hc=new Array(20);var roll_call=hc.length;for (i=roll_call;i>0;i--){hc[i-1]=0};if (form.c1[0].checked==1) hc[0]=1;if (form.c2[0].checked==1) hc[1]=1;if (form.c3[0].checked==1) hc[2]=1;if (form.c4[0].checked==1) hc[3]=1;if (form.c5[0].checked==1) hc[4]=1;if (form.c6[0].checked==1) hc[5]=1;if (form.c7[0].checked==1) hc[6]=1;if (form.c8[1].checked==1) hc[7]=1;if (form.c9[1].checked==1) hc[8]=1;if (form.c10[1].checked==1) hc[9]=1;if (form.c11[1].checked==1) hc[10]=1;if (form.c12[1].checked==1) hc[11]=1;if (form.c13[1].checked==1) hc[12]=1;if (form.c14[1].checked==1) hc[13]=1;if (form.c15[1].checked==1) hc[14]=1;if (form.c16[1].checked==1) hc[15]=1;if (form.c17[0].checked==1) hc[16]=1;if (form.c18[0].checked==1) hc[17]=1;if (form.c19[1].checked==1) hc[18]=1;if (form.c20[0].checked==1) hc[19]=1;for (i=roll_call;i>0;i--){xf+=hc[i-1]};	form.answer.value="你的得分为"+xf+"分";}
+
+
+
+
+  
+      
+      
+        
+        
+          
+            
+            
+            
+            
+            
+              
+              
+                
+                   
+                                  你是个有领导能力的人吗
+                                  
+                          你是一个领导者，或是一个跟随者？
+                                
+                  
+                          1、别人拜托你帮忙，你很少拒绝吗？ 
+                            
+                            是。　 
+                            
+                            否。
+                        
+                         
+                          2、为了避免与人发生争执，即使你是对的，你也不愿发表意见吗？ 
+                            
+                            是。&nbsp; 
+                            
+                            否。 
+                        
+                         
+                          3、你遵守一般的法规吗？　 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。
+                        
+                         
+                          4、你经常向别人说抱歉吗？ 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。
+                        
+                         
+                          5、如果有人笑你身上的衣服，你会再穿它一遍吗？ 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。
+                        
+                         
+                          6、你永远走在时髦的前列吗？　 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。
+                        
+                         
+                          7、你曾经穿那种好看却不舒服的衣服吗？　 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。
+                        
+                         
+                          8、开车或坐车时，你曾经咒骂别的驾驶者吗？ 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。
+                        
+                         
+                          9、你对反应较慢的人没有耐心吗？　 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。 
+                        
+                         
+                          10、你经常对人发誓吗？　　 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。
+                        
+                         
+                          11、你经常让对方觉得不如你或比你差劲吗？　　　 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。
+                        
+                         
+                          12、你曾经大力批评电视上的言论吗？　 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。
+                        
+                         
+                          13、如果请的工人没有做好，你会反应吗？　 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。
+                        
+                         
+                          14、惯于坦白自己的想法，而不考虑后果吗？　 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。
+                        
+                         
+                          15、你是个不轻易忍受别人的人吗？　　 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。
+                        
+                         
+                          16、与人争论时，你总爱争赢吗？　　 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。
+                        
+                         
+                          17、你总是让别人替你做重要的事吗？　　 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。
+                        
+                         
+                          18、你喜欢将钱投资在财富上，而胜过于个人成长吗？　　 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。
+                        
+                         
+                          19、你故意在穿着上吸引他人的注意吗？　　 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。
+                        
+                         
+                          20、你不喜欢标新立异吗？　　 
+                            
+                            是。&nbsp;&nbsp; 
+                            
+                            否。
+                        
+                  
+                   
+                   
+            
+             
+          

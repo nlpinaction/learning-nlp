@@ -1,0 +1,26 @@
+
+　　CNET科技资讯网5月8日国际报道 Sun公司计划更改其授权，让Java Runtime Environment更容易执行在Linux上。
+　　Sun高层在4日的记者会中表示，该公司将在本月稍后的JavaOne会议上宣布这项变更，和至少另一项开放源代码行动。
+　　该公司Java平台集团副总Laurie 
+Tolson表示，Sun将修改Java授权的条件，更嘉惠开放源代码操作系统，特别是Linux和OpenSolaris。
+　　变更将影响执行Java应用程序所必须的Java Runtime Environment（JRE）。JRE通常未包含在操作系统内，需要另行下载。
+　　她说：“我们的用意是让发行者和开发员熟用（Java）runtime搭配其操作系统。”服务取向架构与整合平台营销副总Joe 
+Keller称这项改变为“JRE备妥”（JRE already included）。
+　　外界早已多次呼吁Sun提供开放源代码Java，支持者认为，此举可促进更创新的开放源代码软件开发。
+　　该公司拒绝正式开放所有Java软件的源代码，但已大幅改变Java相关的开发程序，并修改授权条件，让开发员更容易看到Java源代码。
+　　Sun的Java开发与平台工程资深副总Jeff Jackson表示，公司可能会在JavaOne 2006开放部分Java Enterprise 
+System源代码。
+　　去年，该公司曾透露最终将免费提供这套服务器软件，Jackson说，目前公司正在“检查每个部位”。
+　　另一项可能在5月中宣布的行动，将涵盖Java Platform和Enterprise Edition 
+5。高层表示，Sun计划在JavaOne推出Java EE5的软件开发工具组。
+　　Java EE5是这项服务器软件标准上周才通过的最新一次升级，作用是简化Java服务器应用程序的编写。
+　　Java 
+EE5的制作，是通过Sun与甲骨文共同领导的委员会，反映出Sun有意仿效开放源代码的开发过程。Keller说：“这整个开发计划，我们完全与（Java开发人员）社区合作。”
+　　Sun另一项与源代码分享相关的计划，是在去年JavaOne宣布的GlassFish。该计划的目标是开发一种根据Java EE 
+5标准的Java应用服务器软件。该标准采开放源代码授权。
+　　BEA 
+Systems、甲骨文、JBoss和SAP的代表4日均表示，他们的公司也正根据新标准构建Java服务器软件，相关产品预定今年和明年推出。
+　　根据Java EE5的软件将支持Enterprise Java Beans 
+3.0标准，也就是可简化从Java程序存取信息和编写执行系统的程序。
+　　Java EE 5的改变也加速了网络开发并催生更多网络服务。Sun高层指出，根据Java EE 
+5的软件将包含使用AJAX网络开发技术建立网络应用程序的预建元件。

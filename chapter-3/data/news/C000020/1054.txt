@@ -1,0 +1,74 @@
+
+　　（1）转译：英语中常用介词来表达动作意义。汉译时，可将介词转译成动词。
+　　①在作表语的介词短语中，介词常转译为动词，而连系动词则省略不译。如：This machine is out of 
+repair．这台机器失修了。
+　　②在作目的或原因状语的介词短语中，介词有时转译成动词。如：
+　　The plane crushed out of control．这架飞机失去控制而坠毁。
+　　The letter E is commonly used for electromotive force．通常用E这个字母表示电动势。
+　　③在作条件、方式或方法状语的介词短语中，介词有时转译成动词。如：
+　　But even the larger molecules with several hundred atoms are too small to 
+be seen with the best　optical 
+microscope．但是，即使有几百个原子的分子也是太小了，用最好的光学显微镜也看不见它们。
+　　④介词短语作补足语时，其中介词常转译成动词。如：
+　　Heat sets these particles in random motion．热量使这些粒子作随机运动。
+　　（2）增译：增词不是无中生有，而是要根据上下文特别是与介词搭配的动词或形容词的含义加得恰当。有不少情况，句中与介词搭配的动词或形容词不出现，如照原文结构无法把意思表达清楚，甚至易于误解时，这就需要增词。
+　　如：That's all there is to it.那就是与此有关的全部内容。（原句中 to=related to）
+　　The engineer was taken ill with consumption． It was flour on the lungs， the 
+doctor told him at the time．这个工程师得了肺一病、那是由于面粉对肺部的影响，当时医生这样对他说的。（on=effect）
+　　因此，熟悉介词与动词或形容词的习惯搭配是增词并正确理解词义的一种重要手段。
+　　（3）分译：介词短语作定语时，往往是定语从句的一种简略形式。介词短语作状语时，有时是状语从句的简略形式。有些介词短语还是并列句的简略形式。因此汉译时，有的可以拆句分译。
+　　①译成并列分句。
+　　The porous wall acts as a kind of seine for separating 
+molecules．多孔壁的作用就像一把筛子，它把不同质量的分子分开。
+　　②译成让步分句。
+　　With all its disadvantages this design is considered to be one of the 
+best．这个设计尽管有种种缺点，仍被认为最佳设计之一。
+　　③译成真实或虚拟条件分句。
+　　Mans warm blood makes it difficult for him to live long in the sea without 
+some kind warmth．人的血液是热的，如果得不到一定的热量，人就难以长期在海水中生活。
+　　④译成原因分句。
+　　We cannot see it clearly for the fog．由于有雾，我们看不清它。
+　　The machine is working none the worse for its long service.
+　　这部机器并不因使用的时间长而性能变差了。
+　　⑤译成目的分句。
+　　This body of knowledge is customarily divided for convenience of study into 
+the classifications: mechanics, heat, light, electricity and 
+sound.为了便于研究，通常将这门学科分为力学、热学、光学、电学和声学。
+　　（4）不译：不译或省略翻译是在确切表达原文内容的前提下使译文简练，合乎汉语规范，决不是任意省略某些介词。
+　　①表示时间或地点的英语介词，译成汉语如出现在句首，大都不译。如：
+　　There are four seasons in a year. 一年有四季。
+　　Many water power stations have been built in the country．我国已建成许多水电站。
+　　②有些介词如for（为了），from（从……），to（对……），on（在……时）等，可以不译。如：The barometer is a good 
+instrument for measuring air pressure．气压计是测量气压的好仪器。
+　　The air was removed from between the two pipes．两根管子之间的空气已经抽出。
+　　Answers to questions 2 and 3 may be obtained in the 
+laboratory．问题2和3的答案可以在实验室里得到。
+　　Most substances expand on heating and contract on cooling．
+　　大多数物质热胀冷缩。
+　　③表示与主语有关的某一方面、范围或内容的介词有时不译，可把介词的宾语译成汉语主语。如：
+　　Something has gone wrong with the engine．这台发动机出了毛病。
+　　Gold is similar in color to brass金子的颜色和黄铜相似。
+　　Its never occurred to me that bats are really guided by their 
+ears．我从未想到蝙蝠居然是靠耳朵引路的。
+　　④不少of介词短语在句中作定语。其中of（……的）往往不译。如：
+　　The change of electrical energy into mechanical energy is done in 
+motors．电能变为机械能是通过电动机实现的。 （of短语和change在逻辑上有主谓关系，可译成立谓结构。）
+　　Some of the properties of cathode rays listed 
+below．现将阴极射线的一些特性开列如下。（第一个of短语和some在逻辑上有部分关系，Of不译出。）
+　　（5）反译：在不少情况下，有的介词短语如不从反面着笔，译文就不通，这时必须反译。如：
+　　①beyond, past，against等表示超过某限度的能力或反对....时，其短语有时用反译法。如：
+　　It is post repair．这东西无法修补了。
+　　There are some arguments against the possibility of life on this 
+planet．有些观点不同意这行星上可能有生物。
+　　Radio telescopes have been able to probe space beyond the range of ordinary 
+optical telescopes．射电望远镜已能探测普通光学望远镜达不到的宇宙空间。
+　　②off, from等表示地点，距离时，有时有反译法。如：
+　　The boat sank off the coast.这只船在离海岸不远处沉没了。
+　　③but，except，besides等表示除去、除外时，有时用反译法。
+　　Copper is the best conductor but silver．铜是仅次于银的最优导体。
+　　④from，in等介词短语作补足语时，有时用反译法。如：
+　　An iron case will keep the Earths magnetic field away from the 
+compass．铁箱能使地球磁场不受指南针的影响。
+　　The signal was shown about the machine being order.信号表明机器设有毛病。
+　　‘一个词脱离上下文是不能翻译的’（索伯列夫），没有上下文就没有词义。介词的翻译须根据上下文和词的搭配灵活处理，切忌作对号入座的机械翻译。
+　　（来源：英语点津）

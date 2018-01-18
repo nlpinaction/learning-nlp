@@ -1,0 +1,86 @@
+&nbsp;第一页 
+　
+　　一、科技术语的汉译
+　　术语是表示某一专门概念的词语，科技术语就是在科技方面表示某一专门概念的词语。因此翻译时要十分注意，不能疏忽。英语科技术语的特点是词义繁多，专业性强，翻译时必须根据专业内容谨慎处理，稍不注意就会造成很大的错误。如有的人把the 
+newly developed picture tub(最新研制成功的显像管)错译为“新近被发展了画面管”；又有人把“a unique 
+instant-picture 
+system”(独特的瞬时显像装置)错译为“独快的图像系统”等等。再以"cassette"这个术语为例，它除了其他方面的意思之外，在录音磁带方面也还有两个意思：一为“装填式磁带盒”，一为“盒式磁带”。究竟应译为那个意思，要从上下文的具体意思去分析判断。如进口的收录两用机的使用说明书上有“checking 
+the cassette”和“to insert cassette”两个小标题，究竟应当怎么译呢?看来分别将其的 
+译为“检查盒式磁带”和“装上盒式磁带”，要比分别译为“检查磁带盒”和“装上磁带盒”更好一些。
+　　二、科技英语中倍数增减(包括比较)的汉译
+　　1、倍数增加的译法
+　　英语中说“增加了多少倍”，都是连基数也包括在内的，是表示增加后的结果；而在汉语里所谓“增加了多少倍”，则只表示纯粹增加的数量。所以英语里凡是表示倍数增加的句型，汉译时都可译成“是……的几倍”，或“比……增加(n-1)倍”。为了便于查阅，现将英语中表示倍数增加的一些表达法及其译法归纳如下：
+　　例如：
+　　a The production of various stereo recorders has been increased four times 
+as against 1977.(各种立体声录音机的产量比1977年增加了三倍。)
+　　b The output of color television receivers increased by a factor of 3 last 
+year.(去年彩色电视接收机的产量增加了二倍。)
+　　应当指出，有些书认为by后面的倍数是净增加的倍数，汉译时应译为"净增加多少倍的 "，而不该减一倍。本人认为这种译法未必妥当，因为"by n 
+times"的意思是"用n数乘"。如15 increased by 5 times是15×5 = 75之意，75与15相比显然是增加了四倍，而不是五倍。
+　　2、倍数比较的译法
+　　(1)"n times + larger than + 被比较对象"，表示其大小“为……的n倍”，或"的 比……大n-1倍"。例如：This 
+thermal power plant is four times larger than that one. (这个热电站比那个热电站大三倍。) 
+这是因为英语在倍数比较的表达上，其传统习惯是larger than等于as large 
+as，因此汉译时不能只从字面上理解，将其译为"比……大n倍"，而应将其译为"是……的n的 倍"，或"比……大n-1倍"。
+　　(2)“n times + as + 原级 + as + 被比较对象”，表示“是……的n倍”。例如：Iron is almost three 
+times as heavy as aluminum. (铁的重量几乎是铝的三倍。)
+　　3、倍数减少的译法
+　　英语中一切表示倍数减少的句型，汉译时都要把它换成分数，而不能按照字面意义将其译成减少了多少倍。因为汉语是不用这种表达方式的，所以应当把它译成减少了几分之几，或减少到几分之几。我们所说的增减多少，指的都是差额，差额应当是以原来的数量为标准，而不能以减少后的数量作标准。英语表示倍数减少时第一种表达方式为：“…… 
++ 减少意义的谓语 + by a factor o的 f n或by n times”。这种表达法的意思是“成n倍地减少”，即减少前的数量为减少后的数。
+　　(1)The automatic assembly line can shorten the assembling period (by) ten 
+times. (自动装配线能够缩短装配期十分之九。)
+　　(2) This metal is three times as light as that one. 
+(这种金属比那种金属轻三分之二)第二种表达方式为“n times + 减少意义的比较级”。
+　　三、科技英语中部分否定句的汉译
+　　在英语的否定结构中，由于习惯用法问题，其中部分否定句所表示的意思是不能按字的 面顺序译成汉语的，因此，翻译时要特别注意。 
+英语中含有全体意义的代词和副词如all every both always altogether 
+entirely等统称为总括词。它们用于否定结构时不是表示全部否定，而只表示其中的一部分被否定。因此，汉译时不能译作“一切……都不”，而应译为“并非一切……都是的”，或“一切……不都是”。例如：
+　　(1)All of the heat supplied to the engine is not converted into useful 
+work的 .(并非供给热机的所有热量都被转变为有用的功。错译：所有供给热机的热量都没有被转变为有用的功。)
+　　(2)Every one cannot do these tests.(并非人人都能做这些试验。错译：每个人都的 不能做这些试验。)
+　　(3)Both instruments are not precise.(两台仪器并不都是精密的。错译：两台仪器都不是精密的。)
+　　(4)This plant does not always make such machine 
+tools.(这个工厂并不总是制造这样的机床。错译：这个工厂总是不制造这样的机床。) 但是当（这些总括词 + 肯定式谓语 + 
+含否定意义的单词……）时，则是表示全部否。例如：
+　　(1)All germs are invisible to the naked eye. (一切细菌都是肉眼看不见的。)
+　　(2) Every design made by her is impossible of execution. 
+(她所做的一切设计都是不能执行的。)
+　　(3) Both data are incomplete.(两个数据都不完整。)
+　　(4)In practice, error sometimes always seems 
+unavoidable.(在实践中，差错有时似乎总是不可避免的。)第二页 
+
+&nbsp;
+　　四、定语从句的汉译
+　　1、只要是比较短的，或者虽然较长，但汉译后放在被修饰语之前仍然很通顺，一般的就放在被修饰语之前，这种译法叫做逆序合译法。例如：
+　　(1)The speed of wave is the distance it advances per unit time. 
+(波速是波在单位时间内前进的距离)。
+　　(2)The light wave that has bounced off the reflecting surface is called the 
+reflected ray(从反射表面跳回的光波称为反射线。)
+　　(3)stainless steel, hick is very popular for its resistance to rusting, 
+contains large percentage of chromium.(具有突出防锈性能的不锈钢含铬的百分比很高。)
+　　2、定语从句较长，或者虽然不长，但汉译时放在被修饰语之前实在不通顺的就后置，作为词组或分句。这种译法叫做顺序分译法。例如：
+　　(1)Each kind of atom seems to have a definite number of"hands"that it can 
+use to hold on to others.
+　　每一种原子似乎都有一定数目的“手”，用来抓牢其它原子。(顺序分译法)每一种原子似乎都有一定数目用于抓牢其它原子的手。(逆序合译法)这句限制性定语从句虽然不长，但用顺序分译法译出的译文要比用逆序合译法更为通顺。
+　　(2)Let AB in the figure above represent an inclined plane the surface of 
+which is smooth and unbending.
+　　设上图中AB代表一个倾斜平面，其表面光滑不弯。(顺序分译法)
+　　设上图中AB代表一个其表面为光滑不弯的倾斜平面。(逆序合译法)上面两种译法，看来也是用顺序分译法比用逆序合译法更为通顺 简明。
+　　3、定语从句较长，与主句关联又不紧密，汉译时就作为独立句放在主句之后。这种译法仍然是顺序分译法。例如：
+　　(1)Such a slow compression carries the gas through a series of states. each 
+of which is very nearly an equilibrium state and it is called a quasi-static or 
+a" nearly static" process.
+　　这样的缓慢压缩能使这种气体经历一系列的状态，但各状态都很接近于平衡状态，所以叫做准静态过程，或"近似稳定"过程。
+　　(2)Friction wears away metal in the moving parts, which shortens their 
+working life.
+　　运动部件间的摩擦力使金属磨损，这就缩短了运动部件的使用寿命。
+　　4、There + 
+be句型中的限制性定语从句汉译时往往可以把主句中的主语和定语从句溶合一起，译成一个独立的句子。这种译法叫做溶合法，也叫拆译法。例如：
+　　(1)There are bacteria that help plants grow, others that get rid of dead 
+animals and plants by making them decay, and some that live in soil and make it 
+better for growing crops.
+　　有些细菌能帮助植物生长，另一些细菌则通过腐蚀来消除死去的动物和植物，还有一些细菌则生活在土壤里，使土壤变得对种植庄稼更有好处。
+　　(2)There is a one-seated which you could learn to drive in fifty 
+minutes.
+　　有一种单座式汽车，五十分钟就能让你学会驾驶。
+　　2&nbsp; 

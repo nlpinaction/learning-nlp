@@ -1,0 +1,264 @@
+&nbsp; 
+　　【来源： 沪江英语】
+　　编辑点评：这篇文章很系统的介绍了CET中听力测试的重点题型，可读性很强！
+　　一、四六级英语听力的考查模式
+　　1．对话
+　　听力部分一般是20个小题,由A和B两部分组成。第一部分通常是10个对话,每个对话设一个小题,要求同学们根据对话内容从四个选项中选择正确答案。
+　　2．短文
+　　B部分有两种形式,一是听短文。一般是三篇120-140字之间的短文,每篇短文后有三到四个问题,共10道小题。该部分主要测试同学们的整体理解能力。
+　　3．复合式听写
+　　B部分的另一种是复合式听写。复合式听写由两部分组成。一是单词听写,要求同学们毫无差错地填出短文所缺单词。另一种是补全信息。一般是,每段的第一句主题句已经给出,要求填出具体细节内容说明主题,可以使用听到的原话,也可以使用自己的语言。
+　　二、四六级英语听力的命题规律和测试重点
+　　对话部分考查的重点有：
+　　1）地点
+　　根据对话内容判断对话发生的地点或对话中所提事件发生的地点是四六级英语听力测试中常见的也是比较重要的一个题型。地点题一般有以下几种：
+　　(1)根据信息词设题
+　　①W: Dear, I feel hungry now. How about you?
+　　M: So do I. Let me call room service. Hello, room service. Please send a 
+menu to 320 right away.
+　　Q: Where are the two speakers?
+　　A. In a hotel.
+　　B. At a dinner table.
+　　C. In the street.
+　　D. At the man's house.
+　　该题通过hungry和menu来迷惑同学们,引导大家选择B,其实,本题所借助的信息词是room service和320这个房间号,答案是A。
+　　②M: Can you stay for dinner?
+　　W: I'd love to. But I have to go and send some registered mail before 
+picking up the children from school.
+　　Q: Where will the woman go first?
+　　A. To the school.
+　　B. To a friend's house.
+　　C. To the post office.
+　　D. Home
+　　本题借助registered mail设题,答案是C。但这里同样也有地点的辨析问题,要求同学们能听出是"首先到……地方"。
+　　③M: Excuse me, I'm looking for the emergency room. I thought that it was on 
+the first floor.
+　　W: This is the basement. Take the elevator one flight up and turn left.
+　　Q: Where did the conversation most probably take place?
+　　A. In a library
+　　B. In a hotel.
+　　C. In a hospital.
+　　D. In an elevator
+　　本题设题所依据的信息词是emergency room,只要考生了解其语域就可判断答案为C。
+　　(2)借助对话中提到的多个地点设题
+　　有时对话中提到的地点不只一个,这时,一般是将所有的地点都包括在选项之中。这种情况下,同学们不必考虑信息词问题,只要能将地点与其相关事件联系起来就可确定答案。如：
+　　①M: I did not see our boss yesterday. Has he come back?
+　　W: He was just back from France besides visiting Britain, Germany, and 
+Spain.
+　　Q: Which country did the woman visit first?
+　　A. France
+　　B. Britain
+　　C. Germany
+　　D. Spain
+　　四个地点都是访问过的地点,要求同学们能够分清先后。答案为B。
+　　②M: Will Mr. Smith come to the party at the weekend?
+　　W: He'll be supposed to, but he won't be back from his trip until the next 
+week.
+　　Q: Where will Mr. Smith be on Saturday?
+　　A. At the party
+　　B. At home
+　　C. Still on his trip
+　　D. Back from his trip.
+　　本题是将地点与时间连在一起,要求同学们在听的同时注意区别每个事件所发生的时间,答案为C。
+　　2）职业、身份
+　　根据说话内容判断说话者的身份和职业是四六级听力测试中又一常见题型。该题型的题项设计有两种：
+　　(1)说话者自身的身份或职业
+　　根据谈话内容判断说话者一方的职业或身份：
+　　①W: Good evening, Professor David. My name is Susan Gray. I'm with the 
+local newspaper. Do you mind if I ask you a few questions?
+　　M: Not at all. Go ahead, please.
+　　Q: What is Susan Gray?
+　　A. A writer.
+　　B. A teacher.
+　　C. A reporter.
+　　D. A student.
+　　由local newspaper可以判断说话者是位记者,在采访。
+　　②M: How about the food I ordered? I've been waiting for 20 minutes 
+already.
+　　W: I'm very sorry, sir. I'll be back with your order in a minute.
+　　Q: Who is the man most probably speaking to?
+　　A. A shop assistant.
+　　B. A telephone operator.
+　　C. A waitress.
+　　D. A clerk.
+　　与order有关的自然是waitress,答案为A。
+　　(2)说话双方之间的关系
+　　该题型是上一题型的延伸,要求同学们能判断说话者双方的身份,问题经常是What's the relationship between the two 
+speakers?
+　　①W: How long will it take you to fix my watch?
+　　M: I'll call you when it's ready. But it shouldn't take longer than a 
+week.
+　　Q: What is the probable relationship between the speakers?
+　　A. Librarian and student.
+　　B. Operator and caller.
+　　C. Boss and secretary.
+　　D. Customer and repairman.
+　　既然女士让男的fix my watch,说明对方是repairman,而自己是customer。
+　　②M: Sorry to trouble you. But is there any possibility of borrowing a 
+blanket? I feel cold.
+　　W: I think we've got one. Could you wait until after take-off please?
+　　Q: What is the probable relationship between the two speakers?
+　　A. A guest and a receptionist.
+　　B. A passenger and an air hostess.
+　　C. A customer and a shop assistant.
+　　D. A guest and a waitress.
+　　take-off一词的使用说明女的是空姐,答案自然是B。
+　　可以看出,职业、身份以及说话双方关系的选择所依据的同样是信息词。当然,要判断双方的关系,还可以从说话的方式入手。如：
+　　③M: Make thirty copies for me and twenty copies for Mr. Brown.
+　　W: Certainly sir. As soon as I make the final corrections on the 
+original.
+　　Q: What's the relationship between the two speakers?
+　　A. Boss and secretary.
+　　B. Lawyer and client.
+　　C. Teacher and student.
+　　D. Nurse and patient.
+　　两人间说话的语气和方式表明是"老板与秘书"的关系。
+　　3）计算题
+　　计算题在四六级英语听力中属于比较难的题型,要求同学们不仅能分辨不同的时间、金钱等数量概念,还应能将听到的各个数量联系起来进行加减运算。如：
+　　①M: Your son seems to have made much progress in playing the piano. Does he 
+attend any piano classes?
+　　W: Yes, he takes lessons twice a week, but from next week on, he will go to 
+the class on Saturday evenings, too.
+　　Q: How often will the woman's son have piano lessons from next week on?
+　　A. Once a week.
+　　B. Twice a week.
+　　C. Three times a week.
+　　D. Four times a week.
+　　两次加一次自然是三次,答案是C。
+　　②W: Professor Clark said that the mid-term exam would cover the first 15 
+lessons.
+　　M: Really? I thought it only included the first 12 lessons. Then I must 
+spend the weekend going over the rest of the lessons.
+　　Q: How many lessons must the man review over the weekend?
+　　A. Five lessons.
+　　B. Three lessons.
+　　C. Twelve lessons
+　　D. Fifteen lessons.
+　　这是最简单的计算题,只要同学们不将答案误认为是C或D,就不会出错。
+　　③W: Here's a 10-dollar bill. Give me two tickets for tonight's show 
+please.
+　　M: Sure. Two tickets and here is '1,40 change.
+　　Q: How much does one ticket cost?
+　　A.'1.40. B.'4.30. C.'6.40. D.'8.60
+　　10美元,两张票,找零1.40美元,说明每张票为4.30美元。
+　　从以上例子可以看出,含有数量概念的题,对话中提到的数量一般不可能为正确答案,总要同学们进行一些简单的加减运算。
+　　4）言外之意、弦外之音
+　　推测说话者话中之话是听力中必考的题型。从试题的设计特点来看,大体有一下几种：
+　　(1)对虚拟语气的考查
+　　包含虚拟语气的听力考题中一般都有"是与非"相对的选项,这就要求同学们了解虚拟语气的表意功能,根据虚拟语气判断正确选项。如：
+　　①W: I'm thinking of going to Austin for a visit. Do you think it's worth 
+seeing?
+　　M: Well, I wish I had been there.
+　　Q: What do we learn from the conversation?
+　　A. The man is planning a trip to Austin.
+　　B. The man has not been to Austin before.
+　　C. The man doesn't like Austin.
+　　D. The man has been to Austin before.
+　　I wish I had been there.说明说话人没有去过。
+　　②W: If it hadn't been snowing so hard, I might have been home by 9 
+o'clock.
+　　M: It's too bad you didn't make it. Jane was here and she wanted to see 
+you.
+　　Q: What happened to the woman?
+　　A. She got home before 9 o'clock.
+　　B. She had a bad cold.
+　　C. She had a car accident.
+　　D. She was delayed.
+　　If it hadn't been snowing so hard, I might have been home by 9 
+o'clock.说明因为雪太大,说话者未能在9点前到家。也就是说she was delayed。
+　　(2)对建议的考查
+　　建议题要求同学们掌握建议的各种表达方式,根据建议选择正确选项。如：
+　　①W: The movie starts in 5 minutes and there's bound to be a long time.
+　　M: Why don't we come back for the next show? I'm sure it would be less 
+crowded.
+　　Q: What is the man suggesting?
+　　A. Coming back for a later show.
+　　B. Waiting in a queue.
+　　C. Coming back in five minutes.
+　　D. Not going to the movie today.
+　　Why don't…?上一种建议表达方式,根据该句所表达的内容可以判断答案是A。
+　　②W: We do need another bookshelf in this room. But the problem is the space 
+for it.
+　　M: How about moving the old dining table to the kitchen？
+　　Q: What does the man suggest they should do?
+　　A. Finding a larger room.
+　　B. Sell the old table.
+　　C. Buy two bookshelves.
+　　D. Rearrange some furniture.
+　　根据moving the dining table to the kitchen来判断答案为D。
+　　建议的表达方式还有：
+　　Why not…? What do you think of…?
+　　If I were you/If I were in your shoes, I would…
+　　Shall we…? I suggest….
+　　You'd better/You ought to….
+　　(3)对话题的考查
+　　话题指会话双方所谈论的话题,要求同学们具有概括能力。如：
+　　①W: Do you want a day course or an evening course?
+　　M: Well, it would have to be an evening course since I work during the 
+day.
+　　Q: What are they talking about?
+　　A. The choice of courses.
+　　B. A day course.
+　　C. An evening course.
+　　D. Their work.
+　　两个人谈论的是选白天的课还是晚上的课,由此可以判断答案应该是A。
+　　②M: I was terribly embarrassed when some of the audience got up and left in 
+the middle of the performance.
+　　W: Well, some people just can't seem to appreciate the real-life drama.
+　　Q: What are they talking about?
+　　A. A movie.
+　　B. A lecture.
+　　C. A play.
+　　D. A speech.
+　　从对话中的audience, performance与其说drama可以判断他们所谈论的是a play。
+　　4)同义表达方式的考查
+　　四六级听力测试中对隐含意思的考查很大程度上依赖于同义表达方式，也就是同学们对具体句式、短语、词组甚至单词的理解。如：
+　　①M: What do you think of Professor Brown's lecture?
+　　W: The topic was interesting, but the lecture was much more difficult to 
+follow than I had expected.
+　　Q: What does the woman say about the lecture?
+　　A. It was a long lecture, but easy to understand.
+　　B. It was not as easy as she had expected.
+　　C. It was as difficult as she had expected.
+　　D. It was interesting and easy to follow.
+　　与much more difficult to follow than I had expected同义的应该是B。
+　　②M: Nancy, why were you late today?
+　　W: I overslept and missed the bus.
+　　Q: Why was Nancy late?
+　　A. She got up later than usual.
+　　B. The bus was late.
+　　C. She forgot she had class.
+　　D. Her clock was slow.
+　　overslept也就是got up later than usual。
+　　③M: Did you mind coming back by coach instead of by train?
+　　W: No, we didn't mind at all. It took a lot longer, but it was very 
+comfortable and it was much cheaper.
+　　Q: How did the woman feel about the coming back by coach?
+　　A. She felt it was tiring.
+　　B. She felt it was very nice.
+　　C. She felt it took less time.
+　　D. She thought it was expensive.
+　　从comfortable和much cheaper来看，女士的感觉应该是very nice，答案应该是B。
+　　(5)上下义概念的考查
+　　有些题尽管问题可能问的是含义之类，但其实考查的是同学们对上下义关系的掌握。如：
+　　①M: Let me see. I've printed my family name, first name, date of birth and 
+address. Anything else?
+　　W: No, that's all right. We'll fill in the rest of it if you just sign your 
+name at the bottom.
+　　Q: What has the man been doing?
+　　A. Having an interview.
+　　B. Filling out a form.
+　　C. Talking with a friend.
+　　D. Asking for information.
+　　上义词为概括性词语，下义词所表示的则是具体的东西。本题中能够概括男士所做之事的应该是选项B。
+　　②M: What happened to you? You are so late.
+　　W: The bus I took broke down in front of the hospital and I had to walk 
+from there.
+　　Q: Why was the woman so late?
+　　A. Something went wrong with the bus.
+　　B. She took somebody to hospital.
+　　C. Something prevented her from catching the bus.
+　　D. She came on foot instead of taking a bus.
+　　Something went wrong是对the bus break down的概括性表述。
+　　对话听力中其它考查项目，如因果、条件、否定、比较等可参看四六级考试的《听力分册》。
+　　2&nbsp; 

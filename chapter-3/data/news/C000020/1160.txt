@@ -1,0 +1,466 @@
+&nbsp; 
+　　前 言
+　　本讲义是按照《全国硕士研究生入学考试英语考试大纲（非英语专业）》所规定的题型和试卷结构编写的。编者力图把大纲的测试要求具体体现到课堂讲解与练习中去，以帮助广大考生深刻领会考试大纲的精神并进行有的放矢的考前复习，做到知己知彼、胸有成竹。
+　　本讲义分上、下两册，包括20次讲座，共80学时。此讲义信息量大，既有对近年典型真题的剖析，又有大量自编练习供学员操练。本着精讲多练、讲中有练、练中有讲、讲练结合的原则，授课教师通过讲解和引导使学员在学习和操练中迅速进入考研切入点，了解考试的要求、重点和难点，理解和把握试题的命题思路，提高英语的语言知识水平并掌握一整套行之有效的学习方法和应试对策，以便在2007年的考试中取得满意的成绩。
+　　此讲义每年按大纲精神和当年考题命题的新动向进行修订并得到历届学员的好评，被誉为“考研品牌大餐”。
+　　学员在辅导班上应全神贯注、认真听讲、记笔记，积极参加课堂的操练活动，课下应认真复习、按时完成教师布置的家庭作业。此外，学员可以阅读朱泰祺教授编著的《(2007)硕士研究生英语入学考试复习指导》一书作为课外参考书，以满足不同层次考生的个性化需要。
+　　预祝学员们考研成功！
+　　北京太奇培训学校教务部
+　　提高考研阅读能力的过程和规律
+　　考研阅读理解包括三项，即多项选择题、选择搭配题和英译汉，共占60分。所以，阅读理解是考研试题中的重中之重。学生提高英语阅读理解能力一般要经历四个发展阶段：
+　　1. 
+字面心译阶段，即在阅读时要通过逐词心译来理解原文。由于两种语言在句子语法结构、词语用法、语言习惯等方面存在着许多差异，这个阶段对原文的理解常会发生错误。
+　　2. 
+分析性心译阶段，即在对原文的词语和结构进行一些分析以后，再进行心译，或心译过程伴随着词语和结构的分析。这时理解力比前一阶段有所提高，但阅读速度很慢。
+　　3. 综合性心译阶段。在这个阶段由于语言水平的提高，阅读经验的积累，不经分析而直接将原文译成汉语。
+　　4. 直接理解原文阶段。在这个阶段由于语言能力的不断提高，读者的理解已进入英语思维的模式，可以直接理解原文。
+　　以上4个阶段只是大体上的划分，在实际阅读训练中，这4个阶段不是截然分割的。比如，处于第2阶段时，也不可能对每个句子都分析一遍后再来心译。第4阶段也可能伴随少量的心译，因为本族语毕竟是理解外语的媒介。
+　　了解阅读能力提高的过程有利于加速阅读能力的培养。一般来说，我们的考生是处在介乎第2和第3阶段之间。对所读的材料有时要经过查阅词典，分析心译成汉语才能达到真正的理解。这作为阅读能力提高的一个阶段是不可避免的。但要努力缩短这一阶段，防止这种阅读方法成为定势。要尽可能减少心译，以提高阅读速度，达到基本上直接理解原文的阶段。
+　　从逻辑和思维的角度看，阅读理解能力的提高是一个由浅入深、由片面到全面、由低层次到高层次的发展过程。较低层次的理解是字面理解(Read the 
+lines)。考生对所读内容只能理解字面含义。随着理解的不断深化，考生逐渐进入推断性理解层次。考生慢慢能从语篇结构的高度来审视文章内容的逻辑结构和内在联系，从而进入更深层次的理解，如从字里行间理解作者要表达的内涵(Read 
+between the lines)。最高层次是评价性阅读理解，即能理解文章内容的言外之音(Read beyond the 
+lines)，能对所读内容进行推理判断、综合归纳和客观评论。研究生英语入学考试中的阅读理解就属于这个层次。这时考生应能凭借自己的阅读经验和分析能力对所读文章和题目选项进行评价，如：选择项所传递的信息是否确切、事实是否可靠、结论是否正确以及信息的应用价值等。
+　　考研学生应具备哪些能力才能应对阅读理解考试的需要呢？
+　　1. 理解文章的主旨、抓住全文的中心思想和展开中心思想的逻辑结构和逻辑框架；
+　　2. 理解文章中的具体信息和细节；
+　　3. 理解明确或隐含表达的概念性含义；
+　　4. 进行有关内容的推理、归纳和引申；
+　　5. 根据上下文推测不熟悉词语的含义；
+　　6. 理解作者的写作目的、态度、语气及文章的基调；
+　　7. 以上各项能力要求必须在规定的时间内完成。
+　　滴水穿石，贵在坚持。我相信，通过我们师生的共同努力，学员的阅读理解能力定会不断提高。
+　　朱泰祺
+　　朱泰祺春季强化班辅导讲义(一)
+
+　　2007北京太奇培训学校考研英语强化班授课讲义(一)
+　　Text I [2006, RC Text 1]
+　　In spite of "endless talk of difference," American society is an amazing 
+machine for homogenizing people. There is "the democratizing uniformity of dress 
+and discourse, and the casualness and absence of deference" characteristic of 
+popular culture. People are absorbed into "a culture of consumption" launched by 
+the 19th-century department stores that offered "vast arrays of goods in an 
+elegant atmosphere. Instead of intimate shops catering to a knowledgeable elite" 
+these were stores "anyone could enter, regardless of class or background. This 
+turned shopping into a public and democratic act." The mass media, advertising 
+and sports are other forces for homogenization.
+　　Immigrants are quickly fitting into this common culture, which may not be 
+altogether elevating but is hardly poisonous. Writing for the National 
+Immigration Forum, Gregory Rodriguez reports that today’s immigration is neither 
+at unprecedented levels nor resistant to assimilation. In 1998 immigrants were 
+9.8 percent of the population; in 1900, 13.6 percent. In the 10 years prior to 
+1990, 3.1 immigrants arrived for every 1,000 residents; in the 10 years prior to 
+1890, 9.2 for every 1,000. Now, consider three indices of assimilation -- 
+language, home ownership and intermarriage.
+　　The 1990 Census revealed that "a majority of immigrants from each of the 
+fifteen most common countries of origin spoke English ‘well’ or ‘very well’ 
+after ten years of residence." The children of immigrants tend to be bilingual 
+and proficient in English. "By the third generation, the original language is 
+lost in the majority of immigrant families." Hence the description of America as 
+a "graveyard" for languages. By 1996 foreign-born immigrants who had arrived 
+before 1970 had a home ownership rate of 75.6 percent, higher than the 69.8 
+percent rate among native-born Americans.
+　　Foreign-born Asians and Hispanics "have higher rates of intermarriage than 
+do U.S.-born whites and blacks." By the third generation, one third of Hispanic 
+women are married to non-Hispanics, and 41 percent of Asian-American women are 
+married to non-Asians.
+　　Rodriguez notes that children in remote villages around the world are fans 
+of superstars like Arnold Schwarzenegger and Garth Brooks, yet "some Americans 
+fear that immigrants living within the United States remain somehow immune to 
+the nation’s assimilative power."
+　　Are there divisive issues and pockets of seething anger in America? Indeed. 
+It is big enough to have a bit of everything. But particularly when viewed 
+against America’s turbulent past, today’s social indices hardly suggest a dark 
+and deteriorating social environment. (400 words)
+　　Notes: homogenize vt. 使匀质。uniformity n. 千篇一律，无变化。discourse n. 
+讲演；会话；论文。deference n. 遵从，服从，顺从。an array of (=arrays of) 一系列；大量。elegant adj. 
+高雅的。cater to v. 迎合；满足。regardless of 不管，不顾。fit into 适合；符合。elevating adj. 
+提高思想修养的。poisonous adj. 有毒的；败坏道德的。forum n. 论坛。unprecedented adj. 前所未有的。prior to 
+在…以前。index n. [pl.] indices(=indexes) 索引；指数；标志。 intermarriage 
+n.（种族、宗教等之间的）通婚。countries of origin 起源国。bilingual adj. 能说两种语的。proficient adj. 
+精通的，熟练的。graveyard n. 墓地，坟场。Hispanic n. 西班牙的；拉丁美洲的（说西班牙语的）。seethe vi. 因 … 
+而骚动。
+　　1. The word "homogenizing" (Line 1, Paragraph 1) most probably means
+　　[A] identifying. [B] associating. [C] assimilating. [D] monopolizing.
+　　2. According to the author, the department stores of the 19th century
+　　[A] played a role in the spread of popular culture. [B] became intimate 
+shops for common consumers.
+　　[C] satisfied the needs of a knowledgeable elite. [D] owed its emergence to 
+the culture of consumption.
+　　3. The text suggests that immigrants now in the U.S.
+　　[A] are resistant to homogenization. [B] exert a great influence on 
+American culture.
+　　[C] are hardly a threat to the common culture. [D] constitute the majority 
+of the population.
+　　4. Why are Arnold Schwarzenegger and Garth Brooks mentioned in Paragraph 
+5?
+　　[A] To prove their popularity around the world. [B] To reveal the public's 
+fear of immigrants.
+　　[C] To give examples of successful immigrants. [D] To show the powerful 
+influence of American culture.
+　　5. In the author’s opinion, the absorption of immigrants into American 
+society is
+　　[A] rewarding. [B] successful. [C] fruitless. [D] harmful.
+　　Text 2 [2005, RC Text 1]
+　　Everybody loves a fat pay rise. Yet pleasure at your own can vanish if you 
+learn that a colleague has been given a bigger one. Indeed, if he has a 
+reputation for slacking, you might even be outraged. Such behaviour is regarded 
+as “all too human", with the underlying assumption that other animals would not 
+be capable of this finely developed sense of grievance. But a study by Sarah 
+Brosnan and Frans de Waal of Emory University in Atlanta, Georgia, which has 
+just been published in Nature,suggests that it is all too monkey, as well.
+　　The researchers studied the behaviour of female brown capuchin monkeys. 
+They look cute. They are good-natured, co-operative creatures, and they share 
+their food readily. Above all, like their female human counterparts, they tend 
+to pay much closer attention to the value of “goods and services” than 
+males.
+　　Such characteristics make them perfect candidates for Dr. Brosnan's and Dr. 
+de Waal's study. The researchers spent two years teaching their monkeys to 
+exchange tokens for food. Normally, the monkeys were happy enough to exchange 
+pieces of rock for slices of cucumber. However, when two monkeys were placed in 
+separate but adjoining chambers, so that each could observe what the other was 
+getting in return for its rock, their behaviour became markedly different.
+　　In the world of capuchins, grapes are luxury goods (and much preferable to 
+cucumbers). So when one monkey was handed a grape in exchange for her token, the 
+second was reluctant to hand hers over for a mere piece of cucumber. And if one 
+received a grape without having to provide her token in exchange at all, the 
+other either tossed her own token at the researcher or out of the chamber, or 
+refused to accept the slice of cucumber. Indeed, the mere presence of a grape in 
+the other chamber (without an actual monkey to eat it) was enough to induce 
+resentment in a female capuchin.
+　　The researchers suggest that capuchin monkeys, like humans, are guided by 
+social emotions. In the wild, they are a co-operative, group-living species. 
+Such co-operation is likely to be stable only when each animal feels it is not 
+being cheated. Feelings of righteous indignation, it seems, are not the preserve 
+of people alone. Refusing a lesser reward completely makes these feelings 
+abundantly clear to other members of the group. However, whether such a sense of 
+fairness evolved independently in capuchins and humans, or whether it stems from 
+the common ancestor that the species had 35 million years ago, is, as yet, an 
+unanswered question. (426 words)
+　　1. In the opening paragraph, the author introduces his topic by
+　　[A] posing a contrast. [B] justifying an assumption.
+　　[C] making a comparison. [D] explaining a phenomenon.
+　　2. The statement "it is all too monkey" (Last line, Paragraph-1) implies 
+that
+　　[A] monkeys are also outraged by slack rivals.
+　　[B] resenting unfairness is also monkeys' nature.
+　　[C] monkeys, like humans, tend to be jealous of each other.
+　　[D] no animals other than monkeys can develop such emotions.
+　　3. Female capuchin monkeys were chosen for the research most probably 
+because they are
+　　[A] more inclined to weigh what they get. [B] attentive to researchers' 
+instructions.
+　　[C] nice in both appearance and temperament. [D] more generous than their 
+male companions.
+　　4. Dr. Brosnan and Dr. de Waal have eventually found in their study that 
+the monkeys
+　　[A] prefer grapes to cucumbers. [B] can be taught to exchange things.
+　　[C] will not be co-operative if feeling cheated. [D] are unhappy when 
+separated from others.
+　　5. What can we infer from the last paragraph?
+　　[A] Monkeys can be trained to develop social emotions.
+　　[B] Human indignation evolved from an uncertain source.
+　　[C] Animals usually show their feelings openly as humans do.
+　　[D] Cooperation among monkeys remains stable only in the wild.
+　　Text 3
+　　The war on drugs in the United States is an escalating battle that has, as 
+of recent times, reached unprecedented levels. In every city and state across 
+the nation, law enforcement officials are working around the clock to eradicate 
+the illegal use, possession and distribution of controlled substances at all 
+levels of society. The increasing devotion of resources and efforts to the 
+battle has achieved mixed results.
+　　A growing amount of money is being devoted to the funding of the war on 
+drugs as time progresses. At last count, 19.2 billion dollars was being spent 
+annually on the ongoing struggle, consisting of pay for law enforcement 
+officials, education, treatment and other uses. This staggering amount 
+translates into a stunning 609 dollars per second.
+　　Results are being achieved. An arrest for drug-related offenses occurs 
+every 20 seconds, and 648 people are put in prison
+　　every day on drug-related charges. These numbers illustrate the prevailing 
+tactic used by the U.S. government in the war against drugs – going after the 
+people supporting the industry. By removing both the suppliers and purchasers of 
+illegal drugs, it is hoped that the industry will collapse by itself, through 
+the elimination of supply and demand.
+　　Aside from directly arresting those individuals responsible for the selling 
+and purchasing of illegal drugs, the United States has also embarked on a 
+campaign to take away the tools by which the drugs are used, primarily in the 
+form of needles. To this end, there has been a recent federal ban on needle 
+exchanges intended to restrict access to the tools necessary for the use of some 
+illegal drugs.
+　　This program has drawn harsh criticism, however, as it has resulted in the 
+use and reuse of unsanitary needles, possibly contributing to the number of AIDS 
+infections in drug users who would otherwise have avoided infection by using 
+sterile needles that could have been provided, but for the federal ban. 
+According to a study conducted by the AIDS Prevention Studies Center of the 
+University of California at San Francisco, 4000 new infections of HIV, the virus 
+that causes AIDS, could be avoided per year if the federal ban on needle 
+exchanges was lifted. This translates into more than 10 new cases of HIV avoided 
+per day, a figure that causes one to pause and consider whether the war on drugs 
+is being fought in the best manner possible. (395 words)
+　　本文重点词汇和词组：escalating 逐步升级的；as of 从…起；around the clock日日夜夜； eradicate 
+根除；杜绝；staggering大得惊人的；stunning令人震惊的；go after追捕；sterile 消毒过的；embark on 着手，从事；but 
+for 要不是…的话；HIV (=human immunodeficiency virus) 人免疫力缺乏病毒（艾滋病病毒）；lift vt. 
+撤消，解除。
+　　1. By referring to “mixed results” in paragraph 1, the author most probably 
+intends to mean ________.
+　　A. all sorts of successes B. confused consequences
+　　C. positive and negative effects D. significant and pleasing outcome
+　　2. The author outlines the government’s strategy in the war on drugs in 
+paragraph 3 to ________.
+　　A. support the main view presented in the text
+　　B. show that this strategy is the most effective
+　　C. discredit later the strategy in subsequent paragraphs
+　　D. explain why the statistics cited are relevant and important
+　　3. The author brings up the issue of HIV and AIDS infections in paragraph 5 
+in order to ________.
+　　A. illustrate another social issue that is not receiving enough 
+attention
+　　B. identify one group of people whom the war on drugs is indirectly 
+affecting
+　　C. illustrate an issue that must be taken seriously while fighting the war 
+on drugs
+　　D. identify one of the main motivations for the current strategy in the war 
+on drugs
+　　4. The author’s opinion of the ongoing war on drugs is one of ________.
+　　A. strong disapproval B. critical support C. reluctant opposition D. silent 
+consent
+　　5. The main point of this text is to ________.
+　　A. convince the reader that the war on drugs is being won
+　　B. state the harmfulness of drugs and support the war on them
+　　C. highlight the importance of launching a battle against drugs
+　　D. inform the reader of the current status of the war on drugs
+　　Text 4（课外阅读） [2003 RC Text 1]
+　　Wild Bill Donovan would have loved the Internet. The American spymaster who 
+built the Office of Strategic Services in World War II and later laid the roots 
+for the CIA was fascinated with information. Donovan believed in using whatever 
+tools came to hand in the “great game” of espionage -- spying as a “profession.” 
+These days the Net, which has already re-made such everyday pastimes as buying 
+books and sending mail, is reshaping Donovan’s vocation as well.
+　　The latest revolution isn’t simply a matter of gentlemen reading other 
+gentlemen’s e-mail. That kind of electronic spying has been going on for 
+decades. In the past three or four years, the World Wide Web has given birth to 
+a whole industry of point-and-click spying. The spooks call it “open source 
+intelligence,” and as the Net grows, it is becoming increasingly influential. In 
+1995 the CIA held a contest to see who could compile the most data about 
+Burundi. The winner, by a large margin, was a tiny Virginia company called Open 
+Source Solutions, whose clear advantage was its mastery of the electronic 
+world.
+　　Among the firms making the biggest splash in this new world is Straitford, 
+Inc., a private intelligence-analysis firm based in Austin, Texas. Straitford 
+makes money by selling the results of spying (covering Chile and Russia) to 
+corporations like energy-services firm McDermott International. Many of its 
+predictions are available online at www.straitford.com.
+　　Straitford president George Friedman says he sees the online world as a 
+kind of mutually reinforcing tool for both information collection and 
+distribution, a spymaster’s dream. Last week his firm was busy vacuuming up data 
+bits from the far corners of the world and predicting a crisis in Ukraine. “As 
+soon as that report runs, we’ll suddenly get 500 new Internet sign-ups from 
+Ukraine,” says Friedman, a former political science professor. “And we’ll hear 
+back from some of them.” Open-source spying does have its risk, of course, since 
+it can be difficult to tell good information from bad. That’s where Straitford 
+earns its keep.
+　　Friedman relies on a lean staff of 20 in Austin. Several of his staff 
+members have military intelligence backgrounds. He sees the firm’s outsider 
+status as the key to its success. Straitford briefs don’t sound like usual 
+Washington back-and-forthing, whereby agencies avoid dramatic declarations on 
+the chance they might be wrong. Straitford, says Friedman, takes pride in its 
+independent voice. (396 words)
+　　1. The emergence of the Net has __________.
+　　A. received support from fans like Donovan B. remolded the intelligence 
+services
+　　C. restored many common pastimes D. revived spying as a profession
+　　2. Donovan’s story is mentioned in the text to ________.
+　　A. introduce the topic of online spying B. show how he fought for the 
+U.S.
+　　C. give an episode of the information war D. honor his unique services to 
+the CIA
+　　3. The phrase ‘making the biggest splash’ (line 1, paragraph 3) most 
+probably means _________.
+　　A. causing the biggest trouble B. exerting the greatest effort
+　　C. achieving the greatest success D. enjoying the widest popularity
+　　4. It can be learned from paragraph 4 that _________.
+　　A. Straitford’s prediction about Ukraine has proved true B. Straitford 
+guarantees the truthfulness of its information
+　　C. Straitford’s business is characterized by unpredictability D. Straitford 
+is able to provide fairly reliable information
+　　5. Straitford is most proud of its __________.
+　　A. official status B. nonconformist image
+　　C. efficient staff D. military background
+　　Text 2 Word Study
+　　1. slack adj. 1)松的，松驰的，宽松的：A rope is slack if it hasn’t been pulled tight. 
+(如果一根绳子没有拉紧，那它是松的。) 2)松懈的，马虎的：A slack person is one who does things carelessly. 
+(一个马虎的人是一个做事粗枝大叶的人。) 3)缓慢的：The horse was moving at a slack pace. (这匹马以缓慢的步伐走着。) 
+4) 生意清淡，萧条：Business is slack at this season. (在这个季节生意清淡萧条。) vt. 1)放松；使缓慢：Slack 
+the rope before trying to unite the knot. (在试图打结之前请把这条绳子放松。) The train slacked 
+off it speed as it came into the station. (这列火车进站时，它放慢了速度。) 2) vi.马虎，懈怠：He was 
+scolded for slacking. (他由于马虎而挨骂。)
+　　2. outrage vt. (=shock or offend sb.; upset greatly) 震骇；触犯；使气愤：outrage 
+public opinion 违反民意。They were outraged by the announcement of massive price 
+increases. (物价大幅上涨的消息一公布，他们气愤填膺。) n. 1)残暴行为，罪行：The use of H-bombs would be an 
+outrage against humanity. (使用氢弹是反人类的残暴行为。) 2)愤怒：The farmers felt outrage at the 
+attack on their villages. (农民们对进攻他们的村庄感到愤怒。) 同根词outrageous adj. 
+愤怒的；残暴的；令人反感的：outrageous behavior令人愤怒的行为。
+　　3. all too 实在太：The holidays were all too short.（假期实在太短了。） The day passed 
+all too quickly.（这天过得实在太快了。）
+　　4. grieve vi./vt. 悲痛，难过；伤心：I shall not grieve at his death. (他死我不会悲痛。) I 
+was grieved to see the change in my old friend. (我伤心地看到我老朋友的这种变化。) grief n. 
+悲痛；悲痛的事：My mother is overcome with grief. (我母亲悲痛欲极。) His wild behavior was a 
+grief to his parents. (他的粗野行为使他父母很伤心。) 同根词grievous adj. 令人悲痛的；极严重的。 grievance n. 
+不满意见，苦情，牢骚；抱怨不平：He won’t listen to our grievance.
+　　5. above all (=most important)最重要的。
+　　6. exchange 交换；交流：to exchange experience 交流经验。to exchange 
+views交流观点看法。exchange… for…把…换成…：Where can I exchange dollars for pounds? 
+(我在哪里能把美元换成英镑？) exchange … with 和…交换：He exchanged seats with me. (他与我交换座位。) n. 
+交换；交流：a secret exchange of messages 秘密交换信息。foreign exchange reserves外汇储备。词组：in 
+exchange for 作为交换：I took his watch in exchange for my camera. 
+(我拿了他的手表换我的相机。)
+　　7. in return for 作为…的回报；以答谢：I’m sending him a present in return for all his 
+kindness to us. (我将寄给他一件礼品以答谢他对我们的好意。)
+　　8. adjoin vt. 与…相邻。markedly 显着地，明显地。toss vt. (=throw sth. 
+lightly)轻扔，掷。induce vt. (=persuade or influence sb to do sth.)引诱，诱发，诱惑。stem from 
+(=come from)来自。as yet (=so far) 至今。
+　　Text 3 Word Study
+　　precede vi./ vt. 在…之前，在…前面：The Greek civilization preceded the Roman one. 
+(希腊文明先于罗马文明。) 2) They came into the room preceded by a small dog. 
+(一条小狗在前面，他们走进房间。) 3) A major precedes a captain. (少校的职位比大尉高。) 4) He preceded his 
+speech with a warning against inattention. (他讲话以前先警告听众不要心不在焉。)
+　　同根词： precedence n. 时间上在前。用于成语：give precedence over 给予优先地位: This task must 
+be given precedence over all others. (这项任务应放在其它所有任务之前。) take precedence over 
+比…重要：Some say Shakespeare takes precedence over all other writers. 
+(有人说，莎士比亚的地位比其他所有作家高。)
+　　precedent n. 先例：If he is allowed to do this, it will be a precedent for 
+others. (如果允许他这样做，那对于其他人来说是个先例。) 用于成语：set a precedent 开…的先例: She set a precedent 
+as the first woman executive in the company. (她开了先例当公司的首任经理。) without precedent 
+没有先例：It is something without precedent in history.
+　　preceding adj. 前面的：I remember the war but nothing of the preceding years. 
+(我记得这场战争，但对战前岁月记忆中荡然无存。) precedented：有先例的；unprecedented 史无前例的，空前的。
+　　Text 4 Word Study
+　　1. by a … margin 以…之差：1) We won the game by a large/narrow margin. 2) He 
+won the election by only one vote margin. (他只靠一票之差赢了这次选举。)
+　　2. make a splash 引人注目，引起轰动：She has made quite a splash in literary circles 
+with her first book. （她的第一本书在文学界大为轰动。）
+　　3. earn one’s keep 挣钱养活自己：When you earn your keep, you will be able to do 
+many things that your parents cannot afford to let you do now. 
+(等你自己挣钱时，你就可以做许多目前你父母没有力量同意你做的事。)earn one’s living (=earn one’s livelihood) 
+挣钱糊口，谋生。
+　　4. lean vi/vt. 倚，靠；倾，倾斜： 1) He leaned against the wall. (他背靠着墙。) 2) They 
+came to Pisa and saw the leaning tower. (他们来到比萨并看到了斜塔。) 3) Lean your head on my 
+shoulder. (把你的头靠在我的肩上。)
+　　同根词：leaning n. 倾向，偏好: 1) Their leanings are towards education for everyone. 
+2) He has a leaning towards music.
+　　lean adj. 瘦而肌肉结实的；贫乏的；歉收的：a lean horse; lean crops (歉收)；a lean year (荒年)；a 
+lean staff (人员单薄)。
+　　5. on the chance of (或that) 怀着…的希望，期望…：1) Go ahead with the printing on the 
+chance that no major correction may prove necessary. （开印吧，希望将来不需要有重大的勘误。） 2) 
+I’ll call at his office on the chance of seeing him before he leaves. 
+（我将到他办公室去拜访他，希望能在他下班前见到他。）
+　　6. take pride in … 以…而自豪：1) Don’t take pride in your son. 2) He took (a) 
+great pride in being a member of the club.
+　　pride oneself on sth./doing sth. 以…而自豪：She prides herself on her skill as a 
+gardener.
+　　II. Writing
+
+
+
+
+
+　　Directions: Study the following photos carefully and write an essay in 
+which you should
+　　1) describe the photos briefly,
+　　2) interpret the social phenomenon reflected by them, and
+　　3) give your point of view.
+　　You should write 160 – 200 words neatly on ANSWER SHEET 2. (20 points)
+　　多么生动的照片啊！一幅照片展现了一个年轻人的脸，脸上写着贝克汉姆的名字；另一幅照片描绘了同样令人不安的情境，一位青年花300元理个发，就是为了模仿贝克汉姆的发式。显然，作者打算提醒我们，这些青年人多么狂热地崇敬他们的偶像。
+　　这些照片确实发人深省。我不由得把它们与另一个热门词“超女”联系起来，在2005年“超女”这个词几乎风靡全国。这些照片是镜子，反映了年轻人渴望成功，犹如他们的偶像。最近几年来，随着中国经济稳步增长，年轻人享受到了物质上的富裕，但是这并不总是意味着精神上的满足。相反，他们中很多人越来越沉溺于追求毫无意义的事。他们仿效他们偶像的行为：如何看上去酷、如何寻找欢乐，甚至如何与记者捉迷藏。他们羡慕他们的偶像已经飞黄腾达，然而却从来不看一看偶像们攀登通向成功的荆棘之路。
+　　依我看，很显然，这种狂热对年轻人颇为有害。现在该是教育年轻人如何正确敬仰偶像。每个教育机构的责任是号召年轻人学会成功之道：成功总是来自于刻苦努力。
+　　What vivid pictures! One presents a young man’s face, on which the name 
+Beckham is painted, and the other depicts an equally disturbing situation, where 
+a teenager spends 300 yuan on his haircut simply because he wants to follow 
+Beckham’s hairstyle. Obviously, the drawer intends to remind us how crazily 
+these youngsters are adoring their icons.
+　　The pictures really set me thinking. I cannot help associating them with 
+another hot word “supergirl”, which almost swept over every Chinese in the year 
+2005. They are mirrors, reflecting how eager the youth are to succeed like their 
+icons. In recent years, with China’s steady economic growth, the youngsters have 
+enjoyed material abundance, which, however, does not always mean spiritual 
+satisfaction. On the opposite, many of them find themselves increasingly 
+indulged in pursuing meaningless things. They imitate whatever their icons do: 
+how to look cool, how to look for fun, and even how to play hide-and-seek with 
+reporters. They envy how successful their icons have become, yet they never take 
+a look at the thorny road, along which, their icons climb up to success.
+　　Personally, I hold it self-evident that this kind of craziness will do 
+great harm to the youth. It is high time that they were taught how to adore 
+icons properly. It is the responsibility of every educational institution to 
+call upon the youth to learn one thing about success: success always results 
+from hard work. (237 words)
+　　Notes: icon圣像，偶像。adore vt. (=love deeply and respect sb. highly) 钟爱，敬爱。
+　　背记重点词语汉英对照：1. 一个…；而另一个…：One … ; the other …。 2. 仿效某人的榜样/衣着和谈吐：follow one’ 
+example/dress and discourse。 3. 发人深省：set people thinking。 4. cannot help 
+associating … with…：不由自主地把…与…联系起来。 5. 渴望做某事：be eager to do sth. (=desire/long to 
+do sth.)。 6. 相反：on the opposite。 7. 仿效，模仿：imitate，follow, model oneself 
+after/on。 8. 沉溺于：indulge oneself in sth. or in doing sth.。 9. 对某人有害： do harm to 
+sb. 10. 该到…时侯了：It is high time that sb. did sth.。
+　　Put the following sentences from Chinese into English：
+　　1. 有两幅画呈现两种截然不同的情境：在温室中的花茁壮成长；而在暴风雨中的花朵凋谢（wither away）了。
+　　2. 有一些年轻人只模仿明星的外表而没有去研究明星成功所经历的道路。
+　　3. 这幅画真是发人深省。我不由自主地把成功与刻苦努力联系起来了。
+　　4. 该到我们永远牢记不能沉溺于甜蜜的梦想中，而应该踏踏实实地做点事情的时候了。
+　　作业：1. 认真复习本单元阅读文章和词汇工作;
+　　2. 背诵作文；熟悉短文框架、段落结构和常用句型；
+　　3. 安排“复习指导”中长难句语法结构剖析（第1章）和词汇(第2, 3, 4,章)的自学计划, 
+打好考研英语的知识基础；同时开始做阅读理解一章中的“中级阅读45篇”。用语法词汇促进阅读，再用阅读巩固语法和词汇。
+　　赠言：良好的开端是成功的一半。从今天起你就要全身心地投入到考研准备中去, 
+以便在明年的激烈竞争中立于不败之地。有得必有失。你将为此失去很多很多。但是，你得到的是，在事业的征途中又登上了一个新的台阶。
+　　浮躁、急功近利和实用主义的世界观正侵蚀着我们年轻一代的心灵。但考研是一场净化我们灵魂的洗礼，它磨练我们的斗志、考验我们的毅力。我们今天浴血奋战将换来我们明天更美好的未来。我们子孙后代将踩着我们用汗水铺平的道路向科学文化进军！
+　　Text 1参考译文
+　　尽管人们“无休止地谈论美国社会的差异性”，但是美国社会却是一部使人同化的惊人机器。美国的民主化使人们的衣着和谈吐风格趋于一致，人们漫不经心、不拘礼节，没有强制的顺从，这些都是大众文化的特点。人们融入到一种“消费文化”中去；这种文化是由19世纪的百货商店开创的。这些商店在高雅的氛围中向消费者提供各种各样的商品。这些商店不是去迎合知识精英的幽静宜人的商店，而是不论阶层和背景，任何人都能进去的商店。这就使购物成为一种公众的、民主的行动。大众传媒、广告和体育是均质化的其他推动力量。
+　　国外来的移民很快适应了这种大众文化；它可能全然不会提高人们的思想修养，但几乎也不会败坏人们的道德。Gregory 
+Rodriguez在为《国家移民论坛》撰稿时报道说，今天的移民既没有达到空前的数量，也没有抗拒同化。1998年移民占美国人口的9.8%；1900年占13.6%。在1990年以前的10年中，每1000个居民有3.1个移民；而在1890年以前的10年中，每1000个居民中就有9.2个移民。现在，想一想同化的3个标志：语言、住房所有权和通婚。
+　　1990年的人口统计披露，来自15个最常见的移民来源国的每个国家的多数移民在居住了10年以后英语讲得“好”或“很好”。移民的孩子往往是讲双语的，并且精通英语。“到了第三代，在大多数移民家庭中原来的本国语言消失了。”因而人们把美国说成是语言的“坟墓”。到1996年，1970年以前到达的国外出生的移民房屋拥有率占75.6%, 
+高于土生土长的美国人的房屋拥有率（69.8%）。
+　　国外出生的亚洲人和讲西班牙语的人“比在美国出生的白人和黑人的通婚率高。”到第三代，讲西班牙语的女子中有三分之一嫁给非西班牙裔的男子；41%的亚裔美国女子嫁给非亚裔男子。
+　　Rodriguez指出，世界各地偏僻乡村的儿童是诸如阿诺德 斯瓦辛格和加思 
+布鲁克斯这样的超级电影明星的热情崇拜者（迷）；然而“有些美国人担心，生活在美国国内的移民仍然由于某种原因不受这个国家的同化力的影响。
+　　美国是否存在造成不和的问题和因愤怒而骚动的地区？的确，美国如此巨大，什么东西都可能有一点。但是对照美国动荡的过去来看，今天的各项社会标志几乎没有表明存在着一个黑暗的、日益恶化的社会环境。
+　　Text 2 参考译文
+　　人人都喜欢工资涨得多一点。然而，如果你了解到一位同事工资涨得比你还多，那么你对自己涨工资的这份高兴劲就会荡然无存。的确，如果他是工作懒散而出了名的，那你甚至可能会大发雷霆。这种行为表现被认为是“人所共有的”，言下之意，动物或许不会有这种忿恨不平之感。但是，乔治亚洲亚特莱大市的Emory大学的Sarah 
+Brosnan和Frans de Waal发表在《自然》杂志上的一项研究报告表明，这种行为也是猴子所共有的。
+　　研究人员研究了雌性棕色卷尾猴的行为表现。这些猴子看上去很伶俐。它们是性格和善、善于协作的动物，并且愿意分享它们的食品。最重要的是，与人类中的女性一样，这些雌性卷尾猴往往比雄性卷尾猴更加看重“商品和服务”的价值。
+　　这些特征使雌性卷尾猴成了Sarah Brosnan博士和Frans de 
+Waal博士研究的首选对象。他们费了两年时间教这些猴子用代金券去换食物。正常情况下，猴子很乐意用石片去换黄瓜片。可是，当两只猴子被放在分开的但相邻的两间小室里，以便每只猴子都能看到另一只猴子用石片能换到什么东西，这时它们的行为变得显著不同。
+　　在众多的卷尾猴眼中，葡萄是一种豪华食品（比黄瓜强多了）。因此当一只猴子用一片石片换来一粒葡萄时，另一只猴子就不愿意把它的石片递过去只换一片黄瓜。并且如果一只猴子收到一粒葡萄而根本不用石片去交换，另一只猴子要么把它的石片朝研究人员扔去，要么就从小室里扔出去，要么拒绝接受这片黄瓜。的确，只要在另一间小室里有一粒葡萄（没有实际的猴子去吃），就足以诱发一只雌性卷尾猴心中的忿恨。
+　　研究人员认为，卷尾猴也像人一样，由社交的情感所支配。在野生环境中，卷尾猴是一种善于协作的群居动物。这样的协作，只有在每个动物感到它没有受骗时，才可能是稳固的。看来，正当的愤怒感并不是只有人才有的。拒绝接受较少的报酬这一行为使这个群体的其他成员非常清楚地看到这些情感。然而，这种公平感是否是人与卷尾猴在进化过程中各自形成的，或者源于三千五百万年前人与猴子共同的祖先，至今还是一个无法回答的问题。
+　　Text 3 参考译文
+　　美国的缉毒战一直在不断的升级，近来已达到前所未有的程度。全国各州、市的执法官员正在夜以继日地工作，以便根除社会各阶层中存在的非法使用、占有和传布各种毒品的现象。越来越多的人力、物力投入到这场斗争中去，但其结果忧喜参半。
+　　随着时间的推移，越来越多的资金投入到缉毒工作中去。据最近一次结算，每年用于这场持续不断的缉毒战的资金达到192亿美元，包括执法官员的薪金、教育、医疗费用以及其它的开支。这个惊人的数目等于说，每秒钟要花掉609美元。
+　　正在取得一些成果。每20秒钟就逮捕一名与毒品有关的犯罪者，每天有648人因与毒品有关的指控而被投入监狱。这些数字表明，美国在缉毒战中采用的流行做法是，追捕支持毒品行业的任何人。政府希望，通过取缔毒品的供求双方使这个行业自行垮台。
+　　除了直接逮捕参与非法毒品交易的买卖双方以外，美国政府还开展了一场运动，禁止主要以注射器来使用毒品的工具。为了这一目标，联邦政府最近禁止注射品交易，这一禁令旨在限止获取使用某些非法毒品所必备的工具。
+　　然而，这一措施已经引发了严厉的批评，因为它导致了使用并重复使用不卫生的注射品；这就可能会增加毒品使用者中的艾滋病感染数，这些人，要不是联邦政府的禁令，如果使用能得到的卫生的注射器本来是可以避免感染的。根据旧金山加利福尼亚大学艾滋病预防研究中心的一项研究报告表明，如果撤销联邦政府有关注射器交易的禁令，每年4000名新的艾滋病病毒感染者本来是可以避免的。这就是说，每天可以避免10多起新的艾滋病病毒感染。这一数字不禁使人驻足沉思，这场缉毒战中是否采用了可能的最佳办法？
+　　Text 4 参考译文
+　　Wild Bill Donovan 
+本来是会喜欢互联网的。这位在第二次世界大战中建立战略服务办公处并在后来为中央情报局奠定基础的美国间谍大师对情报独具钟情。在作为“职业”的间谍活动“大游戏”中，Donovan 
+信赖使用任何到手的工具。如今，由于网络已经改变了购物和发邮件这样的日常活动，它也在改变Donovan所从事的间谍职业。
+　　最近这场用互联网来改变间谍活动的革命并不仅仅是一些先生读另一些先生的电子邮件。那种电子间谍活动已经进行了数十年了。在过去的三、四年中互联网创建了点击式间谍活动的整整一个行业。这些间谍称它为“敞开来源的情报”，并且随着网络的发展，这个行业的影响越来越大。1995年中央情报局举行了一次竞赛，看谁能够收集和汇编出有关布隆迪的最多的资料。遥遥领先的获胜者是弗吉尼亚州的一家小公司，名叫“敞开来源解决办法”。这个公司的明显优势是，它掌握了电子世界。
+　　在这个新的领域引起轰动的公司中有Straitford公司 － 
+一家以得克萨斯州奥斯汀为基地的私人情报分析公司。Straitford靠把间谍活动（包括从智利到俄罗斯的国家）成果卖给公司，如McDermott国际能源服务公司，来赚钱的。它的许多预测可以在www.straitford.com. 
+网站的网上得到。
+　　Straitford公司董事丧George 
+Friedman说，他把网上世界看作是一种对情报收集和发送互惠的有力工具。上周他的公司忙于全力搜集来自世界各地的资料信息并预测在乌克兰将会发生一场危机。前任政治学教授Friedman说，“那个报导一发表，我们将立刻从乌克兰收到500条新的互联网贴子。”“并且我们将从其中一些帖子中收到回音。”敞开来源的间谍活动确实有它的风险，因为很难区别有用的情报和无用的情报。可那就是Straitford公司挣钱自立之所在。
+　　Friedman 
+依靠在奥斯汀的仅仅20人的人员。其中有几人有军事情报工作的背景。他把公司所处的局外人的地位看作是公司成功的关键。Straitford发出的短讯并不像通常华盛顿的来往报告，因此，情报机构避免做出激动人心的正式声明，担心这些声明可能有误。Friedman说，Straitford公司为其不为人左右的声音而自豪。
+　　帮助你学习记忆单词的有效方法 -- 同根词解析
+　　*affect [af (=ad) 去 + fect 起作用] vt. 1. 影响 2. （感情方面）打动 * affected a. 
+做作的，假装的，不自然的 *affecting a. 令人感动的 *affection n. 慈爱，爱慕，爱情 * affectionate a. 
+重感情的，慈爱的 * affectionately adv. 你的亲爱的 [用于给亲友写信的结尾] *defect [de 否定 + fect 做 = 
+没有做好] n. 缺点，缺陷，毛病 *defection n. 背信，背叛，变节 *defective a. （指质量）有缺点的，有缺损的 *effect 
+[ef (=ex) 向外 + fect 做 = 做出] n. 结果，效果，作用，影响 *effect vt. 使产生，使发生，引起 *effective a. 
+有效的，生效的 *effectively adv. 有效地，能产生预想结果地
+　　*infect [in 往里 + fect 做 = 向里起作用] vt. 传染，感染 *infection n. 传染，感染 *infectious 
+a. 传染的，传染性的；有感染力的 *perfect [per 完全 + fect 做 = 做得完美] a. 1. 完美的，完满的，完好的 2. 完全的，十足的 
+*perfect vt. 使完美，改善 *perfectly adv. 完美他 *perfection n. 尽善尽美，完美
+　　*efficiency [ef (=ex) 出 + fic 做 + iency = 做出的事] n. 效率，功效 *efficient a. 
+效率高的，有能力的 *efficiently adv 效率高地 *inefficient a. 效率低的，无能 *deficiency [de不 + fic 做 
++ ciency ] n. 缺乏，不足，缺陷 *deficient a. 缺乏的， *sufficiency [su超过 + fic 做 + iency = 
+超过做的事] n. 充足，足量 *sufficient a. 足够的，充分的 *sufficiently adv. 足够地，充分他 *insufficient 
+[in不够 + sufficient] a. 不足的，不够的 *insufficiently adv. 不足地，
+　　*proficiency [pro向前 + fic 做 + iency] n. 熟练，精通 *proficient a. 熟练的，精通的
+　　来源：北京太奇培训学校2&nbsp; 

@@ -1,0 +1,11 @@
+
+　　CNET科技资讯网5月9日国际报道 尽管已经得到了国际标准机构的认可，欧盟委员会仍然不愿意推荐OpenDocument文件格式。
+　　据知情人士称，微软使其文件格式标准化的努力可能是阻止欧盟委员会支持OpenDocument的原因。
+　　OpenDocument得到了包括OpenOffice在内的许多软件的支持，但目前Office仍然不支持它。上周二，ISO 、IEC 批准了OpenDocument。
+　　去年10月份，欧盟委员会IDABC 的芭芭拉表示，如果被批准成为ISO 标准，IDABC 将开始建议公共机构使用OpenDocument。
+　　但一个月后芭芭拉宣布，微软正在向欧洲的标准机构ECMA International提交其Office Open XML 文件格式，并希望Office 
+Open XML 能够成为ISO 标准。
+　　上周四，一名知情人士向ZDNet UK表示，尽管IDABC 可能很快公布新的政策，由于认为随后会有第二种ISO 文档标准出现，IDABC 
+不大可能会推荐OpenDocument。
+　　该人士说，一种非常可能的情况是，我们将强烈建议公共机构使用开放的文档格式。由于随后将会有二种ISO 
+文档标准，我们不大可能会推荐某种文档标准。我们将敦促业界厂商实现多种格式间的兼容性，最终形成单一的文档标准。

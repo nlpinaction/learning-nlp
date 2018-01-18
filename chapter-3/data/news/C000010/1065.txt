@@ -1,0 +1,6 @@
+　　【eNet硅谷动力消息】海外媒体最新消息，微软和SAP公司将合作计划重新命名为“Duet”，以拉近双方公司的旗舰产品。
+　　一年前，SAP和微软宣布了Project Mendocino计划，授权消费者通过微软Office操作SAP的应用软件。双方公司于周二表示，重命名的Duet将按计划在6月推出。
+　　微软和SAP想在今年共同推出该计划，包括下月开始发布消费者简报。自去年12月，公司已经对消费者进行了应用软件连接测试，任务有允许e-mail客户使用微软的Outlook从SAP的后方office系统观看详细的预算数据。
+　　明年下半年，两家公司计划发布两个“value packs”，通过Office授权操作SAP的功能和数据。其中的链接包括Office与SAP消费者关系管理和用于五步骤的供应关系管理应用程序，或者包括分析学和征募的任务。
+　　Duet附加软件是为2007年发布Office和MySAP ERP的下一次发布而设计的。企业应用程序咨询的首要分析师Joshua Greenbaum称，SAP可能首先在自己的消费者群体中销售Duet。但密切合作会加剧SAP和微软的Dynamics应用程序部门之间的竞争。
+　　Greenbaum说：“微软曾发生过这种现象，它也很关心停止整合Office。Duet不会削弱Dynamics在SAP消费者群体的实力。”

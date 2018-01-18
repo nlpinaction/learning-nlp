@@ -1,0 +1,44 @@
+　　您曾经在超市购买过像枸杞、菊花之类的药材吗？有专人给您解释这些药材什么样的人才需要服用吗，您自己知道这些解释是否科学吗？请参与法制晚报与搜狐健康共同推出的——超市药材购买存在的问题小调查。
+
+
+
+
+
+超市购买药材、饮片小调查
+
+1、您有过在超市里购买决明子、枸杞、菊花等药材的经历吗？
+
+有  没有  
+
+2、您购买这些药材是为了：
+
+烹调  泡茶  其他 
+ 
+
+3、您购买的这些药材的包装为：
+
+散装（含超市自行包装）
+
+有包装的品牌货  
+
+4、您购买的这些药材有用法、用量、禁忌的说明吗？
+
+有  没有  
+没注意  
+
+5、您认为是否需要说明？
+
+需要  不需要  
+无所谓  
+
+6、您本人了解药材有各自的适应人群吗？
+
+了解  不了解  
+
+7、您知道药材剂量、用法不当会对身体有害吗？
+
+知道  不知道  
+
+
+     
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }

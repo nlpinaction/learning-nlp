@@ -1,0 +1,4 @@
+　　【eNet硅谷动力消息】5月4日消息 本周二，Sun微系统公司表示要继续整合于去年以41亿美元收购的StorageTek公司的技术，并宣布公司的企业存储、管理和安全数据等整体战略。
+　　Sun指出，身份管理、虚拟技术、安全和技术整合是公司未来战略的四大核心。公司推出的新产品包括Sun StorageTek 5320 NAS Appliance、Fibre Channel以及Serial ATA、StorageTek Virtual Storage Manager(VSM)等。
+　　在身份管理产品方面，Sun公司整合了于2003年收购的Waveset 公司的技术，并将其应用于StorageTek企业存储管理软件，以查询、监测、汇报存储资源使用情况。麦克利尼称，"身份管理是ILM架构中最为重要的元素"。他指出，随着互联网的广泛应用和博客、播客以及视频等数据大的大量涌现，企业面临管理数据的巨大挑战。"所有这一切都于数据有关，而不是存储。世界在改变，我们正从互联网时代进入参与时代，届时互联网上每个人都是发行者，都是编辑。"
+　　同时，Sun还推出了新的产品Managed Operations for Storage，以帮助企业管理数据，降低存储管理的成本，降低数据损失的风险。Sun还推出了Information Management Maturity Model(IM3)平台以帮助企业检查存在于ILM战略中的弱项。今年6月，Sun将在Solaris 10中推出新一代存储文件系统ZFS，实现存储管理的自动存储，增强数据的整合。

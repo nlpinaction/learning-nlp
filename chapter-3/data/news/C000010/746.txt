@@ -1,0 +1,8 @@
+　　【eNet硅谷动力消息】据国外媒体报道，一些开源开发人员目前已经成功开发出了一个为目前"激战正酣"的OpenDocument和微软Office"搭桥"的程序，这个插件程序可以让Office用户打开或保存OpenDocument格式的文档。
+　　这个第三方插件的主要开发人员名叫加里·爱德华，目前参加了开源办公软件OpenOffice.org项目的开发，还是"OpenDocument基金会"的创建人。上周四，爱德华在Groklaw撰文谈及了如何让OpenDocument和微软Office共同生存。
+　　不过，这个新插件程序尚未正式对外发布。爱德华等人已经开发了长达一年的时间，并在一周前完成了初步的测试。它可以让微软Office用户随意地访问或保存OpenDocument格式的文档。
+　　爱德华表示："这个OpenDocument插件的功能会出现在微软Office的'文件'菜单，对于用户来说是完全透明的。当用户打开、保存或另存为时，都是出现OpenDocument格式的选项。通过这个插件，微软Office将可以方便地打开OpenDocument文档。"
+　　媒体分析认为，如果这个插件程序诚如爱德华所言，它将改变目前OpenDocument和微软Office的竞争格局。考虑到微软Office的普及程度，OpenDocument格式以及相关产品将获得提升。
+　　上周，国际标准组织和国际电工委员会31名委员进行了表决投票，正式批准OpenDocument为一种标准的文档文件格式，这个标准即将在近期对外公布。微软作为表决成员之一，并未投出否决票。微软方面表示，不反对其他组织将OpenDocument列为标准，微软将谋求和它的互操作性。不过，微软另外一个官员则表示，OpenDocument无法满足今天Office用户的需求。
+　　OpenDocument成为ISO标准将对微软和OpenDocument的"大战"产生何种影响，目前还有待观察。微软已经将其Office
+　　2007采用的开放XML文档标准提交给了另外几个标准组织，以供审核。

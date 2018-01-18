@@ -1,0 +1,83 @@
+
+
+
+
+关于癌症知情权的问卷调查
+
+&nbsp;
+
+1、问题1：你的性别是？
+
+ 
+男
+ 
+女
+
+&nbsp; 
+ 
+
+2、问题2：你的年龄是？
+
+ 20-30
+ 31-40
+
+ 41-50
+ 51-60
+
+ 
+61岁以上
+
+&nbsp; 
+ 
+
+3、问题3：你从事的职业属于？
+
+ 公务员
+ 企业人员
+
+ 服务性行业
+ 自由职业者
+
+&nbsp; 
+ 
+
+4、问题4：如果你的亲人患了癌症，你会告诉他（她）真实的病情吗？
+
+ 会（请继续回答第5题）
+ 
+不会（请跳至第6题）
+
+ 
+先瞒着他（她）不到迫不得已，不说出实情
+ 视具体情况而定
+
+&nbsp; 
+ 
+
+5、问题5：你告诉亲人实际病情的原因是？
+
+ 病人有权知道自己的病情
+ 
+告诉他（她）对她的病情有帮助
+
+ 
+肯定瞒不住，还是及早说实话的好
+
+&nbsp; 
+ 
+
+6、问题6：你不告诉病人病情的原因是
+
+ 
+怕他（她）知道后心理无法承受
+ 
+怕他（她）因为昂贵的治疗费用而不配合治疗
+
+ 
+怕他（她）伤心，使病情恶化
+
+&nbsp;
+
+
+       
+var NewWin = null; function WinOpen(url) {if(!NewWin || NewWin.closed) {NewWin=LoadWin(url,'win_poll',418,300);}else{NewWin.focus();}} function LoadWin(url, name, width, height) {var str='scrollbars,resizable,location,height='+height+',innerHeight='+height+',width='+width+',innerWidth='+width; if(window.screen) {var ah=screen.availHeight-30; var aw=screen.availWidth-10; var xc=(aw-width)/2; var yc=(ah-height)/2; str +=',left='+xc+',screenX='+xc; str +=',top='+yc+',screenY='+yc;} return window.open(url,name,str); }

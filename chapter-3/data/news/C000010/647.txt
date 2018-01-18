@@ -1,0 +1,13 @@
+　　摘要：在微软公司的支持之下，思科发布了一项客户关系管理(CRM)应用---Cisco Unified CRM Connector 3.0，该应用与Microsoft Dynamics CRM 3.0紧密集成在一起，将帮助中小企业(SMB)快速访问呼入和呼出的客户信息，从而提高运营效率和客户服务。
+　　近日，思科系统公司宣布，在微软公司的支持之下，思科发布了一项客户关系管理(CRM)应用---Cisco Unified CRM Connector 3.0，该应用与Microsoft Dynamics CRM 3.0紧密集成在一起，将帮助中小企业(SMB)快速访问呼入和呼出的客户信息，从而提高运营效率和客户服务。
+　　Cisco Unified CRM Connector 3.0可提供完整的客户信息，包括现在和过去的购买历史、销售信息、订单状态、账户关系和计费信息等。当Cisco Unified CallManager 或 Cisco Unified CallManager Express接到呼叫后，Cisco Unified CRM Connector 3.0可自动链接到Microsoft Dynamics CRM系统，并在界面上弹出显示客户联系记录和电话记录的窗口，以便服务代表跟踪呼叫。这些信息和功能也可从远程访问，以便现场销售和服务人员也能快速了解。解决方案可将新客户数据或电话信息加载到系统中，以便从最新的客户信息开始下一次的客户互动。
+　　微软公司Microsoft Dynamics CRM产品部总经理Brad Wilson说:“思科统一通信与Microsoft Dynamics CRM的集成解决方案可帮助公司提高员工工作效率和客户满意度，同时降低成本。与思科合作可使我们提供认可的集成解决方案，以帮助企业与客户之间建立更具有利润潜力的关系。”
+　　Cisco Unified CRM Connector 3.0的特性
+　　Cisco Unified CRM Connector 3.0中全新的高级特性包括创新的互联网协议(IP)电话服务，可从匹配客户呼入记录将完整的客户信息自动传输至Cisco Unified IP电话。IP电话查找服务允许用户从任何能够显示可扩展标记语言(XML)的Cisco Unified IP电话来查看客户联络信息。其他特性还包括快速轻松的点击拨号功能，用于访问CRM联系记录、跟踪呼叫的持续时间并捕获具体的呼叫信息。Cisco Unified CRM Connector 3.0以相关的呼叫信息填充Microsoft CRM数据库。使用自动呼叫跟踪功能，用户可查看与客户相关的完整的通信历史。
+　　GreenStone Farm Credit Services 信息系统部副总裁Dominic Roberts说:“思科与微软公司都将为增长型企业部署网络化应用视为战略性目标，以帮助他们保持竞争优势。思科产品与Microsoft Dynamics CRM解决方案的完美集成使我们能够更好地提供更一致的客户体验。当我们的业务代表接听客户电话并说‘感谢您致电GreenStone’时，他们已经对这名客户了如指掌。”
+　　Cisco Unified CRM Connector 3.0现已能够用于Cisco Unified CallManager Express、Cisco Unified CallManager和Cisco Unified Contact Center Express。全新的CRM应用现已配备了自动检测功能，可识别哪个思科IP平台正在使用之中。产品支持广泛的Cisco Unified IP电话，从入门级的Cisco Unified IP电话7902G直到高级Cisco Unified IP电话7970G。
+　　渠道伙伴的合作机会
+　　思科日前还宣布启动面向思科和微软合作伙伴的新项目‘FastStart’，以便提供资源来帮助他们销售思科统一通信和Microsoft Dynamics CRM解决方案。思科与微软公司现已联合开发出了全面的渠道伙伴及合作伙伴自助服务网站，以便为中小企业客户有效提供全面的解决方案。
+　　FastStart网站包含大量自助资源，如Cisco Unified CRM Connector 3.0下载、思科及微软合作伙伴定位器、销售工具和演示脚本、事件收集箱和需求生成活动套件、最终用户内容、以及为当地活动安排微软通行全美(Microsoft Across America)巡回展日程的申请表等。
+　　思科系统公司中小企业营销部门副总裁Peter Alexander说:“在全部客户互动中，约有70%是通过电话进行的。通过使用思科统一通信与Microsoft CRM的集成解决方案来实时访问客户信息，SMB可提高员工工作效率和客户满意度。”
+　　Cisco Unified CRM Connector 3.0现已作为促销产品提供给思科和微软公司位于美国和加拿大的核心合作伙伴。

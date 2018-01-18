@@ -1,0 +1,155 @@
+
+.cur {
+	FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: 宋体
+}
+.wtm {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: 宋体
+}
+.chn {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体
+}
+.bhn {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: 宋体
+}
+.hdr {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; FONT-FAMILY: 宋体
+}
+.itm {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体
+}
+.eng {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, 宋体
+}
+.line {
+	FONT-SIZE: 14px; LINE-HEIGHT: 1.4; FONT-FAMILY: 宋体, Arial Narrow, Times New Roman
+}
+.nine {
+	FONT-SIZE: 14px; COLOR: #000099; LINE-HEIGHT: 1.4; FONT-FAMILY: 宋体, Arial Narrow, Times New Roman
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #cc0033; FONT-FAMILY: 宋体, Arial Narrow, Times New Roman
+}
+.tnocolor {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; FONT-FAMILY: 宋体, Arial Narrow, Times New Roman
+}
+.head {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #000099; FONT-FAMILY: 宋体, Arial Narrow, Times New Roman
+}
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体
+}
+.style1 {color: #9933FF}
+.style5 {color: #0000CC}
+.style7 {color: #CC33FF}
+.style9 {color: #9933CC}
+.style13 {color: #CC00FF}
+
+
+function processForm(form){var xf=0;var flag=1;var h1=new Array(11);for (i=0;i=8) && (xf=4) && (xf=0) && (xf
+
+
+
+
+
+
+
+
+  
+  
+    
+    
+    
+      
+      
+        
+        
+          
+            function processForm(form){var xf1=0,xf2=0,xf3=0;var flag=1;var h1=new Array(19);for (i=0;ixf2) && (xf1>xf3)){form.answer.value="　　你有成为专断型领导人的倾向。"}if ((flag!=0) && (xf2>xf1) && (xf2>xf3)){form.answer.value="　　你有成为民主型领导人的倾向。"}if ((flag!=0) && (xf3>xf1) && (xf3>xf2)){form.answer.value="　　你有成为自由放任型领导人的倾向。"}}
+
+            
+            
+            
+              
+              
+                
+                  你是哪一类型的领导者 　　 
+                  假如你是一位领导，你遇到下列18道问题时会怎么选择？假如你将要升任领导职位，你又会怎么做？请测试一下？ 
+                  1、你经营咖啡馆、音乐茶座一类的行业吗？ 
+                  a.  是　b.  否　 
+                  2、平常在把决定付诸实施前，你认为有说明其理由的价值吗？ 
+                  a.  是　b.  否 
+                  3、在领导部下的时候，与其一方面跟他们工作，一方面监督他们；还不如从事规划、草拟细节等管理性的工作，你认为是这样吗？ 
+                  
+                  a.  是　b.  否 
+                  4、在你所管辖的部门有一位陌生人，你知道那是你的部下最近录用的人。你会不介绍自己而先问他的姓名吗？ 
+                  a. 
+                     
+                    是　b. 
+                    
+                    否　 
+                  5、流行走近你的部门的时候，你让你的部下追求流行吗？ 
+                  a.  是　b.  否　 
+                  6、让部下工作之前，你一定把目标及方法提示给他们吗？ 
+                  a. 
+                     
+                    是　b. 
+                    
+                    否　 
+                  7、与部下过分亲近会失去部下的尊敬，所以还是远离他们比较好，你认为对吗？ 
+                  
+                  a.  是　b.  否　 
+                  8、郊游之日到了，你知道大部分的人都希望星期六去，但是从许多方面判断，你认为还是星期日好。你是否意识到还是不要自己作主，而由大家来投票好？ 
+
+                  
+                  a. 
+                       
+                      是　b. 
+                      
+                      否　 
+                  9、当你想要你的部下做一件事情的时候，即使是一件谁都可以做的事，你也一定自己以身作则，以便他们跟随你，是吗？ 
+
+                  
+                  a.  是　b.  否　 
+                  10、你认为要把一个人撤职并不困难吗？ 
+                  
+                  a. 
+                       
+                      是　b. 
+                      
+                      否　 
+                  11．越能够亲近部下，越能够有效地领导他们，你认为对吗？ 
+                  
+                  a.  是　b.  否　 
+                  12．你花了不少时间拟定了一个问题的解决方案，然后交给一个部下，可是他却找这个方案的毛病。这时，你并不生他的气，但对于问题依然没有解决而感到坐立不安吗？ 
+
+                  
+                  a.  是　b.  否 
+                  13．坚决处罚违纪者是防止违纪的最佳办法，你赞成吗？ 
+                  
+                  a.  是　b.  否 
+                  14．假如你对某一问题的处理方式受到批评。你认为与其宣布自己的意见是决定的，倒不如说服部下，让他们相信你吗？ 
+
+                  
+                  a.  是　b.  否 
+                  15．你是否让部下自由地与外人为私事而会唔？ 
+                  
+                  a.  是　b.  否 
+                  16．你认为你的部下不应该对付你存有二心吗？ 
+                  
+                  a.  是　b.  否 
+                  17．与其自己亲自解决问题，不如任命解决问题的委员会，你认为对吗？ 
+                  
+                  a.  是　b.  否 
+                  18．不少专家认为，在一个团体里发生意见的不同，是很正常的。但也有人认为，从团结的愿望出发，意见的不同是团体的弱点，你赞成第一种看法吗？ 
+
+                  
+                  a.  是　b.  否 
+                   
+                  
+                   
+ 
+                   
+                  
+              
+        
+     

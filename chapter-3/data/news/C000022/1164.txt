@@ -1,0 +1,137 @@
+
+.cur {
+	FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: 宋体
+}
+.wtm {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: 宋体
+}
+.chn {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体
+}
+.bhn {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: 宋体
+}
+.hdr {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; FONT-FAMILY: 宋体
+}
+.itm {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体
+}
+.eng {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, 宋体
+}
+.line {
+	FONT-SIZE: 14px; LINE-HEIGHT: 1.4; FONT-FAMILY: 宋体, Arial Narrow, Times New Roman
+}
+.nine {
+	FONT-SIZE: 14px; COLOR: #000099; LINE-HEIGHT: 1.4; FONT-FAMILY: 宋体, Arial Narrow, Times New Roman
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #cc0033; FONT-FAMILY: 宋体, Arial Narrow, Times New Roman
+}
+.tnocolor {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; FONT-FAMILY: 宋体, Arial Narrow, Times New Roman
+}
+.head {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #000099; FONT-FAMILY: 宋体, Arial Narrow, Times New Roman
+}
+.style1 {
+	color: #0000CC;
+	font-weight: bold;
+}
+.style2 {color: #9900FF}
+.style3 {color: #0066FF}
+.style4 {color: #FF00CC}
+
+
+function processForm(form){var xf=0;var flag=1;var h1=new Array(11);for (i=0;i=8) && (xf=4) && (xf=0) && (xf
+
+
+
+
+.ui_top {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 18px
+}
+.ui_top A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.ui_top A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.ui_top A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+
+
+
+
+  
+  
+   
+        
+      
+      
+        
+        
+          
+            function processForm(form){var xf1,xf2,hc1, hc2, hc3, hc4, hc5, hc6, hc7, hc8, hc9,hc10,hc11,hc12;xf=hc1=hc2=hc3=hc4=hc5=hc6=hc7=hc8=hc9=hc10=hc11=hc12=1;if (form.c1[1].checked==1) hc1=2;if (form.c1[2].checked==1) hc1=3;if (form.c1[3].checked==1) hc1=4;if (form.c1[4].checked==1) hc1=5;if (form.c2[1].checked==1) hc2=2;if (form.c2[2].checked==1) hc2=3;if (form.c2[3].checked==1) hc2=4;if (form.c2[4].checked==1) hc2=5;if (form.c3[1].checked==1) hc3=2;if (form.c3[2].checked==1) hc3=3;if (form.c3[3].checked==1) hc3=4;if (form.c3[4].checked==1) hc3=5;if (form.c4[1].checked==1) hc4=2;if (form.c4[2].checked==1) hc4=3;if (form.c4[3].checked==1) hc4=4;if (form.c4[4].checked==1) hc4=5;if (form.c5[1].checked==1) hc5=2;if (form.c5[2].checked==1) hc5=3;if (form.c5[3].checked==1) hc5=4;if (form.c5[4].checked==1) hc5=5;if (form.c6[1].checked==1) hc6=2;if (form.c6[2].checked==1) hc6=3;if (form.c6[3].checked==1) hc6=4;if (form.c6[4].checked==1) hc6=5;if (form.c7[1].checked==1) hc7=2;if (form.c7[2].checked==1) hc7=3;if (form.c7[3].checked==1) hc7=4;if (form.c7[4].checked==1) hc7=5;if (form.c8[1].checked==1) hc8=2;if (form.c8[2].checked==1) hc8=3;if (form.c8[3].checked==1) hc8=4;if (form.c8[4].checked==1) hc8=5;if (form.c9[1].checked==1) hc9=2;if (form.c9[2].checked==1) hc9=3;if (form.c9[3].checked==1) hc9=4;if (form.c9[4].checked==1) hc9=5;if (form.c10[1].checked==1) hc10=2;if (form.c10[2].checked==1) hc10=3;if (form.c10[3].checked==1) hc10=4;if (form.c10[4].checked==1) hc10=5;if (form.c11[1].checked==1) hc11=2;if (form.c11[2].checked==1) hc11=3;if (form.c11[3].checked==1) hc11=4;if (form.c11[4].checked==1) hc11=5;if (form.c12[1].checked==1) hc12=2;if (form.c12[2].checked==1) hc12=3;if (form.c12[3].checked==1) hc12=4;if (form.c12[4].checked==1) hc12=5;xf1=hc1+hc3+hc5+hc7+hc9+hc11;xf2=hc2+hc4+hc6+hc8+hc10+hc12;		form.answer.value="你的经营取向得分为"+xf1+"分；社交取向得分为"+xf2+"分";}
+            
+            
+            
+            
+            
+              
+              
+              
+                
+                  
+                  职业兴趣测验:你是否乐于从事与人打交道的工作？ 
+                  本测试旨在帮助你选择自己更喜欢的或者更适合自己的职业，使你找到满意的工作。本测验的每一个题目都给出一种活动、或一种技能、或一种职业，请你依自身情况选择。
+                  
+                  
+                  1、策划企业活动。 非常不喜欢。  稍有不喜欢。  无所谓。  稍有喜欢。  非常喜欢。
+                  
+                  2、参加联谊活动。 非常不喜欢。  稍有不喜欢。  无所谓。 
+                   稍有喜欢。  非常喜欢。
+                  
+                  3、领导促销活动。 非常不喜欢。  稍有不喜欢。  无所谓。 
+                   稍有喜欢。  非常喜欢。
+                  
+                  4、调节邻里纠纷。 非常不喜欢。  稍有不喜欢。  无所谓。 
+                   稍有喜欢。  非常喜欢。
+                  
+                  5、销售经理。 非常不喜欢。  稍有不喜欢。  无所谓。 
+                   稍有喜欢。  非常喜欢。
+                  
+                  6、为公益事业做义务宣传。 非常不喜欢。  稍有不喜欢。  无所谓。 
+                   稍有喜欢。  非常喜欢。
+                  
+                  7、企业经营顾问。 非常不喜欢。  稍有不喜欢。  无所谓。 
+                   稍有喜欢。  非常喜欢。
+                  
+                  8、当教师。 非常不喜欢。  稍有不喜欢。  无所谓。 
+                   稍有喜欢。  非常喜欢。
+                  
+                  9、投资商。 非常不喜欢。  稍有不喜欢。  无所谓。 
+                   稍有喜欢。  非常喜欢。
+                  
+                  10、做职业咨询顾问。 非常不喜欢。  稍有不喜欢。  
+                  无所谓。  稍有喜欢。  非常喜欢。
+                  
+                  11、市场行情策划。 非常不喜欢。  稍有不喜欢。  无所谓。  稍有喜欢。 
+                   非常喜欢。
+                  
+                  12、安慰别人。 非常不喜欢。  稍有不喜欢。  无所谓。  稍有喜欢。 
+                   非常喜欢。
+                   
+                   
+            
+              
+            说明 
+            经营取向：6-12分为较低，13-24分为中等，25-30分为较高；社交取向：6-12分为较低，13-22分为中等，23-30分为较高；分数越高，表明你越喜欢该类型的工作。
+            以上问题测试了经营取向和社交取向两种类型的职业兴趣。
+            经营取向的个体喜欢诸如推销、服务、管理类型的工作。这种取向类型的人往往具有领导才能和口才，对金钱和权力感兴趣，喜欢影响控制别人。这种人喜欢同人和观念而不是与事务打交道。他们热爱交际、冒险、精力充沛、乐观、和蔼、细心、抱负心强。`
+            社交取向的个体喜欢社会交往性工作，如教师、咨询顾问、护士等。这类人通常喜欢周围有别人存在，对别人的事很有兴趣，乐于帮助别人解决难题。这种人喜欢与人而不是与事务打交道。他们助人为乐、有责任心、热情、善于合作、富于理想、友好、善良、慷慨、耐心。 
+            
+        
+     

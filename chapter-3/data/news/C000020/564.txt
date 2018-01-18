@@ -1,0 +1,558 @@
+　　选择题：（每题2分，共100分）
+　　1、以下属于物理层的设备是（ A ）
+　　A、中继器
+　　B、以太网交换机
+　　C、桥
+　　D、网关
+　　2、在以太网中，是根据（ B ）地址来区分不同的设备的。
+　　A、LLC地址
+　　B、MAC地址
+　　C、IP地址
+　　D、IPX地址
+　　3、以下为传输层协议的是（ CD ）
+　　A、IP
+　　B、ICMP
+　　C、UDP
+　　D、SPX
+　　4、以下对MAC地址描述正确的是（ BC ）
+　　A、由32位2进制数组成
+　　B、由48位2进制数组成
+　　C、前6位16进制由IEEE负责分配
+　　D、后6位16进制由IEEE负责分配
+　　5、以下属于数据链路层功能的是（ CD ）
+　　A、定义数据传输速率
+　　B、定义物理地址
+　　C、描述网络拓扑结构
+　　D、流控制
+　　6、IEEE802.3u标准是指（ B ）
+　　A、以太网
+　　B、快速以太网
+　　C、令牌环网
+　　D、FDDI网
+　　7、如果要将两计算机通过双绞线直接连接，正确的线序是（ C ）
+　　A、1--1、2--2、3--3、4--4、5--5、6--6、7--7、8--8
+　　B、1--2、2--1、3--6、4--4、5--5、6--3、7--7、8--8
+　　C、1--3、2--6、3--1、4--4、5--5、6--2、7--7、8--8
+　　D、两计算机不能通过双绞线直接连接
+　　8、在V.35和V.24规程中，控制信号RTS表示（D）
+　　A、数据终端准备好；
+　　B、数据准备好；
+　　C、数据载体检测；
+　　D、请求发送；
+　　E、清除发送。
+　　9、路由器作为网络互连设备，必须具备以下哪些特点。（ ABE ）
+　　A、至少支持两个网络接口
+　　B、协议至少要实现到网络层
+　　C、至少支持两种以上的子网协议
+　　D、至少具备一个备份口
+　　E、具有存储、转发和寻径功能
+　　F、一组路由协议
+　　G、必须有较高的协议处理能力
+　　10、路由器的作用有（ ABDG）
+　　A、异种网络互连
+　　B、子网间的速率适配
+　　C、连接局域网内两台以上的计算机
+　　D、隔离网络，防止网络风暴，指定访问规则（防火墙）
+　　E、子网协议转换
+　　F、加快网络报文的传递速度
+　　G、路由（寻径）：路由表建立、刷新、查找
+　　H、报文的分片与重组
+　　11、调用上一条历史命令的快捷键是( A )
+　　A、CTRL-P
+　　B、CTRL-O
+　　C、ALT-P
+　　D、ALT-O
+　　12、交换机工作在OSI七层的哪一层？（B）
+　　A、一层
+　　B、二层
+　　C、三层
+　　D、三层以上
+　　13、以下对CSMA/CD描述正确的是（ A D?? ）
+　　A、在数据发送前对网络是否空闲进行检测
+　　B、在数据发送时对网络是否空闲进行检测
+　　C、在数据发送时对发送数据进行冲突检测
+　　D、发生碰撞后MAC地址小的主机拥有发送优先权
+　　14、以下对STORE AND FORWARD描述正确的是（ CE ）
+　　A、收到数据后不进行任何处理，立即发送
+　　B、收到数据帧头后检测到目标MAC地址，立即发送
+　　C、收到整个数据后进行CRC校验，确认数据正确性后再发送
+　　D、发送延时较小
+　　E、发送延时较大
+　　15、以下对交换机工作方式描述正确的是（ ABD ）
+　　A、可以使用半双工方式工作
+　　B、可以使用全双工方式工作
+　　C、使用全双工方式工作时要进行回路和冲突检测
+　　D、使用半双工方式工作时要进行回路和冲突检测
+　　16、VLAN的主要作用有（ACD ）
+　　A、保证网络安全
+　　B、抑制广播风暴
+　　C、简化网络管理
+　　D、提高网络设计灵活性
+　　17、在交换机中用户权限分为几个级别（ D ）
+　　A、1
+　　B、2
+　　C、3
+　　D、4
+　　18、在路由器的配置过程中查询以S开头所有命令的方法是（B）
+　　A、直接使用？
+　　B、S?
+　　C、S ?
+　　D、DIR S*
+　　19、第一次配置路由器时可以使用的方法为（ A ）
+　　A、使用CON口本地配置
+　　B、使用CON口远程配置
+　　C、使用AUX口远程配置
+　　D、使用TELNET远程配置
+　　20、在何种状态下可以为路由器改名（ B?）
+　　A、普通模式
+　　B、超级模式
+　　C、全局模式
+　　D、接口模式
+　　21、某公司申请到一个C类IP地址，但要连接6个的子公司，最大的一个子公司有 26台计算机，每个子公司在一个网段中，则子网掩码应设为（ D ）。
+　　A、255.255.255.0
+　　B、255.255.255.128
+　　C、255.255.255.192
+　　D、255.255.255.224
+　　22、与10.110.12.29 mask 255.255.255.224属于同一网段的主机IP地址是（ BC ）。
+　　A、10.110.12.0
+　　B、10.110.12.30
+　　C、10.110.12.31
+　　D、10.110.12.32
+　　23、ARP协议的作用是（ D ）
+　　A、将端口号映射到IP地址
+　　B、连接IP层和TCP层
+　　C、广播IP地址
+　　D、将IP地址映射到第二层地址
+　　24、当路由器接收的IP报文的TTL值等于1时，采取的策略是（ C ）
+　　A、丢掉该分组
+　　B、将该分组分片
+　　C、转发该分组
+　　D、以上答案均不对
+　　25、在NetWare 网络中，客户需要访问某个类型的服务器时，首先要发送一个 （B ）广播报文来寻找服务器
+　　A、Rip
+　　B、Sap
+　　C、Gns
+　　D、Arp
+　　26、IPX地址网络地址有（ A ）个字节
+　　A、10
+　　B、8
+　　C、4
+　　D、6
+　　27、对于帧中继描述正确的是（ A ）
+　　A、使用具有本地意义的DLCI描述PVC
+　　B、使用具有全局意义的DLCI描述PVC
+　　C、使用具有本地意义的DLCI描述SVC
+　　D、使用具有全局意义的DLCI描述SVC
+　　28、对于INVERSE ARP的描述正确的是（ C ）
+　　A、通过广播方式解析对端网络地址
+　　B、通过多播方式解析对端网络地址
+　　C、通过LMI信令解析对端网络地址
+　　D、通过广播方式解析对端DLCI
+　　29、下列对于PAP协议描述正确的是（ AC ）
+　　A、使用两步握手方式完成验证
+　　B、使用三步握手方式完成验证
+　　C、使用明文密码进行验证
+　　D、使用加密密码进行验证
+　　30、X.25与帧中继对比描述正确的是（ AC ）
+　　A、X.25是面向连接的协议，传输正确性、稳定性高于帧中继
+　　B、X.25具有两层结构，较帧中继简单
+　　C、X.25对于IP而言传输效率低于帧中继
+　　D、X.25可以提供比帧中继更多的服务
+　　31、X.25使用映射的作用是（ C ）
+　　A、映射本地IP到对端端口值，以便路由器发送数据时确认发送端口
+　　B、映射本地IP到本地端口值，以便路由器发送数据时确认发送端口
+　　C、映射对端IP到本地端口值，以便X.25交换网络查找数据发送路径
+　　D、映射对端IP到对端端口值，以便X.25交换网络查找数据发送路径
+　　32、各个路由协议衡量路由的好坏标准是（ C ）
+　　A、路由
+　　B、路由器优先级
+　　C、路由权
+　　D、包转发率
+　　33、以下是基于链路状态算法的动态路由协议是（ D ）
+　　A、RIP
+　　B、ICMP
+　　C、IGRP
+　　D、OSPF
+　　34、三种路由协议 RIP 、OSPF 、IGRP 各自得到了一条到达目标网络，在华为路由器默认情况下，网络最终选选定（B ） 路由作为最优路由。
+　　A、RIP
+　　B、OSPF
+　　C、IGRP
+　　D、静态路由
+　　35、路由环问题会引起（ABD）
+　　A、循环路由器
+　　B、慢收敛
+　　C、路由器重起
+　　D、路由不一致
+　　36、OSPF 协议适用于基于 IP 的（ C ）
+　　A、大型网络
+　　B、中小型网络
+　　C、更大规模的网络
+　　D、isp与isp之间
+　　37、在rip中metric等于（E ）为不可达
+　　A、8
+　　B、9
+　　C、10
+　　D、15
+　　E、16
+　　38、对于ISDN BRI描述正确的是（AD ）
+　　A、2B+D
+　　B、30B+D
+　　C、使用同轴电缆作为物理传输介质
+　　D、使用普通电话线作为物理传输介质
+　　39、设置话机模拟入呼叫时需要检查的被叫号码或子地址的命令是（ AB ）
+　　A、isdn pots1-answer
+　　B、isdn pots2-answer
+　　C、isdn answer1
+　　D、isdn answer2
+　　40、使能DDR的命令是（ B ）
+　　A、Access-list
+　　B、dialer in-band
+　　C、Dialer-group
+　　D、Dialer-list
+　　41、访问控制列表配置中，操作符 "gt portnumber"表示控制的是（ B ）。
+　　A、端口号小于此数字的服务
+　　B、端口号大于此数字的服务
+　　C、端口号等于此数字的服务
+　　D、端口号不等于此数字的服务
+　　42、某台路由器上配置了如下一条访问列表
+　　access-list 4 deny 202.38.0.0 0.0.255.255
+　　access-list 4 permit 202.38.160.1 0.0.0.255
+　　表示：（ C ）
+　　A、只禁止源地址为202.38.0.0网段的所有访问；
+　　B、只允许目的地址为202.38.0.0网段的所有访问；
+　　C、检查源IP地址，禁止202.38.0.0大网段的主机，但允许其中的202.38.160.0小网段上的主机；
+　　D、检查目的IP地址，禁止202.38.0.0大网段的主机，但允许其中的202.38.160.0小网段的主机；
+　　43、某单位路由器防火墙作了如下配置：
+　　firewall enable
+　　access-list normal 101 permit ip 202.38.0.0 0.0.0.255 10.10.10.10 0.0.0.255
+　　access-list normal 101 deny tcp 202.38.0.0 0.0.0.255 10.10.10.10 0.0.0.255 gt 1024
+　　access-list normal 101 deny ip any any
+　　端口配置如下
+　　interface Serial0
+　　Enable
+　　Ip address 202.38.111.25 255.255.255.0
+　　encapsulation ppp
+　　ip access-group 101 out
+　　interface Ethernet0
+　　ip address 10.10.10.1 255.255.255.0
+　　内部局域网主机均为10.10.10.0 255.255.255.0网段。以下说法正确的是（本题假设其他网络均没有使用防火墙）：（AC ）
+　　A、外部主机202.38.0.50可以ping通任何内部主机；
+　　B、内部主机10.10.10.5，可以任意访问外部网络资源；
+　　C、外部202.38.5.0 255.255.255.0网段主机可以与此内部网主机建立tcp连接；
+　　D、外部202.38.0.0 255.255.255.0网段主机不可以与此内部网主机建立tcp连接
+　　E、内部任意主机都可以与外部任意主机建立tcp连接；
+　　F、内部任意主机只可以与外部202.38.0.0 255.255.255.0网段主机建立tcp连接
+　　44、RIP 协议适用于基于 IP 的（B）
+　　A、大型网络
+　　B、中小型网络
+　　C、更大规模的网络
+　　D、isp与isp之间
+　　45、以下的协议中，哪些是面向连接的协议（ AD）。
+　　A、X25
+　　B、Ethernet
+　　C、IP
+　　D、Frame-relay
+　　46、路由器A的配置如下：
+　　Quidway#SHOW RUN
+　　Current configuration
+　　!
+　　user huawei service-type ppp password 0 quidway
+　　!
+　　interface Ethernet0
+　　ip address 1.1.1.1 255.0.0.0
+　　!
+　　interface Serial0
+　　encapsulation ppp
+　　ppp authentication chap
+　　ppp chap host huawei
+　　ip address 2.1.1.1 255.0.0.0
+　　!
+　　interface Serial1
+　　encapsulation ppp
+　　!
+　　interface Serial2
+　　flowcontrol normal
+　　async mode dedicated
+　　encapsulation ppp
+　　!
+　　exit
+　　ip route 0.0.0.0 0.0.0.0 2.1.1.2 preference 60
+　　end
+　　路由器B的配置如下
+　　Quidway#SHOW RUN
+　　Current configuration
+　　!
+　　user hw service-type ppp password 0 quidway
+　　!
+　　interface Ethernet0
+　　ip address 3.1.1.1 255.0.0.0
+　　!
+　　interface Serial0
+　　clock-select DTECLK1
+　　encapsulation ppp
+　　ppp chap host huawei
+　　ip address 1.1.1.2 255.0.0.0
+　　!
+　　interface Serial1
+　　encapsulation ppp
+　　!
+　　interface Serial2
+　　flowcontrol normal
+　　async mode dedicated
+　　encapsulation ppp
+　　!
+　　exit
+　　ip route 0.0.0.0 0.0.0.0 2.1.1.2 preference 60
+　　end
+　　发现两端路由器不能PING同对端以太网端口，下述说法正确的是（bcd ）
+　　A、A验证配置错误
+　　B、B验证配置错误
+　　C、A验证方路由配置错误
+　　D、B被验证方路由配置错误
+　　47、路由器A配置如下：
+　　Quidway#SHOW RUN
+　　Now create configuration...
+　　Current configuration
+　　!
+　　!
+　　interface Ethernet0
+　　ip address 1.1.1.1 255.0.0.0
+　　!
+　　interface Serial0
+　　clock-select DTECLK1
+　　encapsulation x25 dte ietf
+　　x25 address 2111
+　　x25 map ip 2.1.1.2 2112
+　　ip address 2.1.1.1 255.0.0.0
+　　!
+　　interface Serial1
+　　encapsulation ppp
+　　!
+　　interface Serial2
+　　flowcontrol normal
+　　async mode dedicated
+　　encapsulation ppp
+　　!
+　　exit
+　　router rip
+　　!
+　　end
+　　路由器B配置如下
+　　Quidway#SHOW RUN
+　　Now create configuration...
+　　Current configuration
+　　!
+　　!
+　　interface Ethernet0
+　　ip address 3.1.1.1 255.0.0.0
+　　!
+　　interface Serial0
+　　encapsulation x25 dce ietf
+　　x25 address 2112
+　　x25 map ip 2.1.1.1 2111
+　　ip address 2.1.1.2 255.0.0.0
+　　!
+　　interface Serial1
+　　encapsulation ppp
+　　!
+　　interface Serial2
+　　flowcontrol normal
+　　async mode dedicated
+　　encapsulation ppp
+　　!
+　　exit
+　　router rip
+　　!
+　　end
+　　如下说法正确的是（ A）
+　　A、两端广域网可以联通，但局域网不可以连通
+　　B、两端广域网不可以连通，但局域网可以连通
+　　C、广域网和局域网都可以连通
+　　D、广域网和局域网都不能连通
+　　48、路由器A的配置为：
+　　Quidway#SHOW RUN
+　　Now create configuration...
+　　Current configuration
+　　!
+　　frame-relay switching
+　　!
+　　interface Ethernet0
+　　ip address 10.1.1.1 255.255.0.0
+　　ip rip version 2 mcast
+　　!
+　　interface Serial0
+　　clock-select DTECLK1
+　　encapsulation frame-relay
+　　frame-relay intf-type DCE
+　　frame-relay interface-dlci 100
+　　ip address 2.1.1.1 255.0.0.0
+　　ip rip version 2 mcast
+　　!
+　　interface Serial1
+　　encapsulation ppp
+　　!
+　　interface Serial2
+　　flowcontrol normal
+　　async mode dedicated
+　　encapsulation ppp
+　　!
+　　exit
+　　router rip
+　　no auto-summary
+　　neighbor 2.1.1.2
+　　!
+　　end
+　　路由器B的配置为
+　　Quidway#SHOW RUN
+　　Now create configuration...
+　　Current configuration
+　　!
+　　!
+　　interface Ethernet0
+　　ip address 10.2.1.1 255.255.0.0
+　　ip rip version 2 mcast
+　　!
+　　interface Serial0
+　　encapsulation frame-relay
+　　ip address 2.1.1.2 255.0.0.0
+　　ip rip version 2 mcast
+　　!
+　　interface Serial1
+　　encapsulation ppp
+　　!
+　　interface Serial2
+　　flowcontrol normal
+　　async mode dedicated
+　　encapsulation ppp
+　　!
+　　exit
+　　router rip
+　　no auto-summary
+　　neighbor 2.1.1.1
+　　!
+　　End
+　　如下说法正确的是（ C ）
+　　A、两端广域网可以联通，但局域网不可以连通
+　　B、两端广域网不可以连通，但局域网可以连通
+　　C、广域网和局域网都可以连通
+　　D、广域网和局域网都不能连通
+　　49、路由器A的配置如下：
+　　Quidway#SHOW RUN
+　　Now create configuration...
+　　Current configuration
+　　!
+　　!
+　　interface Ethernet0
+　　ip address 10.1.1.1 255.255.0.0
+　　ip ospf enable area 0.0.0.1
+　　!
+　　interface Serial0
+　　clock-select DTECLK1
+　　encapsulation ppp
+　　ip address 2.1.1.1 255.0.0.0
+　　ip ospf enable area 0.0.0.1
+　　!
+　　interface Serial1
+　　encapsulation ppp
+　　!
+　　interface Serial2
+　　flowcontrol normal
+　　async mode dedicated
+　　encapsulation ppp
+　　!
+　　exit
+　　router ospf enable
+　　!
+　　end
+　　路由器B配置如下
+　　Quidway#SHOW RUN
+　　Now create configuration...
+　　Current configuration
+　　!
+　　!
+　　interface Ethernet0
+　　ip address 10.2.1.1 255.255.0.0
+　　ip ospf enable area 0.0.0.2
+　　!
+　　interface Serial0
+　　encapsulation ppp
+　　ip address 2.1.1.2 255.0.0.0
+　　ip ospf enable area 0.0.0.2
+　　!
+　　interface Serial1
+　　encapsulation ppp
+　　!
+　　interface Serial2
+　　flowcontrol normal
+　　async mode dedicated
+　　encapsulation ppp
+　　!
+　　exit
+　　router ospf enable
+　　!
+　　End
+　　如下说法正确的是（ A ）
+　　A、两端广域网可以联通，但局域网不可以连通
+　　B、两端广域网不可以连通，但局域网可以连通
+　　C、广域网和局域网都可以连通
+　　D、广域网和局域网都不能连通
+　　50、路由器A的配置如下
+　　Quidway#SHOW RUN
+　　Now create configuration...
+　　Current configuration
+　　!
+　　!
+　　interface Ethernet0
+　　ip address 10.2.1.1 255.255.0.0
+　　!
+　　interface Serial0
+　　encapsulation ppp
+　　backup interface Serial 1
+　　ip address 2.1.1.1 255.0.0.0
+　　!
+　　interface Serial1
+　　encapsulation ppp
+　　ip address 3.1.1.1 255.0.0.0
+　　!
+　　interface Serial2
+　　flowcontrol normal
+　　async mode dedicated
+　　encapsulation ppp
+　　!
+　　Exit
+　　Router rip
+　　!
+　　End
+　　路由器B的配置如下
+　　Quidway#SHOW RUN
+　　Now create configuration...
+　　Current configuration
+　　!
+　　!
+　　interface Ethernet0
+　　ip address 10.1.1.1 255.255.0.0
+　　!
+　　interface Serial0
+　　encapsulation ppp
+　　backup interface Serial 1
+　　ip address 2.1.1.1 255.0.0.0
+　　!
+　　interface Serial1
+　　encapsulation ppp
+　　ip address 3.1.1.1 255.0.0.0
+　　!
+　　interface Serial2
+　　flowcontrol normal
+　　async mode dedicated
+　　encapsulation ppp
+　　!
+　　Exit
+　　Router rip
+　　!
+　　End
+　　下述说法正确的是（ BCD ）
+　　A、备份功能可以正常使用
+　　B、备份功能不能正常使用
+　　C、两端可以正常互联
+　　D、两端不能正常互联
+　　

@@ -1,0 +1,193 @@
+
+　　马焱俊，上海新东方GRE、TOEIC阅读主讲教师。凭借对GRE考试全面深入的研究和考场中的巨大成功，有幸成为上海新东方大家庭的一员，也成为国外考试部中最年轻的老师。希望能用自己的活力和热情感染到每一位迷茫又坚强地走在“光荣的荆棘路”中的GRE考生，用详实幽默的课程诠释和丰富新东方的精神，在新东方的恢宏舞台上聚焦出所有生命的光和热。My 
+motto ：“不要为模糊不清的未来担扰，只要清清楚楚地为现实努力即可”。
+　　一直以来，新东方老师在深入研究ETS的各种考试过程中，形成了很多独到深刻的认识和系统的解题技巧。从某种意义说，新东方老师和ETS中的高层出题者变成了counterpart的辨证统一关系。一方面ETS出题者极尽所能把考试变得复杂烦难，另一方面，新东方力求“拨云见日”，揭示了种种试题背后隐藏的秘密。
+　　近日，笔者从网上搜索发现了GRE Research的一份研究论文，其中主要内容涉及了对一个名叫Source 
+Finder的软件实际使用效果的评估。论文发表于2002年，核心软件Source 
+Finder的开发是为了帮助ETS在Internet上自动检索数字论文库EBSCO中的文献，从中提炼出符合ETS各种考试风格要求（比如GRE、GMAT和TOEFL等）的样本文章。根据开发的初衷，软件主要希望1）减少ETS寻找合适文章的时间；2）扩大现有合适备用文章储备；3）正规化从笔考到机考的转变过程；4）提供管理层对item 
+writer（负责审查文章是否符合GRE风格的工作人员）评估文章重新考察的机会；5）为新item writer提供合适以及不合适文章的实例。
+　　该项目从1999年开始投入，由哥伦比亚大学教授Rebecca 
+Passonneau负责，该教授曾着力研究时态和语法规范的语义学计算模型。项目资金由GRE委员会和ETS方面提供，最后也由他们负责验收。可见该软件开发的相对重要性，以及在ETS整体考试发展规划中的地位。
+　　报告中透露出很多关于GRE阅读考试的秘密和背景，笔者认为这些内容不仅对教学研究的深入，以及对考试的多角度认识，都是有一定帮助作用的。除去了关于该软件评测机理，实际使用效果评估等无关内容后，对论文重要内容做一定介绍和分析。
+　　一、 套路结构分析的合理性
+　　报告中摘录了GRE内部培训手则中的一段内容，可谓对GRE文章风格和特点最官方权威的诠释了。原文为：
+　　“Reading comprehension passages generally rely on some kind of tension to 
+give them difficulty. A discussion or argument that develops in a linear fashion 
+toward a conclusion is usually too simple to support challenging items. The 
+requisite tension can take various forms: a conflict between different or 
+opposing arguments about something, an unexpected finding that challenges 
+previously established ways of understanding something, a disagreement about 
+what evidence is relevant to the solution of a particular problem, etc. But 
+disagreement or contrast or opposition is not in itself enough to provide the 
+tension: a passage that merely states or describes opposing positions, without 
+discussing in much detail the reasoning behind them, will not support very many 
+or very complex items. For example, instead of saying that Brown believed X and 
+Smith believed Y, a passage might tell us that Brown, heavily influenced by 
+such-and-such school of thought, tended to assume A, and therefore believed X. 
+Smith, on the other hand, had access to information that Brown did not have, 
+namely B and C, and this information led Smith to conclude Y. However, Smith 
+interpreted B in such a way that it seemed logical to conclude Y, when in fact 
+this interpretation was ill founded. The more interdependent details, the more 
+logical twists and turns, the better. Naturally, a passage containing this kind 
+of density can only be created from a source that provides the requisite 
+information, and such sources are not easy to find. ”
+　　该段内容可以给我们如下几点思考和启示：
+　　1)选段核心概念是tension一词。即使复习到了中后期的GRE考生，很少有人能够做到substantial 
+understanding，完全理解通原文并借此来回答好之后的题目。这个一方面是考试对阅读水平要求太高，另一方面，ETS处心积虑地设置种种障碍破坏了理解全文的可能性。所以考生读了文章，产生“黑云压头头欲催的”压抑感是完全正常的。
+　　2)这种让考生或读者预期获得的感觉是通过什么方式得来的？文章必须有针锋相对观点产生的矛盾，有新发现对已有观点和认识的挑战，有对一个问题解决方案的分歧等。不仅如此，必须还要有充分的细节和逻辑论证推理支持这些分歧和对比。细节越独立，逻辑越纠缠，文章带给读者这种tension的感觉就越强。引文中提到的简单例子几乎是很多GRE阅读文章发展的基本结构，可谓经典的范例之一。作为强对比的，简单线性发展的文章不能成为GRE阅读文章。高级口译中的阅读文章长度很长，时间压力也很大，但是和GRE文章的风格是完全不同的。一般推荐是快速扫每段的几句话来力争把握全文，这样的处理手法是基于文章套路线性话而产生的。
+　　3)这段文字的思想几乎在所有GRE阅读文章中都得到了验证。所有GRE文章都是议论文，哪怕对于部分说明性，叙述性特点比较重的文章，同样也能成功带给读者压力之感。例子几乎到处都是。比如大家谈之色变的伊斯兰法的“著名”文章，全文就是介绍伊斯兰法，犹太法和罗马天主法三种宗教法不同。但是单纯谈不同不是一篇合格的GRE阅读，全文用了很多比重谈I,J,R三法两者间相似性，何种程度相同，差别细微在哪里，谁比谁更统一。通过交织在一起的“求同存异，大同小异”，全文难度徒然飚升，几乎现场难以理解。其他例如龙虾左螯右螯，比目鱼左眼右眼，蜗牛壳左旋右旋，厄尔尼诺k波r波，蝙蝠FM,CM波……几乎所有文章都必然出现了相对的“矛盾冲突”。可见这一特点是根本的。再进一步看，这种特点可以归纳为GRE文章中都有主线和副线，明线和暗线。分辨出这种联系区别应当成为阅读文章后基本理解佐证的标志之一。
+　　4)东方阅读课堂上总结的套路结构分成：新老观点对比型，问题回答型，现象解释型，结论说明型，对照分析起来，是对ETS手则内容准确的，几乎完全一致的总结。可见，对套路感和文章结构的强调是必要的，而且它是作为ETS判断一篇文章是否符合GRE阅读文章这个身份的重要评价标准。根本上，Source 
+Finder软件的职责就是用算法找到这些符合要求的文章。从套路结构入手分析文章，以不变应万变，是为教学，考试中基本的出发点。
+　　二、 字数枷锁和文章题材
+　　报告中同时验证了一些教学理论中的重要背景：
+　　“The text features implemented in the Source Finder prototype were intended 
+to allow users to screen source text for length, content, clarity, density, and 
+level of argumentation. Length filtering is extremely important, since copyright 
+constraints dictate that the number of words in a reading 
+comprehension passage must be less than 10% of the total number of words in the 
+source document from which the passage was extracted. For example, the source 
+document for a 450-word GRE passage must include at least 4,500 words.”
+　　一方面，Source Finder 
+软件判断基于文章长度，内容，清晰性，密度，论证程度等，更重要的是，其中揭示文章长度永远是架在ETS身上的枷锁，出于版权限制，ETS用于实际考试的文章长度最多只能引用10％的原文长度。这种“带着镣铐跳舞”的结果是大量文章的改写，重写和删节。
+　　难句子理论的提出正是针对这种背景的深刻理论分析。在传统的四六级阅读中难句的感受可能还不明显和突出，但是在GRE阅读中，这些恐怖的难句不仅是难点更是很多题目产生的温床。出于字数限制，ETS在GRE考试中自愿或是被迫使用了大量改写，把单位句子的长度和难度大大提高。有的GRE难句长度甚至直接堪比一段；很多句子中大量插入修饰补充说明内容，把整个句子主干分割得支离破碎；有的句子修改后各部分比例严重失衡，所有引入了很多特殊的倒装结构……后文中还有其他关于难句之难的ETS版例证。
+　　另外关于文章题材分类，报告中也明确写出了ETS的五种分类 “Source Finder’s content filter assigns each 
+retrieved document to one of five different content categories: humanities, 
+social sciences, physical sciences, biological sciences or .none of the 
+above.”与文学评论，社会现象，自然原理，生命科学的课堂分类是几乎完全吻合的。
+　　在软件实际测试中，文学评论类文章只有24％的比例被Source 
+Finder判为可能合格，相比另外三类题材的文章，通过率分别为45%、47%和43％。可见单纯从题材出发，文学评论类是“最艰辛”成为GRE阅读文章的题材，即使录用的材料，也必须经过严格修改和加工。而且，根据ETS有经验的考试开发者观点，区分一篇文学评论是否适合作为GRE文章的尺度也是最难以把握的。这两点理由可能部分解释了近年笔考中文学评论题材文章数量逐渐减少的趋势。
+　　三、 “名落孙山”文章的“六宗罪”
+　　从软件现有缺陷的环节中，我们可以粗率读出一些GRE阅读文章必然不能有的特点。
+　　Category Description
+　　Problematic reasoning The source contains argumentative reasoning, but it 
+might be difficult to translate into a passage as a result of one or more of the 
+following problems: too many interconnected argument threads to extract a single 
+clear argument; argument is too dispersed throughout the text to be worth the 
+effort; argument lacks clarity, density, or substance.
+　　Wrong genre The source does not provide a scholarly analysis. Includes 
+documents that are primarily descriptive or expository, as well as first-person 
+narratives, memoirs, interviews, biographies, and guidebooks.
+　　Inaccessible The source is too specialized, too full of jargon, too 
+technical, too abstract, or too dependent on a close reading of another work, 
+such as a novel, poem, or film. Would not be accessible to the entire GRE 
+population.
+　　Inappropriate tone or style Tone is too casual or too flip, or author is 
+too strongly opinionated.
+　　Topicality or datedness issues Contains material that would quickly become 
+dated.
+　　Sensitivity issues Contains sensitive or inflammatory content.
+　　On target The source provides the desired mix of analysis/explanation at 
+the desired tone with the desired level of accessibility and with the desired 
+frequency (i.e., length).
+　　基本缺陷为“Problematic reasoning, Wrong genre, Inaccessible, Inappropriate tone 
+or style, Topicality or datedness issue, Sensitivity 
+issues”六个方面。论证错误包括逻辑主线不清楚，论据太分散，论证风格不符等；错误种类比如：第一人称叙述，回忆录，访谈，传记和指导书籍等问题；所谓inaccessible是指文章充满过于专业的内容，过多术语和技术名词，太抽象或者需要课外的背景，对不具有该背景同学有理解上严重障碍等。考生一直觉得GRE文章风格很抽象枯燥，其实ETS在这方面还是有严格限制和标准的，尤其是在公平化原则的贯彻上，真正尽量做到“General面前，人人平等”；关于topical和dated的提出，可以对考生在课外补充阅读材料时有一点指引作用。大量阅读流行的报纸和普通杂志难以符合GRE阅读的口味，和当下有关的内容不可能出现在考场文章中，关于补充阅读材料的推荐，后文中将给出参考；敏感的问题例如煽动性文字，素食主义者对动物目前权利的置疑，涉及Playboy摄影人物或是特殊教派问题等。
+　　总的来看，GRE选文学术化，正规性，议论性的特点显露无疑。这些特点归纳一方面可以为我们更好理解GRE文章风格提供帮助，还可以给同学课外阅读材料相关合适性提供标尺，应该选取和NCE4难度形式相仿的文章。
+　　四、 学术化单词关键字列表
+　　所有GRE阅读文章文体既然都是议论文，那么一篇议论文在Source 
+Finder检索时满足什么量化参数和指标？论文中明确给出了一份详细的关键词表。这样一份ETS和计算机软件专家测试后得出的关键词表，其实是阅读老师分析后引入的抽象词理论最好的参考材料之一。以往对于抽象词短期突破，主要是考生自己总结积累为主，这样权威的统计可以更好的帮助考生对议论文学术化词汇给予最基本的把握。部分词汇，也应该成为课堂上详细解释的重点，因为这部分基础词汇重现的概率是最高的。举例说对于paradox, 
+plausible, controversial这些重要词汇的误解已经成为考试中很多题目做错的元兄。对于approach, hypothesis, 
+theory, fact, evidence, confirm, refute, 
+evaluate等词汇概念上准确得把握成为了做好Organization题,写作手法主题题和一些其他相关题型的基本保障。所以考生值得花时间把这份词表详细研究一遍，对一些“思通见惯”的词汇仔细思考深层含义。
+　　删去部分很常见的词汇后，以下给出简化版的关键词表。其中部分关键词也可以成为大家准备GRE Analytical Writing时参考的语言。
+　　Source Finder Key Word List
+　　according to, accurate, adapt, adaptability, adaptable, adaptation, 
+adequate, admittedly, aggregate, alternative, analogous, analogously, analysis, 
+analyze, approach, approximate, arbitrarily, arbitrary, arguably, argue, 
+argument, assume, assumption.,, balanced, basis, behavior, belief, cascading, 
+categorize, cause, characteristic, commensurately, compare, comparison, 
+compatible, competing, complex, complexity, concede, conceive, conceivably, 
+conclude, conclusion, condition, conditional, conditionally, consequence, 
+consequently, consider, consideration, consistent, consistently, contrary, in 
+contrast, controversy, controversial, converse, conversely, convincing, 
+convincingly, corollary, corrective, correspondingly, counteract, 
+counterproductive, critical, criticism, criticize, cumulative, decidedly, 
+deduce, deduction, define, definition, demonstrably, demonstrate, design, 
+despite, determination, determine, detrimental, discernible, discover, discuss, 
+discussion, disputable, dispute, distinct, distinguish, domain, due to, 
+eliminate, entail, entity, environment, equally, equivalence, equivalent, 
+establish, estimate, evaluate, evaluation, event, evidence, examination, 
+examine, except, exception, exhibit, exhibition, exist, existential, experience, 
+experiment, explain, explanation, explicit, exponential, failure, familiar, 
+feasible, footnote, granted, guarantee, hence, hypothesis, hypothesize, 
+hypothetical, idea, identical, illogical, impact, implication, implicit, 
+implies, imply, incompatible., inconsistent, increase, in addition to, in fact, 
+in order to, in particular, in response to, in the guise of, indeed, indicates, 
+indisputable, indisputably, induce, induction, inextricably, infeasible, infer, 
+inform, insight, insightful, instability, instead, intangible, intensify, 
+intensified, interpret, interpretation, intractable, investigate, 
+investigation., justification, justify, knowledge, likelihood, likely, 
+limitation, limited, logical, magnitude, matched, maximize, maximum, measure, 
+measurement, method, minimize, minimum, mitigate, model, moreover, multiple, 
+nearly, necessary, negative, negatively, negligible, nevertheless, numerical, 
+notable, notwithstanding, novel, observation, observe, offset, on the other 
+hand, optimum, otherwise, ostensibly, outweigh, overestimate, paradigm, 
+particular, particularly, parameter, pattern, penultimate, percent, percentage, 
+permanently, pertinent, phase, phenomenon, positive, positively, possibility, 
+possible, possibly, potentially, predict, previously, primarily, primary, 
+probability, probable, probably, problem, problematic, process, propensity, 
+proves, rationale, reason, reasoning, recently, redesign, reduce, redundant, 
+regardless of, relation, relative, relatively, reliability, require, 
+requirement, requires, research, respective, respectively, result, reveal, 
+rigorous, rigorously, riskier, salient, science, severe, severity, 
+significantly, similarly, simultaneous, since, specific, specifically, 
+specified, specify, speculate, speculative, stable, stability, still, stipulate, 
+strengthen, strictly, structure, structured, study, subsequent, subsequently, 
+substantially, success, successive, sufficient, sufficiently, suggest, 
+summarize, suppose, supposition, susceptibility, susceptible, systemic, 
+tangible, technique, temporarily, theoretical, theories, theory, therefore, 
+thus, tractable, tradeoff, traditional, truth, ultimately, unconditional, 
+undeniably, underestimate, understand, understanding, undoubtedly, unfamiliar, 
+uniformly, unique, unless, unmatched, unquestionably, unstable, unusual, valid, 
+validate, validity, variance, variation, weaken, weigh, yield
+　　五、难句子的“罪状”
+　　GRE中的难句子不是阅读老师渲染出来的，是考生实践检验体会出来的。这些烦难的长句，复合句，复杂修饰句又很容易成为考试题目集中的重点。对于难句概念，论文中给予了统计学上的支持佐证。
+　　“As the data indicate, there is a wide disparity between the feature values 
+calculated in the 33 original sources and in the passages that were eventually 
+developed from those sources. For example, the average sentence length of the 
+five original sources is 23.2 words, compared with 35.0 words for the 
+corresponding GRE passages. Similarly, the average type-token ratio for the five 
+sources is .26, compared with .56 for the corresponding GRE passages.”
+　　“As noted earlier, the SourceFinder feature labeled UniqWordPerWord is a 
+measure of the size of the vocabulary used in a given document. This feature is 
+also called type-token ratio because it is a ratio of the total number of word 
+types (or unique words) in a document to the total number of word tokens in the 
+document (Youmans, 31 1991). The type-token ratio calculated for a particular 
+document can range from 1, in the case of all unique words, to 1/N where N is 
+the total number of words in the document. Certain word types, (e.g., words 
+known to the information retrieval community as stop words, including .the. and 
+.of.) occur relatively more frequently than so-called content words.”
+　　其中句子长度差异比较容易理解，而第二个参数type-token 
+ratio是指全文中独特单词占总文字字数的比例。根据语言学专家研究结论，句子以及文章中独特单词越是多，专业术语和复杂内容一般就更多，最后导致全文理解困难度就提高。可见GRE文章经过原材料的加工和改写后基本特点就是：句子更长，更难理解。由此可见，难句能力往往是征服GRE阅读的基本功之一，而强调提炼句子主体词的工作则有效地针对了type-token 
+ratio参数提示的必要能力，考生必须能具有再充满了学术专业名词的长句子中提出一个理论的关键词，一派观点的区别性特点等。
+　　六、课外阅读材料推荐
+　　勤奋的考生一直关心课下阅读什么文字材料来提高GRE考试的能力。简单的读普通报纸杂志比如Shanghai Star, China 
+Daily，收获是比较有限的，最根本原因是你从这些文字中读不出最关键的tension感，相反只是一种放松的阅读。除了课堂上推荐的GMAT，LSAT等同类型风格的全真试题之外，参考论文中给出的部分研究时采用的原材料来源，推荐一下材料。这部分期刊对GRE阅读理解的提高是比较“专业对口”的，适合作为一般的泛读材料。
+　　African American Review —— social sciences (some humanities)
+　　American Journal of Economics and Sociology——social sciences
+　　American Scholar —— humanities
+　　Art Journal —— humanities
+　　Astronomy —— physical sciences
+　　BioScience —— biological sciences
+　　Black American Literature Forum —— humanities
+　　business Horizons —— business
+　　Commentary —— social sciences
+　　Discover —— biological sciences and physical sciences
+　　Feminist Studies —— social sciences (some humanities)
+　　Journal of American Ethnic History —— social sciences
+　　Journal of Black Studies —— social sciences (some humanities)
+　　Journal of Social History —— social sciences
+　　The Nation—— social sciences
+　　Science News —— biological sciences and physical sciences
+　　Scientific American—— biological sciences and physical sciences
+　　Sloan Management Review —— business
+　　Smithsonian —— social sciences, biological sciences, and physical 
+sciences
+　　Technology Review —— biological sciences and physical sciences
+　　Wilson Quarterly —— social sciences
+　　Women.s Review of Books —— humanities
+　　其中很多期刊可以在学校图书馆中找到，考生可以课外泛读，作为长期积累，提高阅读根本能力的途径之一。
+　　七、结论
+　　纵观整个论文，不仅有大量内容对很多新东方现有阅读中研究的理论做了充分的佐证，也对以后教学工作中的探索方向做出了一定的指引作用。主要是集中在文章套路和风格，议论文特色关键词把握，阅读基本能力和课外参考资料等多方面。
+　　博弈的基本概念就是根据对手的行为做出最合适的反映。其实考试和培训某种程度上就是一种博弈。所以能有资料帮助我们站在ETS的立场，了解一些“对手”的详细信息和约束，无疑是对考试进一步深入研究是大有裨益的。相信新东方的老师一定可以挥洒智慧和汗水，将探索进行到底！
+　　（来源：上海新东方学校）

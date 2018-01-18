@@ -1,0 +1,10 @@
+　　CNET科技资讯网4月28日国际报道 数据库市场的瞬息万变由此可见：MySQL首席执行官Martin Mickos先是称呼甲骨文公司的某项产品为“残废软件”（crippleware），几分钟后又盛赞该公司为年度最佳伙伴。
+　　Mickos 26日在MySQL使用者会议的演说中力捧甲骨文，却又严词批评其产品。如此反覆的原因在于，MySQL一方面仰赖甲骨文2005年收购的InnoDB软件，另一方面，甲骨文和IBM为反制MySQL在数据库市场的窜起，纷纷推出免费的入门级产品。
+　　仍属开放源代码软件的InnoDB“存储引擎”，拥有Mickos的坚定支持。他说：“我们与甲骨文签下好几年的新约。”被Mickos贬为“残废软件”的，是锁定低价位客层的免费数据库，如甲骨文的Express Edition或IBM的DB2 Community Edition。
+　　Mickos表示：“Express Edition毫无使用自由可言，竟敢自称”free”（免费，亦可谓自由）。如果一家公司提供免费但封闭源代码的版本，目的就是让你升级到他们非常贵的版本，他们才有利可图。”
+　　相反的，Mickos认为，如MySQL等开放源代码数据库公司，即使没有向上销售的顾客，也能借由修补错误、社区支持和其他社区活动获利。他说：“某些最棒的网站都是MySQL的支持者，我们每个月都向他们请益。”
+　　开放源代码公司挑战专有软件巨人并非新鲜事，但Mickos有其优势。2005年MySQL的营收高达4,000万美元，知名网站如Google、雅虎和PokerRoom.com都仰仗其软件，甲骨文甚至试图收购MySQL。
+　　本周，该公司宣布与惠普签下三年的合作约定。去年11月刚上任的惠普开放源代码与Linux组织副总Chritine Martino表示，惠普将转售MySQL软件、提供支持，并参与联合的营销与训练活动。
+　　Mickos相当看好MySQL使用最广泛的InnoDB引擎，他将三个年度伙伴奖的其中一个，颁给甲骨文第18号员工– 服务器科技产品策略副总Ken Jacobs。
+　　尽管如此，MySQL并非完全依赖InnDB，该公司正朝向插入式架构发展，让不同的引擎皆可插入MySQL，并将提供验证。
+　　MySQL也自行开发引擎，名为Falcon，同时与Solid Information Technology合作开发另一引擎SolidDB。SolidDB和甲骨文的InnoDB都将参加其验证计划。

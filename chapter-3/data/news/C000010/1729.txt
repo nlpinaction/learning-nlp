@@ -1,0 +1,6 @@
+　　CNET科技资讯网4月28日国际报道 三星已经获得了为苹果提供iPod芯片的合同，现有的供应商为PortalPlayer。
+　　三星的一位发言人说，公司将为苹果下一代iPod提供MP3 媒体处理器芯片以及NAND闪存芯片。
+　　这个消息多少令人吃惊，因为，直到上周为止，PortalPlayer还被人们普遍认为是iPod理所当然的供应商。
+　　三星技术市场部的高级副总裁Jon.Kang表示，他清楚自己公司的芯片将是“PortalPlayer的杀手” .三星的芯片技术基于ARM 公司的32位处理器技术，它明显比PortalPlayer的芯片更具吸引力。
+　　不只是PortalPlayer公司在这场MP3 芯片之争中失利。Wedbush Morgan证券公司的分析师Craig Berger在周三发布的一份报告中称，SigmaTel公司业绩糟糕，主要原因是产品转型。
+　　在MP3 媒体处理器厂商中，同SigmaTe 竞争的还有Actions 半导体、Broadcom、PortalPlayer、三星等厂商。

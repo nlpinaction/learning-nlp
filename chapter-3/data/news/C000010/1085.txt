@@ -1,0 +1,6 @@
+　　【赛迪网讯】5月3日消息，IBM收购了长期的合作伙伴BuildForge公司。这家公司是为软件开发人员制作构建管理软件的厂商。
+　　据crn.com网站报道，这两家公司在5月2日宣布了这笔交易。根据收购计划，IBM将吸收BuildForge公司40%的雇员并且将把BuildForge的技术应用到IBM的“Rational”系列应用程序开发软件中。
+　　BuildForge位于得克萨斯州奥斯汀，创建于2001年，一直是IBM紧密的合作伙伴。这家公司的软件能够在内部协调在地理位置上很分散的开发团队的软件开发工作。
+　　IBM负责Rational软件开发平台市场营销和战略的副总裁Roger Oberg表示，在BuildForge公司的58个客户中，有80%的客户也是IBM Rational软件开发平台的用户。他说，我们在两面前开始使用BuildForge公司的产品，因为我们自己没有这样的产品。收购这家公司将使我们的构建管理和自动化更前进一步。
+　　BuildForge公司用于软件制作和发布管理的FullControl、FullThrottle和Prism等工具软件产品将向IBM的独立软件经销商提供。不过，Oberg表示，提供这些工具软件的计划要在明年才能制定出来。
+　　IBM计划继续销售单独的软件产品。BuildForge公司的产品已经集成到了IBM的Rational Application Developer、Rational ClearCase和ClearQuest等软件中。

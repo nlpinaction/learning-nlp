@@ -1,0 +1,148 @@
+
+　　【来源：北京领航考研】 【作者：王舰】
+　　谨以此篇献给为赢得高分的考研学子们！
+　　【解题原则分析】
+　　求同存异123原则：文章的相邻段落之间存在着联系又同时存在差别。段落之间的联系体现为二者之间共享同一主题词；段落之间的差别体现为后面的段落比前面段落要多出一些内容，而且这些多出的内容恰恰体现了“启下”的关系。因此，利用段落之间的差额主题名词，即“相同表联系，相异引下文”的原则，便可以确定下一段落的主题词。
+　　【解题步骤分析】
+　　第一段：Canada’s premiers (the leaders of provincial 
+governments), if they have any breath left after complaining about Ottawa at 
+their late July annual meeting, might spare a moment to do something, to reduce 
+health-care costs.
+　　【主题词】Canada’s premiers-Ottawa-annual meeting-health-care 
+costs.
+　　第二段：They’re all groaning about soaring health budgets, the 
+fastest-growing component of which are pharmaceutical costs.
+　　【主题词】health budgets-pharmaceutical costs.
+　　第二段主题词与第一段主题词做减法得出的差额决定供选择的41题目主题词为：pharmaceutical costs. 
+在备选答案中找到以该词为主题词的段落，即E。
+　　第三段：According to the Canadian Institute for Health 
+Information, prescription drug costs have risen since 1997 at twice the rate of 
+overall health-care spending. Part of the increase comes from drugs being used 
+to replace other kinds of treatments part of it arises from new drugs costing 
+more than older kinds. Part of it is higher prices.
+　　【主题词】health budgets-pharmaceutical costs.
+　　第四段：What to do? Both the Romanow commission and the Kirby 
+committee on health care-to say nothing of reports from other 
+experts-recommended the creation of a national drug agency. Instead of each 
+province having its own list of approved drugs, bureaucracy, procedures and 
+limited bargaining power, all would pool resources, work with Ottawa, and create 
+a national institution.
+　　【主题词】Romanow commission and the Kirby committee-health 
+care-national drug agency-a national institution.
+　　第四段主题词与第三段主题词做减法得出的差额决定供选择的42题目主题词为：national institution. 
+在备选答案中找到以该词为主题词的段落，即C。
+　　第五段：What does “national” mean? Roy Romanow and Senator 
+Michael Kirby recommended a federal-provincial body much like the recently 
+created National Health Council.
+　　【主题词】“national” -provinces-“national” organization-better 
+prices-drug manufacturers-the provincial list-the national agency-Quebec-the 
+national agency-better price.
+　　第五段主题词与第四段主题词做减法得出的差额决定供选择的43题目主题词为：drug manufacturers, Quebec, better 
+price. 在备选答案中找到以该词为主题词的段落，即G。
+　　第八段：A small step has been taken in the direction of a 
+national agency with the creation of the Canadian Co-coordinating Office for 
+Health Technology Assessment, funded by Ottawa and the provinces. Under it, a 
+Common Drug Review recommends to provincial lists which new drugs should be 
+included. Predictably and regrettably Quebec refused to join.
+　　【主题词】“national”-provinces-“national” organization-better prices, if 
+possible, with drug manufacturers-the provincial list, the national 
+agency-Quebec-the national agency-better price.
+　　第九段：A few premiers are suspicious of any 
+federal-provincial deal-making. They (particularly Quebec and Alberta) just want 
+Ottawa to fork over additional billions with few, if any, strings attached. 
+That’s one reason why the idea of a national list hasn’t gone anywhere while 
+drug costs keep rising fast.
+　　【主题词】premiers-deal-making-additional billions-national-drug 
+costs.
+　　第九段主题词与第八段主题词做减法得出的差额决定供选择的44题目主题词为：additional billions, drug costs 
+在备选答案中找到以该词为主题词的段落，即F。
+　　第十段：So, if the provinces want to run the health-care show, 
+they should prove they can run it, starting with an interprovincial health list 
+that would end duplication, save administrative costs, prevent one province from 
+being played off against another, and bargain for better drug prices.
+　　【主题词】premiers-deal-making-additional billions-national-drug 
+costs.
+　　第十一段：Premiers love to quote Mr. Romanow’s report 
+selectively, especially the parts about more federal money perhaps they should 
+read what he had to say about drugs: “A national drug agency would provide 
+governments more influence on pharmaceutical companies in order to constrain the 
+ever-increasing cost of drugs.”
+　　【主题词】Premiers-Mr. Romanow’s report-drugs-national drug 
+agency-governments-pharmaceutical companies-cost of drugs.”
+　　第十一段主题词与第十段主题词做减法得出的差额决定供选择的45题目主题词为：report, drug costs 
+在备选答案中找到以该词为主题词的段落，即B。
+　　Directions: In the following text, some sentences have removed. For 
+Questions 41-45, choose the most suitable one from the list A-G to fit into of 
+the numbered blank there are two extra choices, which do not fit in any of the 
+gaps. Mark your answers on ANSWER SHEET1. (2005年真题原文)
+　　Canada’s premiers (the leaders of provincial governments), if they have any 
+breath left after complaining about Ottawa at their late July annual meeting, 
+might spare a moment to do something, to reduce health-care costs.
+　　They’re all groaning about soaring health budgets, the fastest-growing 
+component of which are pharmaceutical costs.
+　　41.
+　　What to do? Both the Romanow commission and the Kirby committee on health 
+care-to say nothing of reports from other experts-recommended the creation of a 
+national drug agency. Instead of each province having its own list of approved 
+drugs, bureaucracy, procedures and limited bargaining power, all would pool 
+resources, work with Ottawa, and create a national institution.
+　　42.
+　　But “national” doesn’t have to mean that. “National” could mean 
+interprovincial-provinces combining efforts to create one body. Either way, one 
+benefit of a “national” organization would be to negotiate better prices, if 
+possible, with drug manufacturers. Instead of having one province-or a series of 
+hospitals within a province-negotiate a price for a given drug on the provincial 
+list, the national agency would negotiate on behalf of all provinces. Rather 
+than, say, Quebec, negotiating on behalf of seven million people, the national 
+agency would negotiate on behalf of 31 million people. Basic economics suggests 
+the greater the potential consumers, the higher the likelihood of a better 
+price.
+　　43.
+　　A small step has been taken in the direction of a national agency with the 
+creation of the Canadian Co-coordinating Office for Health Technology 
+Assessment, funded by Ottawa and the provinces. Under it, a Common Drug Review 
+recommends to provincial lists which new drugs should be included. Predictably 
+and regrettably Quebec refused to join.
+　　A few premiers are suspicious of any federal-provincial deal-making. They 
+(particularly Quebec and Alberta) just want Ottawa to fork over additional 
+billions with few, if any, strings attached. That’s one reason why the idea of a 
+national list hasn’t gone anywhere while drug costs keep rising fast.
+　　44.
+　　Premiers love to quote Mr. Romanow’s report selectively, especially the 
+parts about more federal money perhaps they should read what he had to say about 
+drugs: “A national drug agency would provide governments more influence on 
+pharmaceutical companies in order to constrain the ever-increasing cost of 
+drugs.”
+　　45.
+　　So when the premiers gather in Niagara Falls to assemble their usual 
+complaint list, they should also get cracking about something in their 
+jurisdiction that would help their budgets and patients.
+　　[A] Quebec’s resistance to a national agency is provincialist ideology. One 
+of the first advocates for a national list was a researcher at Laval University. 
+Quebec’s Drug Insurance Fund has seen its costs skyrocket with annual increases 
+from 14.3 per cent to 26.8 per cent!
+　　[B] Or they could read Mr. Kirby’s report:“the substantial buying power of 
+such an agency would strengthen the public prescription-drug insurance plans to 
+negotiate the lowest possible purchase prices from drug companies”
+　　[C] What does “national” mean? Roy Romanow and Senator Michael Kirby 
+recommended a federal-provincial body much like the recently created National 
+Health Council.
+　　[D] The problem is simple and stark: health-care costs have been, are, and 
+will continue to increase faster than government revenues.
+　　[E] According to the Canadian Institute for Health Information, 
+prescription drug costs have risen since 1997 at twice the rate of overall 
+health-care spending. Part of the increase comes from drugs being used to 
+replace other kinds of treatments part of it arises from new drugs costing more 
+than older kinds. Part of it is higher prices.
+　　[F] So, if the provinces want to run the health-care show, they should 
+prove they can run it, starting with an interprovincial health list that would 
+end duplication, save administrative costs, prevent one province from being 
+played off against another, and bargain for better drug prices.
+　　[G] Of course the pharmaceutical companies will scream. They like divided 
+buyers, they can lobby better that way. They can use the threat of removing jobs 
+from one province to another. They can hope that, if one province includes a 
+drug on its, list the pressure will cause others to include it on theirs. They 
+wouldn’t like a national agency, but self-interest would lead them to deal with 
+it
+　　方法决定成功与成败！ ——工欲善其事，必先利其器！
+　　

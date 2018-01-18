@@ -1,0 +1,31 @@
+
+　　在这几年的教学工作中，我发现对于历届学生非谓语动词是一大难点，所以，我研究了一套解题步骤，从一开始就训练学生按照这套解题步骤来做题。
+　　第一步，分析句子成分，判断动词在句中所作的成分，例如：主语、宾语、定语、表语、补语或是状语。
+　　第二步，考虑非谓语动词与相应的逻辑主语或被修饰词之间的主动还是被动关系。
+　　1、主语。只需要考虑todo(一般表示一次特定的行为)或是v-ing(一般表示习惯性行为)。
+　　2、宾语。只需要考虑todo或是v-ing。至于区别，我建议把常接v-ing作宾语的特殊动词背下来。主动&amp;被动取决于句子主语。
+　　e.g.Idon’tmind___to
+　　theparty.A.beingnotinvitedB.notinvitingC.notbeinginvitedD.nottobeinvited
+　　答案是C.mind后应该用v-ing，所以排除D,invite与I是被动关系，所以排除B,not应该放在being前，所以C正确。
+　　3、定语。主动&amp;被动取决于被修饰的词。注意：不定式主动形式表示被动意义的用法。当不定式所修饰的词是动作的承受者时，句中有动作的施动者时，不定式一般用主动形式。
+　　e.g.Therearenotmany
+　　shoesforhim_____.A.tochoosefromB.tochooseC.tobechosenfromD.tobechosen
+　　答案是A.动词不定式做
+　　shoes的定语，与shoes构成动宾关系，him是choose的动作施动者，所以应该用主动形式。choose直接跟宾语是选中某物，而句中的意思是从中选择，所以应该选A.4、表语。V-ing表示主动意义、正在进行和主语的性质；过去分词表示被动意义、完成和主语的状态。
+　　5、补语。如果是补充说明宾语，考虑与宾语的主动或是被动关系；如果是补充说明主语，考虑与主语的主动或是被动关系。
+　　e.g.Heraisedhisvoice
+　　soastomakehimself_____.A.hearB.hearingC.beheardD.heard
+　　答案是D.动词在句中作补语，与宾语himself是被动关系，所以选择过去分词heard
+　　6、状语。考虑与句子主语的主动或是被动关系。
+　　e.g._____,theoldman
+　　islivingahappylife.A.TakinggoodcareB.TakengoodcareC.HavingtakengoodcareD.Takengoodcareof
+　　答案是D。动词在句中作状语，与句子主语构成被动关系。第三步，考虑所选动词与句子谓语动词所表示的动作行为之间发生的先后关系。同时发生：doing,beingdone或tobedoing发生在谓语动词之前：havingdone,done或tohavedone发生在谓语动词之后：todo
+　　e.g._____wheretogo,heaskedapolicemantheway.
+　　A.Havinglosthiswayandnotknowing
+　　B.Losinghiswayanddidn’tknow
+　　C.Losthiswayandnotknowing
+　　D.Losthiswayanddidn’tknow
+　　答案是A.所选部分在句中作状语，与句子主语是主动关系，排除C,D,迷失道路发生在向警察询问之前，所以选A。 
+&nbsp;
+&nbsp;
+来源:城市快报

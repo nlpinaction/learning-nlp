@@ -1,0 +1,5 @@
+　　文/snail
+　　近日，AMD更新了其处理器路线图，资料涉及到AMD未来的四核心处理器计划。该路线图显示，AMD将在2007年第二季度推出其首颗四核心Opteron处理器。这将是一颗代号为Deerhound的65nm产品，它采用1207针的Socket F接口，支持双通道内存和Registered DDR2内存标准。另外，Deerhound还采用共享二级缓存架构。
+　　根据这份路线图，AMD将不会在2007年推出四核心桌面处理器。在2008年第一季度，代号为Greyhound的四核心桌面处理器将正式亮相，它将采用改良架构，可能使用AM3接口，支持DDR2/DDR3，同样采用共享二级缓存架构，并使用Hyper-Transport 3标准。
+　　在2008年中旬，AMD还将推出第二代四核心Opteron，代号为Zamora，支持FB-DIMM内存和Hyper-Transport 3标准，另外还加入了共享三级缓存架构。
+　　

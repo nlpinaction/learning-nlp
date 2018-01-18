@@ -1,0 +1,534 @@
+SOHU.com
+
+自动滚动
+var theFloaters = new floaters();
+
+theFloaters.play();
+
+
+var formlist='';
+formlist=formlist+'';
+formlist=formlist+'自动滚动';
+theFloaters.addItem('formdiv2','document.body.clientWidth-106',0,formlist);
+
+theFloaters.play();
+
+TimeScrollCentAll();
+
+SetCookie("sports007MenLeft"," ")
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","休息");
+
+SetCookie("sports007MenRight"," ")
+
+搜狐直播员: 北京时间5月10日早晨7点，搜狐体育将为您带来NBA季后赛东部半决赛活塞和骑士的第二场较量，欢迎收看 [0:0 ] 
+
+搜狐直播员: 在双方的首回合交锋中，活塞在奥本山宫殿球场以113比86大胜骑士，今天他们继续坐镇主场，期待连胜 [0:0 ] 
+搜狐直播员: 姚明表示左脚伤恢复情况良好 小巨人六月将出院 [0:0 ] 
+搜狐直播员: 火箭交易沸沸扬扬 “未来纳什”有望搭档姚明 [0:0 ] 
+搜狐直播员: 火箭战绩糟糕范甘迪有过 位列三大高薪低能教练 [0:0 ] 
+搜狐直播员: 前瞻：小牛仍不夹击邓肯？ 詹姆斯受普林斯挑战 [0:0 ] 
+搜狐直播员: 双方的第一节比赛开始了，经过跳球后骑士首先获得进攻权 [0:0 ] 
+搜狐直播员: 伊尔高斯卡斯投篮不中 [0:0 ] 
+搜狐直播员: 本·华莱士断下斯诺的手中球 [0:0 ]
+SetCookie("sports007centLeft","2");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 拉希德·华莱士投篮命中 [2:0 ] 
+搜狐直播员: 詹姆斯跳投不中，拉希德·华莱士的篮板 [2:0 ] 
+搜狐直播员: 拉希德·华莱士投篮不进，詹姆斯取得防守篮板 [2:0 ]
+SetCookie("sports007centLeft","2");SetCookie("sports007centRight","2");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 詹姆斯左翼跳投得到两分 [2:2 ] 
+搜狐直播员: 戈登防守犯规，但是拉希德·华莱士两罚不中 [2:2 ] 
+搜狐直播员: 伊尔高斯卡斯取得篮板 [2:2 ] 
+搜狐直播员: 斯诺右侧投篮不中，但是之后汉密尔顿的上篮也没有得分 [2:2 ]
+SetCookie("sports007centLeft","2");SetCookie("sports007centRight","4");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 戈登接到休斯传球后投篮得分 [2:4 ]
+SetCookie("sports007centLeft","2");SetCookie("sports007centRight","6");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 詹姆斯跳投命中，又是休斯的助攻 [2:6 ] 
+搜狐直播员: 本·华莱士跳投偏出，戈登取得篮板 [2:6 ] 
+搜狐直播员: 斯诺左翼的投篮不中，拉希德·华莱士摘得篮板 [2:6 ]
+SetCookie("sports007centLeft","5");SetCookie("sports007centRight","6");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 拉希德·华莱士接到普林斯传球后右翼三分命中 [5:6 ]
+SetCookie("sports007centLeft","5");SetCookie("sports007centRight","8");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 詹姆斯左翼投篮不中，戈登取得进攻篮板后得分 [5:8 ] 
+搜狐直播员: 拉希德·华莱士高位三分出手不中 [5:8 ] 
+搜狐直播员: 休斯左侧底线投篮未果，拉希德·华莱士的篮板 [5:8 ]
+SetCookie("sports007centLeft","8");SetCookie("sports007centRight","8");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 休斯防守犯规，之后普林斯助攻比卢普斯三分得手 [8:8 ] 
+搜狐直播员: 伊尔高斯卡斯高位跳投不中 [8:8 ] 
+搜狐直播员: 汉密尔顿投篮偏出，休斯取得篮板 [8:8 ]
+SetCookie("sports007centLeft","8");SetCookie("sports007centRight","10");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 斯诺接到休斯传球后上篮得分 [8:10 ] 
+搜狐直播员: 拉希德·华莱士投篮不中，詹姆斯取得篮板 [8:10 ] 
+搜狐直播员: 第一节比赛还剩5分48秒，活塞请求暂停 [8:10 ] 
+搜狐直播员: 暂停结束，比赛继续进行 [8:10 ] 
+搜狐直播员: 骑士24秒进攻违例 [8:10 ] 
+搜狐直播员: 比卢普斯右翼尝试三分不中，斯诺取得篮板 [8:10 ] 
+搜狐直播员: 斯诺上篮不中，本·华莱士得到防守篮板 [8:10 ]
+SetCookie("sports007centLeft","10");SetCookie("sports007centRight","10");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 普林斯接到比卢普斯传球后左翼跳投得手 [10:10 ] 
+搜狐直播员: 休斯右翼18尺处投篮偏出，拉希德·华莱士的篮板 [10:10 ] 
+搜狐直播员: 詹姆斯防守普林斯时犯规 [10:10 ]
+SetCookie("sports007centLeft","12");SetCookie("sports007centRight","10");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 普林斯两罚全中 [12:10 ] 
+搜狐直播员: 伊尔高斯卡斯进攻三秒违例 [12:10 ] 
+搜狐直播员: 比卢普斯跳投不中，本·华莱士得到进攻篮板 [12:10 ]
+SetCookie("sports007centLeft","15");SetCookie("sports007centRight","10");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 普林斯接到大本助攻后左翼三分出手命中 [15:10 ] 
+搜狐直播员: 骑士进攻再次出现24秒违例的情况 [15:10 ] 
+搜狐直播员: 但是之后比卢普斯也出现了传球失误 [15:10 ] 
+搜狐直播员: 骑士用马绍尔换下了伊尔高斯卡斯 [15:10 ] 
+搜狐直播员: 穆雷替下斯诺 [15:10 ]
+SetCookie("sports007centLeft","15");SetCookie("sports007centRight","12");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 休斯接到马绍尔传球后上篮得分 [15:12 ] 
+搜狐直播员: 马绍尔防守犯规 [15:12 ] 
+搜狐直播员: 第一节比赛还剩2分41秒，骑士请求暂停 [15:12 ] 
+搜狐直播员: 暂停结束，比赛继续，活塞获得罚球机会 [15:12 ]
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","12");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 拉希德·华莱士两罚一中，戈登得到篮板 [16:12 ]
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","14");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 詹姆斯上篮得分 [16:14 ]
+SetCookie("sports007centLeft","18");SetCookie("sports007centRight","14");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 拉希德·华莱士立即还以颜色，普林斯的助攻 [18:14 ] 
+搜狐直播员: 普林斯防守犯规 [18:14 ] 
+搜狐直播员: 骑士用瓦莱乔换下戈登，活塞用麦克戴斯换下拉希德·华莱士 [18:14 ] 
+搜狐直播员: 詹姆斯高位投篮不中，本·华莱士取得篮板 [18:14 ] 
+搜狐直播员: 普林斯进攻中走步违例 [18:14 ]
+SetCookie("sports007centLeft","18");SetCookie("sports007centRight","16");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 瓦莱乔接到休斯传球后上篮得分 [18:16 ]
+SetCookie("sports007centLeft","20");SetCookie("sports007centRight","16");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 本·华莱士爆扣得分 [20:16 ] 
+搜狐直播员: 骑士请求了20秒的短暂停 [20:16 ] 
+搜狐直播员: 穆雷18尺处尝试投篮不中，麦克戴斯取得篮板 [20:16 ]
+SetCookie("sports007centLeft","23");SetCookie("sports007centRight","16");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 比卢普斯接到汉密尔顿传球后三分命中 [23:16 ] 
+搜狐直播员: 休斯左翼投篮不中，比卢普斯得到篮板 [23:16 ] 
+搜狐直播员: 第一节比赛结束，活塞以23比16领先骑士7分 [23:16 ]
+SetCookie("sports007MenLeft","第一节，23分")
+
+SetCookie("sports007MenRight","第一节，16分")
+
+SetCookie("sports007centLeft","23");SetCookie("sports007centRight","16");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 双方的第二节比赛开始了，首先由活塞发动进攻 [23:16 ]
+SetCookie("sports007centLeft","25");SetCookie("sports007centRight","16");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 汉密尔顿助攻本·华莱士投篮得分 [25:16 ] 
+搜狐直播员: 马绍尔投篮偏出，比卢普斯取得篮板 [25:16 ]
+SetCookie("sports007centLeft","27");SetCookie("sports007centRight","16");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 普林斯接到比卢普斯传球后跳投得手 [27:16 ] 
+搜狐直播员: 第二节比赛还剩10分59秒，骑士请求暂停 [27:16 ] 
+搜狐直播员: 暂停时间到，比赛继续进行 [27:16 ] 
+搜狐直播员: 骑士用斯诺换下了詹姆斯 [27:16 ] 
+搜狐直播员: 马绍尔17尺处投篮不中，本·华莱士得到篮板 [27:16 ] 
+搜狐直播员: 休斯防守犯规，之后活塞用埃文斯换下了普林斯 [27:16 ] 
+搜狐直播员: 骑士重新换上詹姆斯，他替下了休斯 [27:16 ]
+SetCookie("sports007centLeft","29");SetCookie("sports007centRight","16");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 汉密尔顿两罚全中 [29:16 ] 
+搜狐直播员: 马绍尔左侧底角三分不中，本·华莱士得到篮板 [29:16 ] 
+搜狐直播员: 埃文斯上篮偏出，马绍尔的篮板 [29:16 ] 
+搜狐直播员: 詹姆斯左翼投篮也没有进，马绍尔得到进攻篮板 [29:16 ] 
+搜狐直播员: 詹姆斯左侧底线处投篮不中，本·华莱士得到篮板 [29:16 ] 
+搜狐直播员: 斯诺防守犯规 [29:16 ] 
+搜狐直播员: 骑士用伊尔高斯卡斯换下了瓦莱乔 [29:16 ] 
+搜狐直播员: 活塞分别用拉希德·华莱士和亨特换下了本·华莱士和比卢普斯 [29:16 ]
+SetCookie("sports007centLeft","31");SetCookie("sports007centRight","16");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 汉密尔顿两罚全中 [31:16 ] 
+搜狐直播员: 活塞第二节开始打出8比0的进攻高潮 [31:16 ] 
+搜狐直播员: 穆雷左翼投篮偏出 [31:16 ]
+SetCookie("sports007centLeft","31");SetCookie("sports007centRight","18");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 麦克戴斯防守犯规，伊尔高斯卡斯两罚全中 [31:18 ]
+SetCookie("sports007centLeft","33");SetCookie("sports007centRight","18");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 麦克戴斯奉献助攻，埃文斯投篮得分 [33:18 ] 
+搜狐直播员: 麦克戴斯随后再度防守犯规 [33:18 ] 
+搜狐直播员: 斯诺两罚不中，埃文斯得到篮板 [33:18 ]
+SetCookie("sports007centLeft","35");SetCookie("sports007centRight","18");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 麦克戴斯接到亨特传球后左翼跳投命中 [35:18 ] 
+搜狐直播员: 麦克戴斯断下斯诺的手中球 [35:18 ]
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","18");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 拉希德·华莱士投篮命中，亨特的助攻 [37:18 ] 
+搜狐直播员: 第二节比赛还剩7分35秒，骑士请求暂停 [37:18 ] 
+搜狐直播员: 第二节活塞的进攻突然提速，他们打出了14比2的攻击波，已经累积了19分的领先优势 [37:18 ] 
+搜狐直播员: 暂停结束，比赛继续进行 [37:18 ] 
+搜狐直播员: 骑士用琼斯换下了斯诺 [37:18 ] 
+搜狐直播员: 麦克戴斯断球成功，伊尔高斯卡斯的失误 [37:18 ] 
+搜狐直播员: 穆雷防守犯规，之后骑士用戈登换下了马绍尔 [37:18 ] 
+搜狐直播员: 亨特左翼尝试三分不中，詹姆斯得到篮板 [37:18 ] 
+搜狐直播员: 骑士又用休斯换下了穆雷 [37:18 ] 
+搜狐直播员: 活塞用德尔克换下了汉密尔顿 [37:18 ] 
+搜狐直播员: 埃文斯防守犯规，詹姆斯获得罚球机会 [37:18 ]
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","19");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 詹姆斯两罚一中 [37:19 ] 
+搜狐直播员: 亨特高位投篮不中，伊尔高斯卡斯的篮板球 [37:19 ] 
+搜狐直播员: 休斯左翼投篮也没有得分，戈登抢到进攻篮板 [37:19 ]
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","22");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 琼斯接到戈登传球后左翼三分命中 [37:22 ] 
+搜狐直播员: 埃文斯进攻犯规 [37:22 ] 
+搜狐直播员: 活塞用普林斯换下了埃文斯 [37:22 ] 
+搜狐直播员: 伊尔高斯卡斯进攻走步违例 [37:22 ] 
+搜狐直播员: 亨特左翼再次出手三分不中，戈登的防守篮板 [37:22 ]
+SetCookie("sports007centLeft","37");SetCookie("sports007centRight","24");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 戈登右翼13尺处投篮命中 [37:24 ] 
+搜狐直播员: 第二节比赛还剩5分03秒，活塞请求了暂停 [37:24 ] 
+搜狐直播员: 之前骑士连续得到六分 [37:24 ] 
+搜狐直播员: 活塞用本·华莱士换下了麦克戴斯 [37:24 ] 
+搜狐直播员: 比卢普斯也换下了亨特 [37:24 ]
+SetCookie("sports007centLeft","39");SetCookie("sports007centRight","24");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 普林希接到拉希得·华莱士传球后投篮命中 [39:24 ]
+SetCookie("sports007centLeft","39");SetCookie("sports007centRight","26");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 詹姆斯投篮不中，伊尔高斯卡斯补篮得手 [39:26 ]
+SetCookie("sports007centLeft","40");SetCookie("sports007centRight","26");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 伊尔高斯卡斯犯规，比卢普斯技术罚球得分 [40:26 ]
+SetCookie("sports007centLeft","42");SetCookie("sports007centRight","26");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 拉希德·华莱士助攻，德尔克右翼底线处投篮得分 [42:26 ] 
+搜狐直播员: 德尔克防守犯规 [42:26 ] 
+搜狐直播员: 拉希德·华莱士从詹姆斯手中断球成功 [42:26 ] 
+搜狐直播员: 休斯在之后防守犯规，活塞获得罚球机会 [42:26 ] 
+搜狐直播员: 骑士用穆雷换下休斯 [42:26 ]
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","26");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 普林斯两罚全中 [44:26 ] 
+搜狐直播员: 拉希德·华莱士防守犯规，骑士也获得罚球 [44:26 ] 
+搜狐直播员: 骑士用亨德森换下了伊尔高斯卡斯 [44:26 ]
+SetCookie("sports007centLeft","44");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 戈登两罚全中 [44:28 ] 
+搜狐直播员: 亨德森防守犯规 [44:28 ] 
+搜狐直播员: 骑士又用伊尔高斯卡斯换下亨德森 [44:28 ]
+SetCookie("sports007centLeft","45");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 本·华莱士两罚一中 [45:28 ] 
+搜狐直播员: 伊尔高斯卡斯左翼跳投偏出 [45:28 ]
+SetCookie("sports007centLeft","47");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 拉希德·华莱士接到比卢普斯传球后投篮得分 [47:28 ] 
+搜狐直播员: 戈登投篮不中，德尔克取得篮板 [47:28 ] 
+搜狐直播员: 比卢普斯右翼尝试三分不中，普林斯获得进攻篮板 [47:28 ] 
+搜狐直播员: 伊尔高斯卡斯防守犯规 [47:28 ]
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 之前拉希德·华莱士飙中的是三分球 [48:28 ] 
+搜狐直播员: 骑士用马绍尔换下了戈登 [48:28 ]
+SetCookie("sports007centLeft","49");SetCookie("sports007centRight","28");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 本·华莱士两罚一中 [49:28 ]
+SetCookie("sports007centLeft","49");SetCookie("sports007centRight","31");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 马绍尔三分命中，琼斯的助攻 [49:31 ] 
+搜狐直播员: 普林斯投篮不中，穆雷得到防守篮板 [49:31 ]
+SetCookie("sports007centLeft","49");SetCookie("sports007centRight","33");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 詹姆斯投篮偏出，伊尔高斯卡斯取得进攻篮板后补篮得手 [49:33 ]
+SetCookie("sports007centLeft","52");SetCookie("sports007centRight","33");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 拉希德·华莱士接到比卢普斯传球后再次投中三分 [52:33 ]
+SetCookie("sports007centLeft","52");SetCookie("sports007centRight","35");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 伊尔高斯卡斯投篮得分，詹姆斯的助攻 [52:35 ] 
+搜狐直播员: 马绍尔断下比卢普斯的传球，之后德尔克防守犯规 [52:35 ]
+SetCookie("sports007centLeft","52");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 穆雷第一罚命中，之后活塞请求了20秒短暂停 [52:36 ] 
+搜狐直播员: 骑士用瓦莱乔换下了伊尔高斯卡斯 [52:36 ] 
+搜狐直播员: 穆雷第二罚不中，比卢普斯得到篮板 [52:36 ] 
+搜狐直播员: 汉密尔顿最后时刻出手投篮不中 [52:36 ] 
+搜狐直播员: 第二节比赛结束，活塞以52比36领先骑士16分 [52:36 ] 
+搜狐直播员: 上半场比赛，活塞的拉希德·华莱士得到了16分，普林斯攻中了13分 [52:36 ] 
+搜狐直播员: 骑士方面，没有人得分上双，戈登和伊尔高斯卡斯各获8分，詹姆斯仅仅拿下7分 [52:36 ] 
+搜狐直播员: 休息一会儿，我们将为您带来双方下半场比赛的精彩战况 [52:36 ]
+SetCookie("sports007MenLeft","第一节，23分第二节，29分")
+
+SetCookie("sports007MenRight","第一节，16分第二节，20分")
+ 
+搜狐直播员: 双方第三节比赛开始了，首先由活塞进攻 [52:36 ] 
+搜狐直播员: 本·华莱士投篮不中，伊尔高斯卡斯得到篮板 [52:36 ] 
+搜狐直播员: 伊尔高斯卡斯右翼的投篮也没有得分，本·华莱士抢到篮板 [52:36 ] 
+搜狐直播员: 休斯从比卢普斯手中断球成功 [52:36 ]
+SetCookie("sports007centLeft","52");SetCookie("sports007centRight","38");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 戈登之后投篮命中 [52:38 ] 
+搜狐直播员: 斯诺防守犯规，活塞获得罚球机会 [52:38 ]
+SetCookie("sports007centLeft","54");SetCookie("sports007centRight","38");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 比卢普斯两罚全中 [54:38 ]
+SetCookie("sports007centLeft","55");SetCookie("sports007centRight","38");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 比卢普斯第三罚也进了 [55:38 ]
+SetCookie("sports007centLeft","55");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 休斯接到斯诺传球后左翼跳投得分 [55:40 ]
+SetCookie("sports007centLeft","57");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 拉希德·华莱士也快也攻中两分，还造成了戈登的犯规 [57:40 ] 
+搜狐直播员: 戈登被吹罚了技术犯规 [57:40 ]
+SetCookie("sports007centLeft","58");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 汉密尔顿技术罚球命中 [58:40 ]
+SetCookie("sports007centLeft","59");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 拉希德·华莱士之后加罚命中 [59:40 ] 
+搜狐直播员: 本·华莱士断下伊尔高斯卡斯的球 [59:40 ]
+SetCookie("sports007centLeft","61");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 普林斯接到汉密尔顿传球后扣篮得手 [61:40 ] 
+搜狐直播员: 还造成了斯诺的犯规 [61:40 ]
+SetCookie("sports007centLeft","62");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 普林斯加罚命中，活塞打出10比2的进攻高潮 [62:40 ]
+SetCookie("sports007centLeft","62");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 伊尔高斯卡斯接到詹姆斯传球后右翼投篮命中 [62:42 ] 
+搜狐直播员: 普林斯左翼投篮不中，詹姆斯得到篮板 [62:42 ]
+SetCookie("sports007centLeft","62");SetCookie("sports007centRight","44");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 之后戈登投篮得分，还造成了拉希德·华莱士的犯规 [62:44 ]
+SetCookie("sports007centLeft","62");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 戈登加罚命中 [62:45 ]
+SetCookie("sports007centLeft","65");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 拉希德·华莱士左翼三分命中，比卢普斯的助攻 [65:45 ] 
+搜狐直播员: 汉密尔顿断下戈登的传球，之后戈登防守犯规 [65:45 ]
+SetCookie("sports007centLeft","66");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 普林斯两罚一中 [66:45 ] 
+搜狐直播员: 戈登获得防守篮板 [66:45 ]
+SetCookie("sports007centLeft","66");SetCookie("sports007centRight","48");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 詹姆斯接到戈登传球后右翼三分命中 [66:48 ] 
+搜狐直播员: 休斯防守犯规 [66:48 ]
+SetCookie("sports007centLeft","67");SetCookie("sports007centRight","48");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 汉密尔顿两罚一中 [67:48 ]
+SetCookie("sports007centLeft","67");SetCookie("sports007centRight","50");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 休斯助攻，戈登右翼投篮得手 [67:50 ] 
+搜狐直播员: 汉密尔顿左翼投篮不中，詹姆斯的篮板 [67:50 ] 
+搜狐直播员: 詹姆斯进攻违例 [67:50 ] 
+搜狐直播员: 比卢普斯右侧底角三分不中，詹姆斯抢到篮板 [67:50 ] 
+搜狐直播员: 詹姆斯的三分也没有进，斯诺取得进攻篮板 [67:50 ] 
+搜狐直播员: 伊尔高斯卡斯投篮不中，拉希德·华莱士得到篮板 [67:50 ] 
+搜狐直播员: 汉密尔顿进攻中走步违例 [67:50 ] 
+搜狐直播员: 第三节比赛还剩5分45秒，活塞请求暂停 [67:50 ] 
+搜狐直播员: 暂停结束，比赛继续进行 [67:50 ]
+SetCookie("sports007centLeft","67");SetCookie("sports007centRight","52");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 詹姆斯上篮得分 [67:52 ] 
+搜狐直播员: 戈登防守犯规 [67:52 ] 
+搜狐直播员: 骑士用瓦莱乔换下了戈登 [67:52 ]
+SetCookie("sports007centLeft","68");SetCookie("sports007centRight","52");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 拉希德·华莱士两罚一中 [68:52 ] 
+搜狐直播员: 斯诺右翼投篮偏出，普林斯得到篮板 [68:52 ] 
+搜狐直播员: 汉密尔顿右翼零度角投篮不中，伊尔高斯卡斯得到篮板 [68:52 ] 
+搜狐直播员: 瓦莱乔投篮不中，詹姆斯抢到进攻篮板，但是他的补篮也没有进 [68:52 ] 
+搜狐直播员: 伊尔高斯卡斯防守犯规，活塞获得罚球机会 [68:52 ]
+SetCookie("sports007centLeft","69");SetCookie("sports007centRight","52");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 拉希德·华莱士两罚一中 [69:52 ] 
+搜狐直播员: 瓦莱乔投篮不中，之后休斯的跳投也没有得分 [69:52 ]
+SetCookie("sports007centLeft","71");SetCookie("sports007centRight","52");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 本·华莱士补篮命中两分 [71:52 ] 
+搜狐直播员: 詹姆斯尝试三分不中，本·华莱士取得篮板 [71:52 ] 
+搜狐直播员: 普林斯三分不中，斯诺得到篮板 [71:52 ] 
+搜狐直播员: 汉密尔顿断下斯诺的传球，造成了斯诺的犯规 [71:52 ] 
+搜狐直播员: 骑士用马绍尔换下了伊尔高斯卡斯 [71:52 ] 
+搜狐直播员: 汉密尔顿第一罚没有进 [71:52 ]
+SetCookie("sports007centLeft","73");SetCookie("sports007centRight","52");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 汉密尔顿第二罚命中 [73:52 ] 
+搜狐直播员: 汉密尔顿的第一罚也进了 [73:52 ] 
+搜狐直播员: 骑士用穆雷换下斯诺 [73:52 ] 
+搜狐直播员: 休斯投篮不中，瓦莱乔抢到进攻篮板 [73:52 ]
+SetCookie("sports007centLeft","73");SetCookie("sports007centRight","54");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 休斯之后上篮得分 [73:54 ] 
+搜狐直播员: 比卢普斯高位投篮不中，马绍尔获得篮板 [73:54 ] 
+搜狐直播员: 詹姆斯右翼投篮不中，拉希德·华莱士取得防守篮板 [73:54 ] 
+搜狐直播员: 瓦莱乔防守犯规 [73:54 ] 
+搜狐直播员: 第三节比赛还剩2分01秒，骑士请求暂停 [73:54 ] 
+搜狐直播员: 活塞用麦克戴斯换下了拉希德·华莱士 [73:54 ]
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","54");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 汉密尔顿两罚全中 [75:54 ]
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","56");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 詹姆斯扣篮得分 [75:56 ] 
+搜狐直播员: 普林斯的投篮偏出，詹姆斯得到篮板 [75:56 ]
+SetCookie("sports007centLeft","75");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 詹姆斯上篮再次得分，还造成了麦克戴斯的犯规，可惜加罚不中 [75:58 ]
+SetCookie("sports007centLeft","78");SetCookie("sports007centRight","58");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 比卢普斯高位三分命中 [78:58 ] 
+搜狐直播员: 马绍尔只后右翼也尝试三分，但是不中 [78:58 ] 
+搜狐直播员: 比卢普斯投篮不中，瓦莱乔取得防守篮板 [78:58 ] 
+搜狐直播员: 比卢普斯投篮不中 [78:58 ]
+SetCookie("sports007centLeft","78");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第三节");
+ 
+搜狐直播员: 之前瓦莱乔接到詹姆斯传球后扣篮得分 [78:60 ] 
+搜狐直播员: 第三节比赛结束，活塞以78比60领先骑士18分 [78:60 ]
+SetCookie("sports007MenLeft","第一节，23分第二节，29分第三节，26分")
+
+SetCookie("sports007MenRight","第一节，16分第二节，20分第三节，24分")
+
+SetCookie("sports007centLeft","78");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 双方最后一节的较量开始了，首先由骑士发动进攻 [78:60 ] 
+搜狐直播员: 比卢普斯从詹姆斯手中断球成功 [78:60 ] 
+搜狐直播员: 琼斯防守犯规，活塞获得罚球机会 [78:60 ]
+SetCookie("sports007centLeft","80");SetCookie("sports007centRight","60");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 汉密尔顿两罚全中 [80:60 ] 
+搜狐直播员: 麦克戴斯防守犯规 [80:60 ]
+SetCookie("sports007centLeft","80");SetCookie("sports007centRight","61");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 穆雷两罚一中，本·华莱士取得篮板 [80:61 ] 
+搜狐直播员: 普林斯进攻走步违例 [80:61 ] 
+搜狐直播员: 活塞用拉希德·华莱士换下了本·华莱士 [80:61 ]
+SetCookie("sports007centLeft","80");SetCookie("sports007centRight","64");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 马绍尔接到詹姆斯传球后左翼零度角出手三分命中 [80:64 ] 
+搜狐直播员: 麦克戴斯左侧投篮偏出，琼斯获得篮板 [80:64 ]
+SetCookie("sports007centLeft","80");SetCookie("sports007centRight","66");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 瓦莱乔上篮得分，还造成了麦克戴斯的犯规 [80:66 ] 
+搜狐直播员: 活塞用本·华莱士换下了麦克戴斯 [80:66 ] 
+搜狐直播员: 瓦莱乔加罚不中，本·华莱士取得篮板 [80:66 ]
+SetCookie("sports007centLeft","82");SetCookie("sports007centRight","66");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 比卢普斯投篮命中 [82:66 ]
+SetCookie("sports007centLeft","82");SetCookie("sports007centRight","68");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 詹姆斯右翼投篮命中 [82:68 ] 
+搜狐直播员: 普林斯右翼三分偏出 [82:68 ] 
+搜狐直播员: 詹姆斯传球出现了失误 [82:68 ]
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","68");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 普林斯接到比卢普斯传球后三分出手命中 [85:68 ] 
+搜狐直播员: 本·华莱士防守犯规 [85:68 ] 
+搜狐直播员: 比赛还剩8分51秒，现在进入官方暂时时间 [85:68 ] 
+搜狐直播员: 暂停结束，比赛继续进行 [85:68 ]
+SetCookie("sports007centLeft","85");SetCookie("sports007centRight","70");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 瓦莱乔两罚全中 [85:70 ]
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","70");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 拉希德·华莱士接到普林斯传球后上篮得分 [87:70 ]
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","73");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 詹姆斯左侧底角出手三分命中 [87:73 ] 
+搜狐直播员: 瓦莱乔防守犯规，活塞获得罚球机会 [87:73 ] 
+搜狐直播员: 汉密尔顿两罚不中，瓦莱乔获得防守篮板 [87:73 ]
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","76");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 马绍尔接到琼斯传球后右翼三分命中 [87:76 ] 
+搜狐直播员: 汉密尔顿的三分不中，瓦莱乔取得篮板 [87:76 ]
+SetCookie("sports007centLeft","87");SetCookie("sports007centRight","78");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 瓦莱乔接到詹姆斯助攻后上篮得手 [87:78 ] 
+搜狐直播员: 比赛还剩7分15秒，活塞请求暂停 [87:78 ] 
+搜狐直播员: 之前骑士攻出一波10比2的进攻高潮，将分差重新缩小到了十分以内 [87:78 ] 
+搜狐直播员: 活塞用德尔克换下了汉密尔顿 [87:78 ] 
+搜狐直播员: 拉希德·华莱士左翼投篮不中，马绍尔取得篮板 [87:78 ] 
+搜狐直播员: 瓦莱乔上篮偏出，本·华莱士摘下篮板 [87:78 ] 
+搜狐直播员: 瓦莱乔防守犯规，但是之后德尔克左翼的投篮不中 [87:78 ] 
+搜狐直播员: 穆雷10尺处投篮不中，德尔克取得篮板 [87:78 ] 
+搜狐直播员: 普林斯左翼尝试三分不中，本·华莱士得到进攻篮板，但是上篮不进 [87:78 ]
+SetCookie("sports007centLeft","89");SetCookie("sports007centRight","78");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 本·华莱士再次抢到进攻篮板，之后终于将球送入篮筐 [89:78 ] 
+搜狐直播员: 瓦莱乔右翼投篮偏出，德尔克的篮板 [89:78 ] 
+搜狐直播员: 骑士连换两人，休斯和戈登上，穆雷和瓦莱乔下 [89:78 ] 
+搜狐直播员: 比卢普斯左翼投篮不中，詹姆斯的篮板球 [89:78 ] 
+搜狐直播员: 休斯右翼尝试三分不中，拉希德·华莱士得到篮板 [89:78 ]
+SetCookie("sports007centLeft","92");SetCookie("sports007centRight","78");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 拉希德·华莱士接到比卢普斯助攻后三分名中 [92:78 ] 
+搜狐直播员: 比赛还剩4分31秒，骑士请求了暂停 [92:78 ] 
+搜狐直播员: 活塞用汉密尔顿换下了德尔克 [92:78 ] 
+搜狐直播员: 詹姆斯右翼尝试三分偏出，拉希德·华莱士的篮板 [92:78 ] 
+搜狐直播员: 拉希德·华莱士的远投也没有进，这次詹姆斯得到了防守篮板 [92:78 ] 
+搜狐直播员: 本·华莱士防守犯规 [92:78 ]
+SetCookie("sports007centLeft","92");SetCookie("sports007centRight","80");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 休斯接到詹姆斯助攻后上篮得分 [92:80 ] 
+搜狐直播员: 普林斯左翼的投篮偏出，詹姆斯得到篮板 [92:80 ] 
+搜狐直播员: 马绍尔右翼底角出手三分不中 [92:80 ] 
+搜狐直播员: 比卢普斯关键时刻进攻犯规，之后汉密尔顿防守詹姆斯再次犯规 [92:80 ]
+SetCookie("sports007centLeft","92");SetCookie("sports007centRight","82");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 詹姆斯两罚全中 [92:82 ] 
+搜狐直播员: 拉希德·华莱士投篮不中，马绍尔的篮板 [92:82 ] 
+搜狐直播员: 戈登跳投偏出，詹姆斯获得进攻篮板 [92:82 ]
+SetCookie("sports007centLeft","92");SetCookie("sports007centRight","84");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 詹姆斯上篮得分 [92:84 ] 
+搜狐直播员: 比卢普斯三分出手不中，詹姆斯得到篮板 [92:84 ] 
+搜狐直播员: 关键时刻休斯进攻犯规 [92:84 ] 
+搜狐直播员: 普林斯18尺处投篮不中，戈登取得篮板 [92:84 ]
+SetCookie("sports007centLeft","92");SetCookie("sports007centRight","86");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 詹姆斯上篮得分，还造成了拉希德·华莱士的防守犯规 [92:86 ] 
+搜狐直播员: 比赛还剩1分13秒的时间，活塞请求暂停 [92:86 ] 
+SetCookie("sports007centLeft","92");SetCookie("sports007centRight","87");SetCookie("sports007centTime","第四节");
+
+搜狐直播员: 詹姆斯加罚命中 [92:87 ] 
+SetCookie("sports007centLeft","94");SetCookie("sports007centRight","87");SetCookie("sports007centTime","第四节");
+
+搜狐直播员: 汉密尔顿上篮得分 [94:87 ] 
+搜狐直播员: 还造成了休斯的防守犯规 [94:87 ] 
+搜狐直播员: 汉密尔顿加罚命中 [94:87 ]
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","87");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 骑士用穆雷换下了六犯离场的休斯 [95:87 ] 
+搜狐直播员: 琼斯右翼底角出手三分不中 [95:87 ] 
+搜狐直播员: 拉希德·华莱士三分不中，詹姆斯获得篮板 [95:87 ] 
+搜狐直播员: 汉密尔顿防守犯规 [95:87 ]
+SetCookie("sports007centLeft","95");SetCookie("sports007centRight","89");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 詹姆斯两罚全中 [95:89 ] 
+搜狐直播员: 詹姆斯随后战术犯规，汉密尔顿获得罚球机会 [95:89 ]
+SetCookie("sports007centLeft","97");SetCookie("sports007centRight","89");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 汉密尔顿两罚全中 [97:89 ] 
+搜狐直播员: 全场比赛还剩10.6秒，骑士请求了20秒的短暂停 [97:89 ]
+SetCookie("sports007centLeft","97");SetCookie("sports007centRight","91");SetCookie("sports007centTime","第四节");
+ 
+搜狐直播员: 戈登接到詹姆斯传球后扣篮得分 [97:91 ] 
+搜狐直播员: 全场比赛结束，最终活塞在主场以97比91击败了骑士，在总比分上2比0领先 [97:91 ] 
+搜狐直播员: 本场比赛，活塞的拉希德·华莱士得到了29分和9个篮板，普林斯砍下了20分 [97:91 ] 
+搜狐直播员: 另外汉密尔顿收获17分，比卢普斯取得15分，本·华莱士抢到10分和15个篮板 [97:91 ] 
+搜狐直播员: 骑士队中，“小皇帝”詹姆斯贡献全场最高的30分，并有14个篮板 [97:91 ]

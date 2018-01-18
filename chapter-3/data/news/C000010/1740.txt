@@ -1,0 +1,14 @@
+　　CNET科技资讯网4月28日国际报道 Palm OS 最后一次升级已经是二年前的事儿了。由于新版Palm OS 至少还需要一年的时间才能问世，一些主要手机应用软件开发商在开发新的多媒体应用软件时都将目光转向了其它平台。
+　　在开发手机和手持机应用软件时，Windows Mobile和Symbian 成了主要软件开发商的操作系统选择。尽管还有数以千计忠实的软件开发人员为Palm OS 开发应用软件，但Sling Media 、Google、TiVo等公司已经暂时中止了对Palm OS 的选择，而是将目光转向了Windows 或基于Java的应用。
+　　据IDC 称，在2005年美国智能手机市场上，Palm OS 的份额是31% ；Windows Mobile智能手机的市场份额只有约10%。但是，Windows Mobile在全球智能手机市场上的份额为6%，而Palm OS 的这一数字只有4%。
+　　Creative Strategies 的分析师提姆说，Palm OS 没有针对视频和多媒体进行优化，但它有很忠实的粉丝，认为Windows Mobile对多媒体的支持足以诱惑传统的Palm用户倒戈的说法还为时过早。但是，Palm平台必须提供对多媒体更好的支持，否则就会有大批用户流失。
+　　PalmSource依赖第三方实现多媒体功能是开放商放弃它的一个因素。Palm OS 还没有能够跟上市场竞争的步伐。在Verizon 的EV-DO 网络上运行的智能手机和无线手持机都运行Windows Mobile，Symbian 操作系统则称雄于欧洲。
+　　因此，要求使用宽带连接或Java支持的新应用软件通常不会出现在Palm设备上。尽管一些公司支持Palm，但却在其它平台上推出它们的应用软件。
+　　Sling Media 在手机上推出Slingbox应用软件时，就选择了Windows Mobile，因为Palm OS 不能满足它的应用软件的要求；Google在开发手机版Google Maps 时选择了Java，以便它的服务能够在尽可能多的设备上运行。
+　　但Palm OS 中却没有Java虚拟机，想要运行Java应用软件的用户必须下载、安装IBM 的WebSphere Everyplace Micro Environment。安装过程对于普通用户有一定的困难，而且其稳定性也远不如Java虚拟机。
+　　自2003年独立以来，PalmSource的日子一直不太好。由于多种原因，其智能手机产品Palm OS Cobalt甚至没有找到一家客户。
+　　PalmSource负责开发商营销的高级主管拉里说，我们依靠合作伙伴支持多媒体应用软件，这意味着Palm OS 本身不支持内容提供商要求的数字版权管理技术。
+　　至于Palm OS 开发的未来，Palm和软件开发商都在等待Access推出的第一款产品。Access在2005年收购了PalmSource，并宣布将在明年将Palm OS 移植到Linux 内核上。
+　　PalmSource负责业务开发的副总裁阿尔伯特说，Access Linux Platform （ALP ）更象是一款主流操作系统，其功能对于消费者和多媒体粉丝都很有吸引力。
+　　Access今年晚些时候将发布一款ALP 软件开发工具包，ALP 最早也要在明年初才会被应用在产品中。
+　　

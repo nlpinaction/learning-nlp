@@ -1,0 +1,6 @@
+　　【赛迪网讯】5月8日 – 全球领先的高清晰数字内容安全传输、演示和存储厂商Silicon Image公司 （Nasdaq: SIMG）宣布，领先的PC制造商东芝公司将在Qosmio G30/697HS笔记本电脑上安装Sil 1930 HDMI发送器芯片，这是世界首台装备了下一代HD DVD驱动器的笔记本电脑。
+　　HD DVD是今年上市的两种高清晰DVD标准之一（另一种标准是Blu-ray DVD）。常规DVD的最大分辨率是852 x 480象素，而HD DVD可充分利用高清晰电视（HDTV）的性能，视频显示分辨率可达1920 x 1080 象素。
+　　具有高清晰多媒体接口&#8482;（HDMI&#8482;）的PC机允许消费者从HD DVD或Blu-ray驱动器和HDTV调谐器向HDTV和其它显示设备传送高清晰电影。Silicon Image公司的Sil 1930和Sil 1390发送器是唯一的专为PC平台设计的全带宽HDMI编码器。Sil 1930支持不连续图形处理器（discrete graphics processor）上的TMDS输入接口，而Sil 1390支持用于集成图形控制器的英特尔SDVO接口。
+　　通过HDMI接口将HDTV显示屏与东芝Qosmio G30/697HS笔记本电脑相连接，用户可在HDTV显示屏中享受到HD DVD内容和数字地面广播的华美图像质量和清晰的声音。Qosmio G30/697HS可在单一的HDMI线缆中提供HDMI视频和音频输出，无需压缩视频和音频数据。对于HD DVD内容，Qosmio 可对目前市场上的DVD和CD盘进行读写，其中包括DVD+/-R DL（双层）和DVD-RAM。东芝公司计划将在5月中旬推出Qosmio G30/697HS笔记本电脑。
+　　“HDMI是高清晰多媒体内容的最佳接口选择。”Silicon Image公司全球市场营销副总裁Dale Zimmerman讲到。“我们非常高兴东芝公司选用Sil 1930 HDMI发送器来完美地缔造其震撼人心的新型PC。东芝公司的选择再一次证明了Silicon Image公司在创建未来消费电子产品和PC市场结构中的所起到的中心主导作用。”
+　　“东芝公司将推出此款装备HD DVD 的Qosmio笔记本电脑，它将重新定义AV笔记本电脑的性能和处理能力。 ”东芝公司个人电脑和网络公司音频/视觉技术总监Tsukasa Matoba讲到。“通过与Silicon Image公司的合作，我们将可通过HDMI的连接，直接向HDTV传送HD DVD所具有的震撼人心的视频和音频。”

@@ -1,0 +1,31 @@
+
+　　在英译汉过程中，我们常常遇到这样一种情况，即原词所表达的并不是其字面意义，而是其字面意义的反义，或者说是对其字面意义的否定，可这种否定又往往不出现否定词，这种情况并不很少，给翻译工作带来很大的麻烦。
+　　下面是常见的两个词组，请注意它们的汉语意思：
+　　① riot police 防暴警察（即anti-riot police，而不是暴乱的警察）
+　　②crisis law 反危机法案（即anti-crisis law)
+　　这两个词组的翻译采用的就是反译法，译文都是其字面意义的否定或反义，这样既表达了原文的真正含义，又符合汉语的表达习惯，使人一看就懂。
+　　另外，英文报刊文章标题的翻译有时也采用反译法。如《中国日报》（China Daily）曾刊登一则新闻，题目是Inflation is target 
+of bank's new 
+policy，主要说的是银行在1995年将来取有力措施制止通货膨胀。但题目的字面意思恰恰相反。因此我们在翻译时必须把inflation看成是anti-inflation，使之文题一致。这样的标题在英文报刊中比较常见，目的是为简练及醒目，在翻译时要格外注意，切勿望文生义。
+　　再让我们来看看下面的例子：
+　　(1) Sidney Simon called the college grading system 
+"archaic,prescientific,bureaucratic invention"，and "about as accurate as police 
+estimates of crowds of peace marches."
+　　如果按字面翻译，这句话是这样的：
+　　西德尼·西蒙称这种大学评级制度“是过时的，缺乏科学验证”，而且还是“官僚主义的产物”,“简直同警察估计和平示威人数一样准确。”
+　　既然前面已说了这个评级制度“过时无用，缺乏科学验证”，而且还是“官僚主义的产物”，后面又怎么能说它“准确”呢？这显然自相矛盾，西蒙所表达的真正含义绝非如此。
+　　以上译文，忽略了说话人的语气。其实，西蒙是在抨击大学评级制度。他说话时，前面直接用了archaic，prescientific和bureaucratic几个贬义词，而后面的褒义词accurate实际上是一个反语。因为我们知道，警察在估计示威人数时只能说出大概，往往和实际人数出入很大，极不准确。所以说话人所表达的真正含义是not 
+accurate，或inaccurate。这样，可理解成about as inaccurate，as police estimates of crowds of 
+peace marches，译成汉语就是：简直同警察估计和平示威人数一样不准确。就是把accurate反过来译，即反译。
+　　以上例句是通过分析说话人的语气来采用反译法正确表达语义的。有的句子前面所表达的意思是否定的，但根据这个意思得出来的结论却是肯定的。为了使其真正含义不至于前后矛盾，我们也采取反译后面结论的方法。
+　　(2) This sort of situation highlights a critical weakness in the ANC 
+leadership:accountability.
+　　如按字面则译成：
+　　这种情况突出了非国大领导层方面的极为严重的弱点：有责任心。
+　　“有责任心”怎么能是“弱点”呢？这种译文显然是错误的。作者在句尾所表达的真正含义其实和前面提到的“弱点”是一致的，即可理解成unaccountability。那么全句应译成：这种情况突出了非国大领导层方面的极为严重的弱点，玩忽职守（无责任心）。
+　　还有一些句子则通过正确理解上下文，仔细推敲关键同的实际含义，再相应采取反译法进行翻译。
+　　(3) In fact,the willingness to experiment is one of the most striking 
+features, and it seems to be rooted in confidence rather than security.
+　　实际上，乐于进行试验是最显著的特点之一。它来源于信心，而不是出于不安全感。
+　　综上所述，所谓反译法即把原文中个别词语（大多为名词或形容词）否定或取其反义之后再翻译成汉语，以便译文和原文所表达的真正含义相一致。这就要求我们能正确理解原文，弄清作者所抱的思想感情和运用的语气，同时又要熟知汉语已有的习惯表达方式。而这些能力只有通过不断的翻译实践才能逐步提高。
+　　（来源：中国翻译网）

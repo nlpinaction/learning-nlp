@@ -1,0 +1,6 @@
+　　【eNet硅谷动力消息】互联网搜索引擎Google公司日宣称，Google公司在今年三月份收购@Last软件公司后，于日前推出了可以创建、浏览和编辑修改3D图形的免费SketchUp（建筑草图大师）应用服务。
+　　位于加州Mountain View地区的 Google公司当地时间周四表示，Google目前在互联网上新建了一个名为“3D 仓库”（3D Warehouse）的站点，作为SketchUp用户，可以在这里对自己的作品进行存储，并且实现创意共享与设计合作。Google还称，目前所推出的免费SketchUp服务，与Google公司的Google Earth服务进行了很好的整合，用户可以结合时下流行的Google Earth服务，在SketchUp上进行相关地理图形的设计。
+　　倍受全球设计师欢迎的SketchUp软件，不仅仅是面向渲染成品或施工图纸的设计工具，还是一套能够充分表达设计师的思想而且完全满足与客户即时交流的需要的创作工具，与设计师用手工绘制构思草图的过程很相似，同时其成品导入其它着色、后期、渲染软件可以继续形成照片级的商业效果图。它满足了设计师直接在电脑上直观构思的需求，随着构思的不断清晰，细节可以不断增加，最终形成的模型可以直接交给其它具备高级渲染能力的软件进行最终渲染，设计师可以最大限度地减少机械重复劳动和控制设计成果的准确性。
+　　免费SketchUp服务目前仅向个人用户开放，而当前基于SketchUp Pro 5版本的SketchUp服务是收费的，面向高级用户或者是商务用户开放。Google公司之所以推出免费的SketchUp服务，符合了当前Google所极力推崇的“提供信息服务的易接近和实用”服务宗旨。
+　　目前， Google推出的SketchUp服务仅仅面向使用Windows 2000 、Windows XP家庭以及Windows XP专业等版本操作系统的用户开放，针对苹果电脑Mac OS系统的SketchUp服务正在紧张的调试当中。另外，使用SketchUp服务对硬件的最低配置要求为：80MB硬盘空间，适用于OpenGL环境下的视频卡，Internet Explorer 6.0或者更高版本的浏览器，Windows Media Player或者是QuickTime 5.0播放器。
+　　SketchUp服务可以到 http://sketchup.google.com下载，而Google推出的“3D 仓库”可以到http://sketchup.google.com/3dwarehouse/进行访问。

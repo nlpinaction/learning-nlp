@@ -1,0 +1,7 @@
+&nbsp;　【eNet硅谷动力消息】据国外媒体报道，5月2日，国际标准组织（ISO）正式和国际电工委员会（IEC）投票，将Sun和IBM等公司提交的开放文档格式OpenDocument列为一种文件格式的标准。此举意味着OpenDocument的标准化迈出重要一步。成为ISO标准的OpenDocument将在全球获得更多的用户。
+　　当天，国际标准组织和国际电工委员会的31名委员全票通过，将OpenDocument列为一种文件格式的标准。由于仅有7名成员发表了需要进一步审核的评论，OpenDocument将很快对外公开。
+　　业内分析人士表示，由于欧洲等很多国家在进行政府采购时，对产品是否符合ISO/IEC的标准有要求或倾斜，OpenDocument获得标准认可将帮助相关厂商提高和微软进行竞争的实力。
+　　目前，支持OpenDocument的办公软件有开源的OpenOffice.org、Sun公司的StarOffice和IBM公司的Workplace。微软公司并不支持该标准，他们单独提交了一个开放XML为核心的文档体系，和OpenDocument争夺通用标准地位。
+　　值得一提的是，微软当天在投票过程中拥有一席，但并没有"设置障碍"。Sun公司的首席开源官西蒙·飞浦斯表示，OpenDocument拥有强劲的支持，微软很难在投票过程中"下拌"。
+　　微软公司表示，他们将支持Office和OpenDocument的文件互操作性，也不反对OpenDocument被其他组织列为标准。不过，微软负责标准事务的官员乔森·马图索却发表了另外一番言论："OpenDocument格式受限于OpenOffice.org和StarOffice的特色和性能，无法满足今天的微软Office用户的需求。"
+　　美国标准协会的一名代表表示，OpenDocument标准内容将很快对外正式公布。

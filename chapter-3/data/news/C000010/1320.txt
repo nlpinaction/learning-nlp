@@ -1,0 +1,5 @@
+　　正计划在全公司范围内部署多重商务应用
+　　2006年3月20日，世界领先的商务智能软件供应商MicroStrategy宣布，美国最大的医药服务公司之一AmerisourceBengen选择了MicroStrategy来支持他们的商务智能计划，该计划将对公司内的多个领域提供报表和分析的支持。
+　　使用MicroStrategy后，成千上万的用户将能够改善他们的关于销售、供应商、客户、供应链管理、财务和其它关键领域的报表和分析能力。 他们选择MicroStrategy的原因，正是因为MicroStrategy支持大数据量环境的能力和即时分析的能力。
+　　“通过MicroStrategy，我们将对企业价值链有了真正的企业战略视角，它提供了管理人员对运作更深入的洞察力，以及帮助我们更高效纵览全公司的可操作数据”，AmerisourceBergen的高级副总裁兼首席信息官 Thomas H.Murphy说：“我们已经使用MicroStrategy很多年了，这帮助我们变得更高效，我们发现MicroStrategy的单一元数据库和目标再使用，减少了我们的管理成本。MicroStrategy是非常适合我们这样企业级的分析型报表环境的。”
+　　“我们很高兴AmerisourceBergen选择了MicroStrategy来支持他们新的战略性企业级商务智能项目，”MicroStratetgy COO Sanju K.Bansal说：“MicroStrategy的技术是极其适合财富500强的大企业获得企业全面认识的工具，可以用来帮助改进客户服务、提高运作效率，并挖掘出新的利润增长点。”

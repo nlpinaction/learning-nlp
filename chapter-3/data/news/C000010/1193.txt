@@ -1,0 +1,1 @@
+　　所谓WAP（Wireless ApplicationProtocol）即无线应用协议，是一项全球性的网络通信协议。WAP使移动Internet 有了一个通行的标准，其目标是将Internet的丰富信息及先进的业务引入到移动电话等无线终端之中。WAP定义可通用的平台，把目前Internet网上HTML语言的信息转换成用WML(Wireless Markup Language)描述的信息，显示在移动电话的显示屏上。WAP只要求移动电话和WAP代理服务器的支持，而不要求现有的移动通信网络协议做任何的改动，因而可以广泛的运用于GSM、CDMA、TDMA、3G等多种网络。

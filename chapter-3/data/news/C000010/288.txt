@@ -1,0 +1,5 @@
+　　近日，正在使用MSN8.0 beta版的用户，陆续收到微软公司发来的升级通告，要求用户必须升级8.0 beta版本，否则将无法运行该软件。不少用户升级后发现，软件原来的MSN Messenger字样已被Windows Live Messenger字样所取代。此外，在新版本中已经找不到任何“MSN”字样的品牌标识。无疑，这又是微软对Live品牌的一次扩军。
+　　记者就此事与微软（中国）求证，工作人员对此不置可否，并表示MSN此次“变脸”是正常的调整，这些调整中包括了即时通讯软件将统一采用Windows live品牌标识的内容。除了MSN8.0 beta的用户已经过渡到Windows live外，微软还将于近日面向所有MSN用户推出Windows Live Messenger的beta版本。
+　　此前，微软曾声称Windows Live Search将会在今年夏天推出Beta版，取代MSN Search，把Windows Live Search作为公司的旗舰搜索引擎，已有征兆微软将通过官方行动,深化Windows Live这一品牌。
+　　为了应对来自Google、雅虎等互联网大鳄的挑战，微软去年放言推出Windows操作系统等流行软件的网络版本，而Windows Live和Office Live正是这项计划的核心。比尔·盖茨也公开表示：“这是我们所认为的软件革命，对整个软件系统中的每一个部分来说，这都是一次重大的变革。”Windows Live口号就是“把一切结合起来”，其目标是把用户关心的内容融为一体。
+　　据悉，微软在线软件服务计划已经开始实施，同时，该公司还在Office Live、Windows Live Mail和MSN Spaces等在线服务中开展广告服务测试，全球已有20余家市场营销商为此次测试提供帮助。而为了丰富Live家族的阵容，以“牺牲”MSN为代价，自然也是个不错的选择。可以预见，即将于年底现身的Windows Vista，更能令Live家族如虎添翼。

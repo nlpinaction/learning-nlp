@@ -1,0 +1,326 @@
+
+
+自动滚动
+var theFloaters = new floaters();
+
+theFloaters.play();
+
+
+var formlist='';
+formlist=formlist+'';
+formlist=formlist+'自动滚动';
+theFloaters.addItem('formdiv2','document.body.clientWidth-106',0,formlist);
+
+theFloaters.play();
+
+TimeScrollCentAll();
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","休息");
+
+SetCookie("sports007MenLeft"," ")
+
+SetCookie("sports007MenRight"," ")
+
+搜狐直播员: 2006年5月7日 08：30 NBA季后赛 太阳VS湖人 敬请留意！！ [0:0 ] 
+搜狐直播员: 前瞻：太阳手握决战主场优势 贝尔解禁严防科比 [0:0 ] 
+搜狐直播员: 禅师无心之语激怒贝尔 纳什帮队友狂贬"小飞侠" [0:0 ] 
+搜狐直播员: 湖人太阳决战第七场 命运再次将科比送上PK台 [0:0 ] 
+搜狐直播员: 大家好！！ [0:0 ]
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","0");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 大家好，比赛很快就要开始了。 [0:0 ] 
+搜狐直播员: 太阳队首发阵容：琼斯，马里昂，迪奥，贝尔，纳什。 [0:0 ] 
+搜狐直播员: 湖人队首发阵容：奥多姆，沃顿，布朗，科比，帕克。 [0:0 ] 
+搜狐直播员: 比赛开始了。 [0:0 ] 
+搜狐直播员: 帕克控球，慢慢组织一下。 [0:0 ] 
+搜狐直播员: 布朗内线强攻跳投不中，纳什得到篮板。 [0:0 ]
+SetCookie("sports007centLeft","2");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 马里昂中距离跳投得分，迪奥助攻。 [2:0 ] 
+搜狐直播员: 沃顿突破跳投不中，琼斯得到篮板。 [2:0 ] 
+搜狐直播员: 马里昂跳投未果，科比得到篮板。 [2:0 ] 
+搜狐直播员: 沃顿上篮不中，纳什得到篮板。 [2:0 ]
+SetCookie("sports007centLeft","4");SetCookie("sports007centRight","0");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 迪奥上篮不中，马里昂补进得分。 [4:0 ]
+SetCookie("sports007centLeft","4");SetCookie("sports007centRight","2");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 科比右侧跳投回敬2分。 [4:2 ]
+SetCookie("sports007centLeft","6");SetCookie("sports007centRight","2");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 纳什面对奥多姆，上篮命中。 [6:2 ]
+SetCookie("sports007centLeft","6");SetCookie("sports007centRight","4");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 布朗上篮得分。 [6:4 ] 
+搜狐直播员: 布朗防守迪奥犯规了。 [6:4 ] 
+搜狐直播员: 琼斯跳投三分不中，布朗得到篮板。 [6:4 ]
+SetCookie("sports007centLeft","6");SetCookie("sports007centRight","6");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","6");SetCookie("sports007centRight","6");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 沃顿扣篮命中，布朗的妙传。 [6:6 ]
+SetCookie("sports007centLeft","9");SetCookie("sports007centRight","6");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","9");SetCookie("sports007centRight","6");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 纳什外围送出一记三分球命中。 [9:6 ] 
+搜狐直播员: 布朗传球失误了。 [9:6 ]
+SetCookie("sports007centLeft","11");SetCookie("sports007centRight","6");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","11");SetCookie("sports007centRight","6");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 纳什突破分球，迪奥上篮命中。 [11:6 ] 
+搜狐直播员: 帕克中距离跳投不中，琼斯得到篮板。 [11:6 ]
+SetCookie("sports007centLeft","13");SetCookie("sports007centRight","6");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","13");SetCookie("sports007centRight","6");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 纳什控球急停跳投命中。 [13:6 ] 
+搜狐直播员: 奥多姆上篮不中，马里昂得到篮板。 [13:6 ]
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","6");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 太阳队快攻，琼斯跳投三分命中。 [16:6 ] 
+搜狐直播员: 湖人队请求暂停，第一节还有7分09秒。 [16:6 ] 
+搜狐直播员: 科比2分1篮板。纳什7分1篮板2助攻。 [16:6 ] 
+搜狐直播员: 比赛继续。 [16:6 ] 
+搜狐直播员: 沃顿右侧传球失误了。 [16:6 ] 
+搜狐直播员: 纳什突破上篮不中，布朗得到篮板。 [16:6 ] 
+搜狐直播员: 沃顿外围拿球传球布朗跳投不中。 [16:6 ] 
+搜狐直播员: 纳什突破分球，马里昂接球失误，湖人队进攻。 [16:6 ] 
+搜狐直播员: 科比右翼跳投三分不中，帕克得到篮板。 [16:6 ]
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","8");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 奥多姆面对马里昂上篮得分。 [16:8 ]
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","10");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","16");SetCookie("sports007centRight","10");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 帕克断球成功扣篮得分。 [16:10 ]
+SetCookie("sports007centLeft","18");SetCookie("sports007centRight","10");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 迪奥右侧中距离跳投命中。 [18:10 ] 
+搜狐直播员: 帕克跳投三分不中，马里昂得到篮板。 [18:10 ] 
+搜狐直播员: 纳什突破分球，马里昂跳投不中，科比得到篮板。 [18:10 ] 
+搜狐直播员: 科比强行突破上篮造成贝尔的犯规。 [18:10 ]
+SetCookie("sports007centLeft","18");SetCookie("sports007centRight","11");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 科比走上了罚球线，两罚一中。 [18:11 ]
+SetCookie("sports007centLeft","20");SetCookie("sports007centRight","11");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","20");SetCookie("sports007centRight","11");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 托马斯扣篮命中，纳什助攻。 [20:11 ]
+SetCookie("sports007centLeft","20");SetCookie("sports007centRight","13");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 科比转身跳投回敬2分。 [20:13 ]
+SetCookie("sports007centLeft","22");SetCookie("sports007centRight","13");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 巴博萨突破中距离跳投命中。 [22:13 ] 
+搜狐直播员: 奥多姆跳投三分不中，托马斯得到篮板。 [22:13 ]
+SetCookie("sports007centLeft","24");SetCookie("sports007centRight","13");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","24");SetCookie("sports007centRight","13");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 托马斯上篮回敬2分。 [24:13 ] 
+搜狐直播员: 科比传球打中对方的脚出界，太阳队请求暂停，第一节还有2分38秒。 [24:13 ] 
+搜狐直播员: 科比5分1篮板。纳什7分1篮板3助攻。 [24:13 ] 
+搜狐直播员: 比赛继续。 [24:13 ] 
+搜狐直播员: 科比分球帕克，奥多姆底线上篮不中，马里昂得到篮板。 [24:13 ]
+SetCookie("sports007centLeft","26");SetCookie("sports007centRight","13");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 巴博萨快攻上篮命中。 [26:13 ] 
+搜狐直播员: 科比跳投中距离不中，巴博萨得到篮板。 [26:13 ] 
+搜狐直播员: 托马斯左翼跳投三分不中，沃顿得到篮板。 [26:13 ] 
+搜狐直播员: 布朗勾手未果，纳什得到篮板。 [26:13 ]
+SetCookie("sports007centLeft","28");SetCookie("sports007centRight","13");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 巴博萨的妙传，马里昂扣篮命中。 [28:13 ] 
+搜狐直播员: 布朗接应科比的分球上篮造成对方犯规。 [28:13 ]
+SetCookie("sports007centLeft","28");SetCookie("sports007centRight","15");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","28");SetCookie("sports007centRight","15");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 布朗走上了罚球线，两罚两中。 [28:15 ] 
+搜狐直播员: 帕克防守纳什犯规。 [28:15 ]
+SetCookie("sports007centLeft","30");SetCookie("sports007centRight","15");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 贝尔右侧中距离跳投得分，纳什助攻。 [30:15 ] 
+搜狐直播员: 布朗勾手不中。 [30:15 ] 
+搜狐直播员: 巴博萨上篮造成乔治犯规。 [30:15 ]
+SetCookie("sports007centLeft","32");SetCookie("sports007centRight","15");SetCookie("sports007centTime","第一节");
+
+SetCookie("sports007centLeft","32");SetCookie("sports007centRight","15");SetCookie("sports007centTime","第一节");
+ 
+搜狐直播员: 巴博萨两罚两中。 [32:15 ] 
+搜狐直播员: 科比右翼突破分球，帕克圈顶跳投三分不中，同时第一节比赛结束。 [32:15 ] 
+搜狐直播员: 科比5分1篮板。奥多姆2分。纳什7分1篮板4助攻。马里昂6分。 [32:15 ]
+SetCookie("sports007centLeft","32");SetCookie("sports007centRight","15");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","32");SetCookie("sports007centRight","15");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","32");SetCookie("sports007centRight","15");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007MenLeft","第一节：32分")
+
+SetCookie("sports007MenRight","第一节：15分")
+ 
+搜狐直播员: 第二节开始了。 [32:15 ] 
+搜狐直播员: 湖人队采取全场紧逼战术。 [32:15 ]
+SetCookie("sports007centLeft","34");SetCookie("sports007centRight","15");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","34");SetCookie("sports007centRight","15");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 巴博萨突破上篮命中。 [34:15 ] 
+搜狐直播员: 科比突破分球，乔治跳投三分不中，巴博萨得到篮板。 [34:15 ] 
+搜狐直播员: 豪斯中距离跳投未果，奥多姆得到篮板。 [34:15 ] 
+搜狐直播员: 马里昂防守犯规了。 [34:15 ]
+SetCookie("sports007centLeft","34");SetCookie("sports007centRight","17");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","34");SetCookie("sports007centRight","17");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 库克上篮回敬2分。 [34:17 ] 
+搜狐直播员: 巴博萨跳投不中，科比得到篮板。 [34:17 ]
+SetCookie("sports007centLeft","34");SetCookie("sports007centRight","19");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","34");SetCookie("sports007centRight","19");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 科比上篮得分。 [34:19 ]
+SetCookie("sports007centLeft","36");SetCookie("sports007centRight","19");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 巴博萨扣篮回敬2分。 [36:19 ]
+SetCookie("sports007centLeft","36");SetCookie("sports007centRight","21");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 库克上篮不中，自己得到篮板，再次上篮得分。 [36:21 ]
+SetCookie("sports007centLeft","38");SetCookie("sports007centRight","21");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","38");SetCookie("sports007centRight","21");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 巴博萨上篮再添2分。 [38:21 ]
+SetCookie("sports007centLeft","38");SetCookie("sports007centRight","24");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","38");SetCookie("sports007centRight","24");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","38");SetCookie("sports007centRight","24");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 科比外围跳投三分命中。 [38:24 ] 
+搜狐直播员: 豪斯上篮不中，沃顿得到篮板。 [38:24 ] 
+搜狐直播员: 库克跳投三分不中，迪奥得到篮板。 [38:24 ] 
+搜狐直播员: 巴博萨跳投造成奥多姆的犯规。 [38:24 ] 
+搜狐直播员: 官方暂停时间到了，第二节还有8分55秒。 [38:24 ] 
+搜狐直播员: 科比10分3篮板。纳什7分1篮板4助攻 [38:24 ]
+SetCookie("sports007centLeft","38");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","38");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 托马斯技术犯规，科比罚命中。 [38:25 ]
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","25");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 巴博萨走上了罚球线，三罚全中。 [41:25 ] 
+搜狐直播员: 奥多姆上篮不中，马里昂快攻上篮不中，奥多姆控制篮板。 [41:25 ]
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","27");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 奥多姆突破上篮得分。 [41:27 ] 
+搜狐直播员: 贝尔跳投三分不中，科比得到篮板。 [41:27 ]
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","29");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","41");SetCookie("sports007centRight","29");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 库克中距离跳投得分。 [41:29 ]
+SetCookie("sports007centLeft","43");SetCookie("sports007centRight","29");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 迪奥突破上篮得分。 [43:29 ]
+SetCookie("sports007centLeft","43");SetCookie("sports007centRight","32");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 科比外围送出一记三分命中。 [43:32 ]
+SetCookie("sports007centLeft","45");SetCookie("sports007centRight","32");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 纳什中距离回敬2分。 [45:32 ] 
+搜狐直播员: 科比传球失误。 [45:32 ] 
+搜狐直播员: 纳什跳投三分不中，奥多姆得到篮板。 [45:32 ]
+SetCookie("sports007centLeft","45");SetCookie("sports007centRight","33");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","45");SetCookie("sports007centRight","33");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 太阳队非法防守犯规，科比罚球命中。 [45:33 ]
+SetCookie("sports007centLeft","45");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","45");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 科比右侧再度三分命中。 [45:36 ]
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","48");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 贝尔右翼回敬一记三分球命中，纳什助攻。 [48:36 ] 
+搜狐直播员: 科比进攻犯规了。 [48:36 ] 
+搜狐直播员: 太阳队请求暂停，第二节还有5分47秒。 [48:36 ] 
+搜狐直播员: 科比18分3篮板1助攻。纳什9分1篮板5助攻。 [48:36 ] 
+搜狐直播员: 比赛继续开始。 [48:36 ]
+SetCookie("sports007centLeft","50");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","50");SetCookie("sports007centRight","36");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 托马斯扣篮命中。 [50:36 ] 
+搜狐直播员: 科比跳投不中，托马斯得到篮板。 [50:36 ] 
+搜狐直播员: 沃顿断球成功，巴博萨失误。 [50:36 ] 
+搜狐直播员: 科比右翼跳投三分不中，巴博萨得到篮板。 [50:36 ] 
+搜狐直播员: 纳什上篮不中，乌贾基茨得到篮板。 [50:36 ] 
+搜狐直播员: 帕克进攻犯规了。 [50:36 ] 
+搜狐直播员: 迪奥转身跳投不中，布朗得到篮板。 [50:36 ] 
+搜狐直播员: 布朗篮下跳投造成托马斯的犯规。 [50:36 ]
+SetCookie("sports007centLeft","50");SetCookie("sports007centRight","38");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","50");SetCookie("sports007centRight","38");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 布朗两罚两中。 [50:38 ] 
+搜狐直播员: 纳什跳投三分不中，沃顿得到篮板。 [50:38 ] 
+搜狐直播员: 帕克左翼跳投三分不中，马里昂得到篮板。 [50:38 ] 
+搜狐直播员: 纳什突破让帕克断球。 [50:38 ] 
+搜狐直播员: 奥多姆的三分球不中。 [50:38 ] 
+搜狐直播员: 贝尔左翼跳投三分未果，布朗得到篮板。 [50:38 ] 
+搜狐直播员: 湖人队请求暂停，第二节还有2分41秒。 [50:38 ] 
+搜狐直播员: 科比18分3篮板1助攻。纳什9分1篮板5助攻。 [50:38 ] 
+搜狐直播员: 比赛继续。 [50:38 ] 
+搜狐直播员: 马里昂防守犯规。 [50:38 ]
+SetCookie("sports007centLeft","50");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 科比中距离跳投命中。 [50:40 ]
+SetCookie("sports007centLeft","52");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 迪奥突破分球，马里昂上篮得分。 [52:40 ] 
+搜狐直播员: 沃顿跳投不中，纳什得到篮板。 [52:40 ]
+SetCookie("sports007centLeft","54");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 托马斯中距离跳投得分，马里昂助攻。 [54:40 ] 
+搜狐直播员: 科比跳投不中，纳什得到篮板。 [54:40 ] 
+搜狐直播员: 迪奥上篮造成沃顿的犯规。 [54:40 ]
+SetCookie("sports007centLeft","56");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","56");SetCookie("sports007centRight","40");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 迪奥走上了罚球线，两罚两中。 [56:40 ]
+SetCookie("sports007centLeft","56");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","56");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 帕克上篮回敬2分。 [56:42 ]
+SetCookie("sports007centLeft","58");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","58");SetCookie("sports007centRight","42");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 迪奥面对布朗中距离跳投命中。 [58:42 ]
+SetCookie("sports007centLeft","58");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","58");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 科比跳投三分命中。 [58:45 ]
+SetCookie("sports007centLeft","60");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+
+SetCookie("sports007centLeft","60");SetCookie("sports007centRight","45");SetCookie("sports007centTime","第二节");
+ 
+搜狐直播员: 迪奥中距离跳投得分，托马斯助攻。 [60:45 ] 
+搜狐直播员: 上半场比赛结束。 [60:45 ] 

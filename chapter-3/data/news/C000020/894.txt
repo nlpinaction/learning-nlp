@@ -1,0 +1,26 @@
+
+　　推论题(Inference)：文章中有些论点/观点没有明确阐述，但却强烈暗示出来了。例如， 
+文章论述的结果引出了，推论题就可能就造成结果的起因提问。如果文中有比较，推论题就可能问做比较的基础是什么。如果文中有对某一新现象的明确阐述，推论题就可能要求推论旧现象的特征。推论题虽然是传统题型，但难度很大，需要考生花大功夫准备。
+　　例题：
+　　Passage：…The nineteenth century brought with it a burst of new discoveries 
+and inventions that revolutionized the candle industry and made lighting 
+available to all. In the early-to-mid-nineteenth century, a process was 
+developed to refine tallow (fat from animals) with alkali and sulfuric acid. The 
+result was a product called stearin. Stearin is harder and burns longer than 
+unrefined tallow. This breakthrough meant that it was possible to make tallow 
+candles that would not produce the usual smoke and rancid odor. Stearins were 
+also derived from palm oils, so vegetable waxes as well as animal fats could be 
+used to make candles…
+　　Which of the following can be inferred from paragraph 1 about candles 
+before the nineteenth century?
+　　a)They did not smoke when they were burned.
+　　b)They produced a pleasant odor as they burned.
+　　c)They were not available to all.
+　　d)They contained sulfuric acid.
+　　[解析]
+　　正确答案是C。这一段的第一句就告诉我们：19世纪的一些新发明和发现也对蜡烛工业产生了一次巨大的革命，这次革命使得所有的人都使用上了照明。从这句话中我们可以得到两层信息：19世纪蜡烛工业有了一次革命性的变化；在没有这次变革之前，也就是在19世纪以前，照明并不是所有人都能使用的。因为作者在谈论的是蜡烛的变革，所以这里所说的“lighting照明”一定是与蜡烛有关的照明，其实也就是告诉我们19世纪以前并不是所有人都能够使用到蜡烛带来的照明，这一推论出的信息正好与选项C吻合。
+　　文章第一句同时也是一个时间的分水岭，告诉我们19世纪蜡烛工业的变革是怎么样的。“在19世纪早期到中期，蜡烛处理工艺使用alkali和sulfuric 
+acid来提炼tallow，提炼后的产品就是stearin，stearin比未经提炼的tallow坚硬而且燃烧得更久。这一巨大的变化意味着制造出不产生烟和rancid味道的蜡烛是可能的。”在这里的一个关键词是rancid，意思是（油脂食物，其味道、气味）不新鲜的；腐臭的；正好与选项b的pleasant 
+odor相反。19世纪前的蜡烛产生usual smoke（经常有烟），这与选项a相反。Sulfuric 
+acid是19世纪用来处理fallow的材料，在19世纪以前是没有使用的，这与选项d相反。
+　　（来源：搜狐教育社区）

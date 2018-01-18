@@ -1,0 +1,4 @@
+　　5月8日，海外报道，微软表示，将于本周二发布三个已发现的安全漏洞补丁。
+　　这三个已发现的安全漏洞中，其中有两个会影响到Windows系统的正常运行，另外一个涉及到微软Exchange邮件服务器软件。不过在安装Exchange补丁后，将有效减少邮件地址欺诈行为。
+　　同时，微软还发布了“Windows恶意软件清除工具”升级版。此外，还极有可能发布一项与IE浏览器有关的升级。因为最近一段时间，业界人士指出IE存在数个漏洞。
+　　微软5月的安全公告可在微软网站提供手动下载，并将通过该公司的自动升级服务程序发放到用户机器中，这些自动升级服务包括Microsoft Update、Windows Update、Windows Server Update Services和Software Update Services等.

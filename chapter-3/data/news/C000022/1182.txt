@@ -1,0 +1,30 @@
+&nbsp;function processForm(form){var xf=0;hc=new Array(50);var roll_call=hc.length;for (i=roll_call;i>0;i--){hc[i-1]=0};if (form.c1[0].checked==1) hc[0]=5;if (form.c1[1].checked==1) hc[1]=4;if (form.c1[2].checked==1) hc[2]=3;if (form.c1[3].checked==1) hc[3]=2;if (form.c1[4].checked==1) hc[4]=1;if (form.c2[0].checked==1) hc[5]=5;if (form.c2[1].checked==1) hc[6]=4;if (form.c2[2].checked==1) hc[7]=3;if (form.c2[3].checked==1) hc[8]=2;if (form.c2[4].checked==1) hc[9]=1;if (form.c3[0].checked==1) hc[10]=5;if (form.c3[1].checked==1) hc[11]=4;if (form.c3[2].checked==1) hc[12]=3;if (form.c3[3].checked==1) hc[13]=2;if (form.c3[4].checked==1) hc[14]=1;if (form.c4[0].checked==1) hc[15]=5;if (form.c4[1].checked==1) hc[16]=4;if (form.c4[2].checked==1) hc[17]=3;if (form.c4[3].checked==1) hc[18]=2;if (form.c4[4].checked==1) hc[19]=1;if (form.c5[0].checked==1) hc[20]=5;if (form.c5[1].checked==1) hc[21]=4;if (form.c5[2].checked==1) hc[22]=3;if (form.c5[3].checked==1) hc[23]=2;if (form.c5[4].checked==1) hc[24]=1;if (form.c6[0].checked==1) hc[25]=5;if (form.c6[1].checked==1) hc[26]=4;if (form.c6[2].checked==1) hc[27]=3;if (form.c6[3].checked==1) hc[28]=2;if (form.c6[4].checked==1) hc[29]=1;for (i=roll_call;i>0;i--){xf+=hc[i-1]};	var xx=0;hc1=new Array(50);var roll_call1=hc1.length;for (j=roll_call1;j>0;j--){hc1[j-1]=0};if (form.c7[0].checked==1) hc1[0]=5;if (form.c7[1].checked==1) hc1[1]=4;if (form.c7[2].checked==1) hc1[2]=3;if (form.c7[3].checked==1) hc1[3]=2;if (form.c7[4].checked==1) hc1[4]=1;if (form.c8[0].checked==1) hc1[5]=5;if (form.c8[1].checked==1) hc1[6]=4;if (form.c8[2].checked==1) hc1[7]=3;if (form.c8[3].checked==1) hc1[8]=2;if (form.c8[4].checked==1) hc1[9]=1;if (form.c9[0].checked==1) hc1[10]=5;if (form.c9[1].checked==1) hc1[11]=4;if (form.c9[2].checked==1) hc1[12]=3;if (form.c9[3].checked==1) hc1[13]=2;if (form.c9[4].checked==1) hc1[14]=1;if (form.c10[0].checked==1) hc1[15]=5;if (form.c10[1].checked==1) hc1[16]=4;if (form.c10[2].checked==1) hc1[17]=3;if (form.c10[3].checked==1) hc1[18]=2;if (form.c10[4].checked==1) hc1[19]=1;if (form.c11[0].checked==1) hc1[20]=5;if (form.c11[1].checked==1) hc1[21]=4;if (form.c11[2].checked==1) hc1[22]=3;if (form.c11[3].checked==1) hc1[23]=2;if (form.c11[4].checked==1) hc1[24]=1;if (form.c12[0].checked==1) hc1[25]=5;if (form.c12[1].checked==1) hc1[26]=4;if (form.c12[2].checked==1) hc1[27]=3;if (form.c12[3].checked==1) hc1[28]=2;if (form.c12[4].checked==1) hc1[29]=1;for (j=roll_call1;j>0;j--){xx+=hc1[j-1]};	form.answer.value="你的得分为"+xf+","+xx+"分";}
+
+
+
+
+你是否有团队技巧？&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+通常人们认为这只是团队领导的事情，其他成员只需完成自己本职工作即可。但事实上，在一个高效的团队中，每个成员都会主动执行上述行为。
+　
+
+当我是小组成员时:
+1、我提供事实和表达自己的观点、意见、感受和信息以帮助小组讨论。（提供信息和观点者） 总是这样  经常这样  有时这样  很少这样  从不这样 
+2、我从其他小组成员那里征求事实、信息、观点、意见和感受以帮助小组讨论。（寻求信息和观点者） 总是这样  经常这样  有时这样  很少这样  从不这样 
+3、我提出小组后面的工作计划，并提醒大家注意需完成的任务，以此把握小组的方向。我向不同的小组成员分配不同的责任。（方向和角色定义者） 总是这样  经常这样  有时这样  很少这样  从不这样 
+4、我集中小组成员所作的相关观点或建议，并总结、复述小组所讨论的主要论点。（总结者） 总是这样  经常这样  有时这样  很少这样  从不这样 
+5、我带给小组活力，鼓励小组成员努力工作以完成我们的目标。（鼓舞者） 总是这样  经常这样  有时这样  很少这样  从不这样 
+6、我要求他人对小组的讨论内容进行总结，以确保他们理解小组决策，并了解小组正在讨论的材料。（理解情况检查者） 总是这样  经常这样  有时这样  很少这样  从不这样 
+7、我热情鼓励所有小组成员参与，愿意听取他们的观点，让他们知道我珍视他们对群体的贡献。（参与鼓励者） 总是这样  经常这样  有时这样  很少这样  从不这样 
+8、我利用良好的沟通技巧帮助小组成员交流，以保证每个小组成员明白他人的发言。（促进交流者） 总是这样  经常这样  有时这样  很少这样  从不这样 
+9、我会讲笑话，并会建议以有趣的方式工作，借以减轻小组中的紧张感，并增加大家一同工作的乐趣。（释放压力者） 总是这样  经常这样  有时这样  很少这样  从不这样 
+10、我观察小组的工作方式，利用我的观察去帮助大家讨论小组如何更好地工作。（进程观察者） 总是这样  经常这样  有时这样  很少这样  从不这样 
+11、我促成有分歧的小组成员进行公开讨论，以协调思想，增进小组凝聚力。当成员们似乎不能直接解决冲突时，我会进行调停。（人际问题解决者） 总是这样  经常这样  有时这样  很少这样  从不这样 
+12、我向其他成员表达支持、接受和喜爱，当其他成员在小组中表现出建设性行为时，我给予适当的赞扬。（支持者与表扬者） 总是这样  经常这样  有时这样  很少这样  从不这样 
+　   
+以上1-6题为一组，7-12题为一组，将两组的得分相加对照下列解释：
+　 （6,6）只为完成工作付出了最小的努力，总体上与其他小组成员十分疏远，在小组中不活跃，对其他人几乎没有任何影响。
+　 （6,30）你十分强调与小组保持良好关系，为其他成员着想，帮助创造舒适、友好的工作气氛，但很少关注如何完成任务。
+　 （30,6）你着重于完成工作，却忽略了维护关系，
+　 （18,18）你努力协调团队的任务与维护要求，终于达到了平衡。你应继续努力，创造性地结合任务与维护行为，以促成最优生产力。
+　 （30,30）祝贺你，你是一位优秀的团队合作者，并有能力领导一个小组。 当然，一个团队的顺利运行除了以上两种行为以外，还需要许多别的技巧，但这两种最基本，且较易掌握。如果你得分比较低，也不要气馁，只要参照上面做法，就会有所提高。搜狗(www.sogou.com)搜索:“团队”,共找到13,610,409
+个相关网页.

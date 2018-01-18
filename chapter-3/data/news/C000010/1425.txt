@@ -1,0 +1,9 @@
+　　BPM(企业流程管理，Business Process Management) 与 SOA (服务导向架构，Service Oriented Architecture)各自历经多年的发展，越来越成为人们的焦点。众多厂商成为了SOA技术架构的推动者，其中包括IBM、BEA、HP、Oracle和SAP。SOA可以看作是B/S模式、XML/Web Service技术与管理软件的结合。它通过组合单独业务和流程实现复杂的业务应用，而这些业务功能和流程称为服务， SOA把业务流程视为独立于应用程序及其运行的平台的可复用组件。
+　　从SOA概念提出以来，越来越多的主流厂商开始了BPM与SOA的应用。今年3月，BEA收购Fuego扩展SOA到BPM软件，以此使用新的BPM升级SOA平台。2月，HP和Oracle集团宣布，HP的服务咨询和集成（Services Consulting &amp; Integration）将会同Oracle的Fusion中间件，加入到它的SOA的投资组合以及HP OpenView管理软件套件，以Fusion融合SOA。去年，Oracle收购了BPM专业公司Collaxa；SAP重新设计软件，以便集成自由版本的面向BPM的中间件NetWeaver。
+　　除平台提供商以外，开源厂商也试图占领拥有自己的SOA却缺乏服务的市场。JBoss公司在2005年10月发布的企业过程管理引擎，围绕业务过程执行语言（Business Process Execution Language BPEL）提供了一种可插拔的体系结构、扩展的任务管理以及新的可扩展性。BPEL虽然是用来编排Web服务的，但依然适合用来集成，而不是深入的业务逻辑。
+　　计世资讯（CCW Research）认为，BPM无论从技术还是方法上都将促进SOA的发展。在此过程中，大型平台厂商IBM、BEA、SAP、Oracle等将会尝试建立一种新SOA标准；而开源厂商努力构建一套工具，不把自己禁锢于用一种方法构建SOA。
+　　从BPM的IT需求与SOA技术角度上看，BPM与SOA的融合也具有先天优势。BPM的范围覆盖了企业运营的各个环节，如生产、销售、物流、财务等企业经营活动，甚至延伸到供应商和经销商。其产品开发包括6个部分，从基础开始为：开发语言，如BPEL、Java等；BPM服务器，包含EAI/BPM平台产品；BPM工具，包括用户接口工具、过程建模工具、软件需求工具等；BPM套件；BPM知识架构；BPM系统和其应用。由此可见，BPM的IT需求与SOA技术具有以下相似点：
+　　1．BPM涵盖范围广泛，需要完成因事件触发的完全不相干的事件，此特点正与SOA的松散耦合特点相吻合。
+　　2．BPM需要多部门、区域的协同。在此中环境中网络环境的安全性可由SOA技术构架中的WS-Security、LDAP(Lightweight Directory Access Protocol-轻量级目录访问协议)、PKI(Public Key Infrastructure-公钥基础设施)架构和数位签章等机制来完成。
+　　3．BPM系统构成元素种类繁多而复杂，包含分布于各模块的企业逻辑和规则。而SOA可以看作是B/S模式、XML/Web Service技术与管理软件的延续。当前多数SOA环境能提供系统管理工具给系统管理员使用，协助管理SOA架构下模块的安装、移除、启动等。目前能够实现SOA的产品包括：Microsoft Biztalk Server, webMethods Business Integrator, IBM SeeBeyond, TIBCO和Vignette。在SOA提出以前，大部分BPM产品在流程图中采用自有定义流程逻辑。
+　　4．企业BPM系统的实施往往从最简单的开始，逐渐提升为复杂的BPM系统。而SOA模块化的特性正好吻合了此特性。

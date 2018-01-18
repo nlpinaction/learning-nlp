@@ -1,0 +1,3 @@
+　　【eNet硅谷动力消息】硅谷动力5月2日消息 据悉，亚马逊公司将采用微软的Windows Live以增强 Alexa工具条和A9搜索引擎的功能。
+　　此前，亚马逊采用Google的搜索引擎进行搜索。据亚马逊公司内部的消息称，此前A9除了采用Google搜索功能外还采用Windows Live。但是，现在，公司决定在A9和Alexa中放弃使用Google搜索功能，全面使用Windows Live，Windows Live成为这两种服务的唯一搜索引擎。
+　　本周一，亚马逊公司没有透露公司是否会重新签定与Google在A9和Alexa中的使用关系。在过去两年内，微软一直在致力于改善搜索引擎技术，旨在同Google进行竞争。Windows Live搜索引擎，尚处于测试阶段，最终将取代MSN搜索工具。
