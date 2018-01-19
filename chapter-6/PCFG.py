@@ -9,8 +9,8 @@ import os
 
 if __name__ == '__main__':
 
-    goods_des = '他骑自行车去了菜市场。'
-    seg_list = jieba.cut(goods_des, cut_all=False, HMM=True)
+    string = '他骑自行车去了菜市场。'
+    seg_list = jieba.cut(string, cut_all=False, HMM=True)
     seg_str = ' '.join(seg_list)
 
     print(seg_str)
