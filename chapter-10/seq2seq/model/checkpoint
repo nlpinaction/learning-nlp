@@ -1,0 +1,6 @@
+model_checkpoint_path: "nlp_chat.ckpt-203802"
+all_model_checkpoint_paths: "nlp_chat.ckpt-203402"
+all_model_checkpoint_paths: "nlp_chat.ckpt-203502"
+all_model_checkpoint_paths: "nlp_chat.ckpt-203602"
+all_model_checkpoint_paths: "nlp_chat.ckpt-203702"
+all_model_checkpoint_paths: "nlp_chat.ckpt-203802"
