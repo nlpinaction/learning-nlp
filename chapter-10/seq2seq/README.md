@@ -1,4 +1,4 @@
-# dynamic-seq2seq
+# seq2seq
 ### 基于中文语料和dynamic_rnn的seq2seq模型
 **需要 python3+ tensorflow-1.0**  
 **由于tensorflow升级 本教程只适合tesorflow-1.0版本**  
