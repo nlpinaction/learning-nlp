@@ -34,5 +34,5 @@ if __name__ == '__main__':
 
     sentence = parser.raw_parse(seg_str)
     for line in sentence:
-        print(line)
+        print(line.leaves())
         line.draw()
