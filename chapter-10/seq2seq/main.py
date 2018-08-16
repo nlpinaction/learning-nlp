@@ -167,8 +167,8 @@ class Seq2seq():
                     self.clearModel()
                     total_time = 0
                     for i, (e_in, dt_pred) in enumerate(zip(
-                        fd[self.model.decoder_targets].T,
-                        sess.run(self.model.decoder_prediction_train, fd).T
+                            fd[self.model.decoder_targets].T,
+                            sess.run(self.model.decoder_prediction_train, fd).T
                     )):
                         print('  sample {}:'.format(i + 1))
                         print('    dec targets > {}'.format(e_in))
@@ -233,8 +233,8 @@ class Seq2seq():
                     sess, checkpoint_path, global_step=self.model.global_step)
 
                 for i, (e_in, dt_pred) in enumerate(zip(
-                    fd[self.model.decoder_targets].T,
-                    sess.run(self.model.decoder_prediction_train, fd).T
+                        fd[self.model.decoder_targets].T,
+                        sess.run(self.model.decoder_prediction_train, fd).T
                 )):
                     print('    sample {}:'.format(i + 1))
                     print('    dec targets > {}'.format(e_in))
@@ -282,7 +282,7 @@ class Seq2seq():
 
                 action = False
                 segements = self.segement(inputs_strs)
-                #inputs_vec = [enc_vocab.get(i) for i in segements]
+                # inputs_vec = [enc_vocab.get(i) for i in segements]
                 inputs_vec = []
                 for i in segements:
                     inputs_vec.append(self.enc_vocab.get(i, self.model.UNK))
@@ -349,8 +349,8 @@ class Seq2seq():
                         sess.run(self.model.loss, fd)))
 
                     for i, (e_in, dt_pred) in enumerate(zip(
-                        fd[self.model.decoder_targets].T,
-                        sess.run(self.model.decoder_prediction_train, fd).T
+                            fd[self.model.decoder_targets].T,
+                            sess.run(self.model.decoder_prediction_train, fd).T
                     )):
                         print('  sample {}:'.format(i + 1))
                         print('    dec targets > {}'.format(e_in))
@@ -366,4 +366,3 @@ if __name__ == '__main__':
             seq_obj.train()
         elif sys.argv[1] == 'infer':
             seq_obj.predict()
-

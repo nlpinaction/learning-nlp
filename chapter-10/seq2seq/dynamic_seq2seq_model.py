@@ -93,7 +93,7 @@ class dynamicSeq2seq():
             dtype=tf.int32,
             name='encoder_inputs',
         )
-        #self.encoder_inputs = tf.Variable(np.ones((10, 50)).astype(np.int32))
+        # self.encoder_inputs = tf.Variable(np.ones((10, 50)).astype(np.int32))
         self.encoder_inputs_length = tf.placeholder(
             shape=(None,),
             dtype=tf.int32,
@@ -115,7 +115,7 @@ class dynamicSeq2seq():
         with tf.name_scope('DecoderTrainFeeds'):
             sequence_size, batch_size = tf.unstack(
                 tf.shape(self.decoder_targets))
-            #batch_size, sequence_size = tf.unstack(tf.shape(self.decoder_targets))
+            # batch_size, sequence_size = tf.unstack(tf.shape(self.decoder_targets))
 
             EOS_SLICE = tf.ones([1, batch_size], dtype=tf.int32) * self.EOS
             PAD_SLICE = tf.ones([1, batch_size], dtype=tf.int32) * self.PAD
@@ -123,7 +123,7 @@ class dynamicSeq2seq():
             self.decoder_train_inputs = tf.concat(
                 [EOS_SLICE, self.decoder_targets], axis=0)
             self.decoder_train_length = self.decoder_targets_length + 1
-            #self.decoder_train_length = self.decoder_targets_length
+            # self.decoder_train_length = self.decoder_targets_length
 
             decoder_train_targets = tf.concat(
                 [self.decoder_targets, PAD_SLICE], axis=0)
@@ -148,7 +148,6 @@ class dynamicSeq2seq():
 
     def _init_embeddings(self):
         with tf.variable_scope("embedding") as scope:
-
             sqrt3 = math.sqrt(3)
             initializer = tf.random_uniform_initializer(-sqrt3, sqrt3)
 
