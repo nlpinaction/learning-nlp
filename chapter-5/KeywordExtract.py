@@ -14,7 +14,7 @@ def get_stopword_list():
     # 停用词表存储路径，每一行为一个词，按行读取进行加载
     # 进行编码转换确保匹配准确率
     stop_word_path = './stopword.txt'
-    stopword_list = [sw.replace('\n', '') for sw in open(stop_word_path).readlines()]
+    stopword_list = [sw.replace('\n', '') for sw in open(stop_word_path,encoding='utf-8').readlines()]
     return stopword_list
 
 
@@ -55,7 +55,7 @@ def word_filter(seg_list, pos=False):
 def load_data(pos=False, corpus_path='./corpus.txt'):
     # 调用上面方式对数据集进行处理，处理后的每条数据仅保留非干扰词
     doc_list = []
-    for line in open(corpus_path, 'r'):
+    for line in open(corpus_path, 'r',encoding='utf-8'):
         content = line.strip()
         seg_list = seg_to_list(content, pos)
         filter_list = word_filter(seg_list, pos)
